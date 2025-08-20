@@ -5,6 +5,7 @@ Este repositorio contiene el trabajo desarrollado en el marco del **Trabajo de F
 El proyecto combina la **creación de datasets propios**, su limpieza y estructuración, junto con la **entrenación y evaluación de modelos de lenguaje** usando frameworks modernos en Google Colab.  
 
 **Máster en Robótica e Inteligencia Artificial**
+
 **Universidad de León**
 
 ---
