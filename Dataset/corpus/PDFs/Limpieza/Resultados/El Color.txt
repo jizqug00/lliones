@@ -1,0 +1,296 @@
+Estudiu de color del cuartel que
+representa al antigu Reinu de Llión
+nel escudu d’Hespaña.
+Data d’espublicación: Xuniu. Introdución. ¿Qué ye’l color?. Cóm y purqué se creyóu la codificación de los colores.. Prencipales sistemas de codificación de colores.. La perceición del color: Fautores esternos.. La emportancia del color nos seres vivos.. El color nel escudu d’Hespaña, el cuartel del antigu reinu de Llión.. ¿Cuál ye’l color púrpura?. Estudios comparantes de la carga haráldica del cuartel del antigu Reinu de
+Llión..- ¿Qué ye’l color?
+Percibimos el color cuandu la lluz entreaciona cul nuesu gueyu y ésti cul celebru.
+La lluz componse d’ondas eletromanéticas que son capaces de cautare la retina
+homana.
+Toda superficie allumbrada asorbe parte d’esas ondas eletromanéticas y reflexa las
+restantes, estas son cautadas pul gueyu homanu i entrepretadas pul celebru ne forma
+de colores.
+Nun tolas ondas llumínicas son cautadas pul gueyu homanu. Solu percibe aqueillas
+comprendidas ente 380nm y 760nm. Un nanómetru ye la milmillonésima parte
+d’un metru.
+Acabamos de dicire que’l celebru entrepreta las ondas eletromanéticas y pur eso ca
+endevíu entrepreta’l color de xeitu suxetivu.
+Pur ésta razón, a la hora de plasmare’l color que vemos nuna
+superficie, podemos alcuentranos cun dalgunas desemeyanzas ente’l color que víu
+ unu ou outru endevíu.
+Alcordemos los casos en que unu diz qu’ese color ye la gama del gris y otru velu la
+gama del azul.
+Nel nuesu día a día, el color, amás de tare omnipresente ne toos los ámbetos, puede
+afeutanos ou influyire na nuesa vida cotidiana.
+Pur esu cuandu queremos tresmitire dalgu debemos riparare mueitu ne “la sicoloxía
+del color”.
+Oyímos falare de colores cáldios que nos tresmiten cerquenía, positividá, tenrura, ou
+de colores fríos, seridá, frescanza, etc.
+Estudios sobro la influyencia del color tán presentes na publecidá, marketing, diseñu y
+códigos informativos..- Cómu y purqué creyéuse la
+codificación de los colores.
+Los condensadores y resistencias utilizaos na nicial eletrónica fonun los prencipales
+responsables de la imprentación los códigos de colores.
+Desemeyare códigos numbéricos y alfabéticos resultaba poucu efeutivu, refusu y
+mueitas vegadas emposible de lliere nun circuitu.
+Pur eillu ideyóuse l’usu del color comu códigu identificativu, asinando unos colores
+determinaos a los desemeyantes valires de ca condensador ou resistencia.
+Fou na década los años del siegru pasáu, n’ Estaos Uníos, cuandu Radio
+Manufacture’s Association utilizóu un códigu de colores p’avitere que al soldare, los
+condensadores ou
+resistencias, restaran
+incultos ou d’abangosa
+lleutura los valires de ca
+componente.
+Cul pasu del tiempu, los
+códigos de colores, fonun
+evolucionando y
+adautándose a
+desemeyantes necesidades y
+usos, abarcuciando multitú
+d’aplicaciones, chegando a
+sere emprescindibles nel
+campu visual de las ñuevas
+teunoloxías y na impresión
+d’un color en cualesquier soporte..- Prencipales sistemas de
+codificación de colores.
+Esisten mueitos sistemas pa codificare los colores.
+Dáu que los soportes, pantallas, papel, texíu, etc., evoluciononun, dalgunos sistemas
+quedonun osoletos, perdiendo las sua vixencia y alquiriendo emportancia outros que
+adautábanse más y miyore a las esixencias las ñuevas teunoloxías.
+Guei, los prencipales sistemas de códigu de color que s’utilizan son estos:
+● RGB: Ye un sistema de códigos basáu na mestricha de los colores primarios:
+Encarnáu, Verde y Azul, que sigún la proporción utilizada
+de ca color, llograremos colores ou tonos desemeyantes. A ca proporción
+ye un valir numbéricu que va del, que representa la ausencia del
+color, al que representa la presencia ausoluta del color.
+L’orde los valires curremponden a las aniciales los colores n’ingalés Red,
+Green y Blue. Comu resultáu llogramos,. tonos desemeyantes, fruitu
+la combinación de valires del encarnáu pur valires del verde y pur
+valires del azul. Esti sistema de códigu RGB utilízase de xeitu xeneral en
+monitores, pantallas, móviles.
+● HEX, sistema hexadecimal. Sistema numbéricu ne base. Empleya una
+estaya de númberos del al y la intensidá tá cifrada pur lletras. Esti sistema
+tá mui venceyáu cuna informática, utilizándose na mayoría las páxinas Web.
+● HSL: Las suas siglas curremponden a los parámetros n’ ingalés Tonu,
+saturación y lluminosidá, facilitando la creyación de paletas y
+armonías de colores.
+● Estaya de grises empleyada na imax dixital, na que ca píxel ye
+representáu pur un valir dalgualín a una graduación de gris, útil pa calibrare
+monitores y escáneres.
+● CMYK: Las suas siglas curremponden a los colores Cyan, Maxenta,
+Yellow y Key utilizaos nos materiales impresos comu’l papel.
+Perfeutu pa banners ou cartelos publecitarios.
+● HSB. Hue, Saturation y Brightness. Mui
+asemeyante al HSL magar cun piqueñas desemeyas en cuantas la saturación,
+la lluminosidá y’l brillu sobro tou.
+● Pantone. Son tintas direutas, colores precisos, consistentes, calibraos,
+utilizaos mayoritariamente nel diseñu corporativu.
+● CIELAB: Sistema desendolcáu pula Commission Internationale d'Eclairage, razón pula cual abáyase CIE..- La perceición del color: Fautores
+esternos.
+Bien, agora tenemos una ideya xeneral de lu que ye’l color y de la emportancia de
+establecere unos criterios pa representare un tonu ou color cun independencia la
+perceición presonal de cadún.
+Na nuesa perceición del color entrevienen una serie de fautores esternos que pueden
+facere qu’un miesmu color paeza dalgu desemeyante:
+● La suxetividá del oservador: La intriquidencia del gueyu homanu varia d’una
+presona a outra.
+● El sou estáu d’ánimu: Un oservador, dipendiendo del sou estáu d’ánimu, puede
+sintire desemeyantes matices d’un miesmu color: más vivu ou apacazáu, más
+craru ou foscu, más chamativu. etc.
+● Del ángulu de visión. Un miesmu oxetu víu dende desemeyantes ángulos
+puede variare llexeiramente la sua tonalidá.
+● Fuente de lluz. Ye’l fautor más emportante na perceición del color. Los tonos
+podrán variare sigún seya la lluz que los
+illumine.
+● Soporte del color. La perceición del tonu puede variare sigún el material,
+testura, brillu, etc. del soporte.
+● Arrodiu. Esiste una estreita rellación ente’l color y’l sou fondu. Los tonos de
+fondu ou’l contraste pueden amatare ou acentuare’l tonu oserváu.
+● Tamañu la sua superficie. Un miesmu tonu qu’acoche una gran ária puede
+chegar a oservase más brillante y vivu. ¿Cuántas vegadas elliximos un color
+del mostrariu pa pintare un cuartu y una vegada pintada, esi color volvéusenos
+estridente y entrecadente a la vista?
+● Artitú. Efeutos rellacionaos cunas estayas d’osíxenu..- La emportancia del color nos seres
+vivos.
+Esiste una estreita rellación ente las funciones biolóxicas y’l color na ñaturaleza.
+● Comunicación: El color ye utilizáu pulos seres vivos pa comunicase.
+● Selleición sesual. El color trupuu, brillante, atraitivu, etc. ye una siñal esfoutable
+del estáu de salú.
+● Camuflaxe: Téunica utilizada pa asemeyase al sou arrodiu. El camaleón
+● Mimetismu: Adautación los seres vivos arremedando a outros seres vivos. Ye
+comu una mázcara.
+● Recoñocencia. El cámbeu de coloración puede indicare predisposición,
+madurez sesual, estáu anímicu, etc.
+● Aposematismu comu estratexa antipredatoria. Dalgunos colores na ñatura
+indican perigrosidá, pur esu dalgunos seres vivos amosan colores qu’informan
+la sua perigrosidá ou del sou mal gustu como presa. Los colores más cosarios
+d’alvertencia setan sere combinaciones d’encarnáu, prietu, brancu y mariellu.
+Aviespas, mofetas..- El color nel escudu d’Hespaña, el
+cuartel del antigu reinu de Llión.
+El Rïal Decretu / de Setiembre y, especifica téunicamente los colores del
+escudu y bandeira d’Hespaña.
+Cun esti Rïal Decretu establécense los códigos de colores del escudu del Estáu
+Hespañol a utilizare ne tolas bandeiras ouficiales y pur estensión en tolas
+representaciones del Escudu.
+Especificación de los colores del Escudu d’Hespaña nel sistema entrenacional
+CIELAB.
+La correspondencia d’esti sistema de códigos de colores cul sistema entrenacional
+es
+Si convertimos estas coordenadas del color púrpura ne color, aprosimadamente
+llogramos ésti.
+Códigu Rïal Decretu, CIE-: Y.
+x.
+y..- ¿Cuál ye’l color púrpura?
+El color púrpura nun ye un color espeutral, estandarizáu, el color púrpura ye una
+mestricha de llargeras d’onda. La tonalidá del púrpura ye variable, diendu dende’l
+encarnáu purpúreu ata’l púrpura azuláu.
+Esti color, na antiguedá, llográbase cunos caracoles marinos chamados púrpuras.
+Utilizáu yá ne tiempos los romanos comu símbolu de señoranza, fonun los condaos
+franceses quienes entroducienun esti color na corte llïonesa fruitu de las suas
+rellaciones matrimoniales..- Estudios comparantes de la carga
+heráldica del cuartel del antigu Reinu
+de Llión.
+Comparante de la carga heráldica del cuartel del Reinu de Llión del escudu
+d’Hespaña.
+¿Qué ye’l cargu ou carga heráldica? Son aqueillos elementos que s’asitian dientru del
+campu del escudu. Nel cuartel del Reinu de Llión la carga heráldica ye un
+llión.
+Chegaos a esti puntu, dimpués de coñocere qué ye un códigu de color, los sous
+desemeyantes sistemas de códigos y los posibles cámbeos de tonalidá debíu a la
+illuminación, soporte, fondeiru, etc,. analizaremos el cargu heráldicu, el llión, en
+desemeyantes fotos.
+En ca estudiu, alcuentraremos reproducíu’l color la carga heráldica, el sou
+códigu de color nel sistema elexíu pul Rïal Decretu / Setiembre y y
+l’estipuláu pur ésti.
+Primer estudiu comparante
+Reprodución del color la carga heráldica del cuartel del antigu Reinu de Llión d’esta
+bandeira ouficial d’Hespaña.
+Y. x. y.
+Códigu CIE- color amuesa del estudiu
+Y. x. y.
+Códigu CIE- sigún Rïal Decretu del llión del cuartel del Reinu de Llión
+Y. x. y.
+Códigu CIE- del campu del cuartel del Reinu de Castiella
+Comprobamos que las coordenadas de lluminosidá, representadas pula lletra
+mayúscula seméllase al contempláu pul Rïal Decretu. Esta piquena varianza ye
+comprensible pula variabilidá d’intensidá llumínica, tonalidad los focos qu’allumbran la
+bandeira hespañola, el reflexu producíu pul fondeiru, el texíu, etc.
+En cámbeu, las coordenadas e, que curremponden a las coordenadas de
+cromaticidá, allónxase las del Rïal Decretu, ye dicire, aprosímanse más al códigu de
+campu del cuartel del Reinu de Castiella que’l de Llión.
+Segundu estudiu comparante
+Y. x. y.
+Códigu CIE- color amuesa del estudiu
+Y. x. y.
+Códigu CIE- sigún Rïal Decretu del llión del cuartel del Reinu de Llión
+N’entamu, gueyamos un color más apacazáu, más foscu. La coordenada, la
+intensidá, ye mueitu más baixa que la coordenada del Rïal Decretu.
+En cámbeu las coordenadas de cromaticidá sí seméllanse a las del Rïal Decretu.
+Tercer estudiu comparante
+Y. x. y.
+Códigu CIE- color amuesa del estudiu
+Y. x. y.
+Códigu CIE- sigún Rïal Decretu del llión del cuartel del Reinu de Llión
+Eiquí, la coordenada llumínica ye más baixa que la del Rïal Decretu, y las de
+cromaticidá, e, avéranse al púrpura azuláu.
+Cuartu estudiu comparante
+Y. x. y.
+Códigu CIE- color amuesa del estudiu
+Comparanza cul color del campu del cuartel del Reinu de Castiella
+Y. x. y.
+Códigu CIE- del campu del cuartel del Reinu de Castiella
+Y. x. y.
+Códigu CIE- sigún Rïal Decretu del llión del cuartel del Reinu de Llión
+Si acomparamos, pur una parte, el códigu CIE- de la carga heráldica del cuartel
+del Reinu de Llión cul campu del cuartel del Reinu de Castiella gueyaremos que son
+mui asemeyantes a esceición la coordenada d’intensidá llumínica que ye más alta.
+Quintu estudiu comparante
+Y. x. y.
+Códigu CIE- color amuesa del estudiu
+Y. x. y.
+Códigu CIE- sigún Rïal Decretu del llión del cuartel del Reinu de Llión
+Comparanza cul cuartel del campu del Reinu de Castiella
+Y. x. y.
+Códigu CIE- del campu del cuartel del Reinu de Castiella
+Siñalamos que nel campu del cuartel del Reinu de Castiella, las coordenadas son
+abondas asemeyadas a las coordenadas que vienun y veremos del campu del cuartel
+del Reinu de Castiella, a esceición de la coordenada d’intensidá llumínica que
+puede variare sigún la lluz que reciba.
+Sestu estudiu comparante
+Y. x. y.
+Códigu CIE- color amuesa del estudiu
+Y. x. y.
+Códigu CIE- sigún Rïal Decretu del llión del cuartel del Reinu de Llión
+La intensidá llumínica nesti estudiu ye sinificativamente inferior asina comu las
+coordenadas de cromaticidá.
+Séptimu estudiu comparante
+Y. x. y.
+Códigu CIE- color amuesa del estudiu
+Y. x. y.
+Códigu CIE- sigún Rïal Decretu del llión del cuartel del Reinu de Llión
+Las desemeyanzas ente las respeutivas coordenadas son abismales, en cámbeu
+oservamos que las coordenadas del campu del cuartel del Reinu de Castiella son en
+toos los estudios, víos ata agora, mui asemeyaos.
+Comparante cul fondu del cuartel del Reinu de Castiella
+Y. x. y.
+Códigu CIE- del campu del cuartel del Reinu de Castiella
+Outavu estudiu comparante
+Y. x. y.
+Códigu CIE- color amuesa del estudiu
+Y. x. y.
+Códigu CIE- sigún Rïal Decretu del llión del cuartel del Reinu de Llión
+Ralu asemeyáu ente’l color amuesa y’l color del códigu del Rïal Decretu.
+Novenu estudiu comparante
+
+Y. x. y.
+Códigu CIE- color amuesa del estudiu
+Y. x. y.
+Códigu CIE- sigún Rïal Decretu del llión del cuartel del Reinu de Llión
+Comparante del fondu del cuartel de Reinu de Castiella
+Y. x. y.
+Códigu CIE- del campu del cuartel del Reinu de Castiella
+Nesti estudiu costátase la desemeyanza ente las coordenadas cun craru inclín al
+púrpura azuláu.
+Desoutra parte, las coordenadas del campu del cuartel del Reinu de Castiella
+acontinuan acartónanse cuna lleve flutuación.
+Décimu estudiu comparante
+Y. x. y.
+Códigu CIE- color amuesa del estudiu
+Y. x. y.
+Códigu CIE- sigún Rïal Decretu del llión del cuartel del Reinu de Llión
+Comparante cul fondu del cuartel del Reinu de Castiella
+Y. x. y.
+Códigu CIE- del campu del cuartel del Reinu de Castiella
+
+del Rïal Decretu.
+Decimuprimer estudiu comparante
+Y. x. y.
+Códigu CIE- color amuesa del estudiu
+Comparante cul fondu del cuartel del Reinu de Castiella
+Y. x. y.
+Códigu CIE- del campu del cuartel del Reinu de Castiella
+Y. x. y.
+Códigu CIE- sigún Rïal Decretu del llión del cuartel del Reinu de Llión
+Códigos mui asemeyantes ente’l campu del cuartel del Reinu de Castiella y la carga
+heráldica del Reinu de Llión.
+Conclusiones.
+Riparando tolos fautores esternos comentaos nesti artículu que pueden chegar a
+influyire nos códigos de color de los estudios d’amuesa, podemos concluyire:
+● La mayoría de los estudios curremponden a fotografías d’enterior, a las que se
+yes aberrantan una fuente de lluz mui asemeyada.
+● Ye curiosu oservar que’l códigu CIE- del campu del cuartel del Reinu de
+Castiella, al dalgualín que los campos de los outros cuarteles, Reinu de Aragón
+y Reinu de Navarra, son mui asemeyantes ente sí, tantu nos estudios cun
+estantáneas enteriores comu n’esteriores.
+● Amás, estos códigos CIE- estudiaos son semeyantes ou cuadrantes cul
+códigu CIE- recoyíu nel Rïal Decretu.
+● En cámbeu, los códigos CIE- estudiaos nesti artículu y referios a la carga
+heráldica non solu son dispares ente sí sinon que la mayoría
+allónxase, pur mueitu, del códigu CIE- que fixa’l Rïal Decretu pa la fegura
+del llión.
+¿Pur qué nun s’aprica’l miesmu criteriu de color y códigu a la carga heráldica, ye
+dicire, a la fegura del llión?
+¿A qué ye debíu que l’aplicación del códigu CIE- del Rïal Decretu sobro los
+colores de los cuarteles del escudu del Estáu Hespañol cúmplase nel Reinu d’Aragón,
+Reinu de Castiella y Reinu de Navarra y, ne cámbeu, nun s’aplique al cuartel del antigu
+Reinu de Llión?

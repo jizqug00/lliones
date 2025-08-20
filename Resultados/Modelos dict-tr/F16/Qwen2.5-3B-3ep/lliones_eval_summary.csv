@@ -1,0 +1,2 @@
+model_path,num_examples,mean_similarity,mean_fuzzy,mean_semantic,elapsed_seconds,distribution_json
+/content/drive/MyDrive/Qwen2.5-3B-3ep/outputs/gguf/Qwen2.5-3B/unsloth.F16.gguf,3000,78.8826,57.4023,78.7922,2196.07,"{""65-70"":300,""75-80"":456,""80-85"":437,""85-90"":382,""70-75"":373,""100"":313,""95-100"":80,""55-60"":110,""90-95"":214,""60-65"":213,""50-55"":70,""45-50"":35,""40-45"":16,""35-40"":1}"

@@ -1,0 +1,2986 @@
+[
+    {
+        "input": "¿cuál sería la forma leonesa de decir en muchos lugares del reino?",
+        "output": "En bien de llugares del reinu es la forma leonesa."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir en bien de llugares del reinu en español?",
+        "output": "En español eso significa en muchos lugares del reino."
+    },
+    {
+        "input": "¿sabes cómo se dice está más allá de nuestras fronteras en leonés?",
+        "output": "Eso en leonés sería tá más p'allá de las nuesas llindes."
+    },
+    {
+        "input": "¿qué significa exactamente tá más p'allá de las nuesas llindes en español?",
+        "output": "En español eso significa está más allá de nuestras fronteras."
+    },
+    {
+        "input": "Quiero saber cómo se dice me voy para casa de juan en leonés",
+        "output": "La traducción al leonés sería marchu p'an cá xuan."
+    },
+    {
+        "input": "¿cómo se dice marchu p'an cá xuan en español?",
+        "output": "La forma en español es me voy para casa de juan."
+    },
+    {
+        "input": "¿puedes pasarme ir hacia una dirección al leonés?",
+        "output": "Dire p'hacia una direición es la manera correcta en leonés."
+    },
+    {
+        "input": "¿me puedes traducir dire p'hacia una direición al español?",
+        "output": "Esa palabra significa ir hacia una dirección en español."
+    },
+    {
+        "input": "¿cómo se traduce de dentro hacia afuera al leonés?",
+        "output": "Diríamos simplemente de dientru p'hacia fuera en leonés."
+    },
+    {
+        "input": "¿qué quiere decir de dientru p'hacia fuera en español?",
+        "output": "En español eso significa de dentro hacia afuera."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir me voy a ir a león?",
+        "output": "Se traduce como vou marchare pa llión en leonés."
+    },
+    {
+        "input": "¿sabes cómo se traduce vou marchare pa llión al español?",
+        "output": "La traducción al español sería me voy a ir a león."
+    },
+    {
+        "input": "¿puedes pasarme estar mal de la cabeza al leonés?",
+        "output": "Diríamos simplemente tare mal de la chaveta en leonés."
+    },
+    {
+        "input": "¿cómo se dice tare mal de la chaveta en español?",
+        "output": "Lo traducimos al español como estar mal de la cabeza."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir burlarse de algo, no darle importancia?",
+        "output": "Tomare dalgu a chufla es la forma leonesa."
+    },
+    {
+        "input": "¿cómo diríamos tomare dalgu a chufla en español?",
+        "output": "Simplemente se dice burlarse de algo, no darle importancia en español."
+    },
+    {
+        "input": "Quiero saber cómo se dice no doy abasto en leonés",
+        "output": "En leonés se diría nun dou abondu."
+    },
+    {
+        "input": "¿cuál es el significado de nun dou abondu en español?",
+        "output": "En español eso significa no doy abasto."
+    },
+    {
+        "input": "¿cómo se traduce no entender nada al leonés?",
+        "output": "Diríamos simplemente nun pescanciare nada en leonés."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir nun pescanciare nada en español?",
+        "output": "No entender nada sería su equivalente en español."
+    },
+    {
+        "input": "¿me traduces aunque sólo fuera por eso al leonés?",
+        "output": "Se traduce como anque namás fuera pur esu en leonés."
+    },
+    {
+        "input": "¿cómo se dice anque namás fuera pur esu en español?",
+        "output": "En español diríamos aunque sólo fuera por eso."
+    },
+    {
+        "input": "¿cómo se traduce no me importa al leonés?",
+        "output": "Nun me da más es la forma leonesa."
+    },
+    {
+        "input": "¿sabes cómo se traduce nun me da más al español?",
+        "output": "Eso en español se dice no me importa."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice ¡ésto es lo que faltaba! en leonés?",
+        "output": "La traducción al leonés sería ¡éstu ye l'acabación! / l'acabouse!."
+    },
+    {
+        "input": "¿cómo se dice ¡éstu ye l'acabación! / l'acabouse! en español?",
+        "output": "En español diríamos ¡ésto es lo que faltaba!."
+    },
+    {
+        "input": "¿cómo se traduce hay que hacerlo del modo siguiente al leonés?",
+        "output": "En leonés se diría hai que facelu del xeitu darréu."
+    },
+    {
+        "input": "¿qué significa exactamente hai que facelu del xeitu darréu en español?",
+        "output": "Hay que hacerlo del modo siguiente sería su equivalente en español."
+    },
+    {
+        "input": "¿cómo se traduce hace mucho tiempo que se fue al leonés?",
+        "output": "En idioma leonés se dice va bien de tiempu que marchóu."
+    },
+    {
+        "input": "¿sabes cómo se traduce va bien de tiempu que marchóu al español?",
+        "output": "La traducción al español sería hace mucho tiempo que se fue."
+    },
+    {
+        "input": "Quiero saber cómo se dice hace seis años que marchó en leonés",
+        "output": "En idioma leonés se dice van seyes años que marchóu."
+    },
+    {
+        "input": "¿sabes cómo se traduce van seyes años que marchóu al español?",
+        "output": "Esa palabra significa hace seis años que marchó en español."
+    },
+    {
+        "input": "¿me traduces hace poco que se fueron al leonés?",
+        "output": "En idioma leonés se dice va poucu que marchonun."
+    },
+    {
+        "input": "¿cuál es el significado de va poucu que marchonun en español?",
+        "output": "La forma en español es hace poco que se fueron."
+    },
+    {
+        "input": "¿cómo se diría hace ya muchos años que lo hice en leonés?",
+        "output": "Diríamos simplemente va pa bien d'años que lu fici en leonés."
+    },
+    {
+        "input": "¿cuál es el significado de va pa bien d'años que lu fici en español?",
+        "output": "Lo traducimos al español como hace ya muchos años que lo hice."
+    },
+    {
+        "input": "¿cómo se traduce cuando vayas, cógelo al leonés?",
+        "output": "De la que vas / a la que vas, cuéyilu es la forma leonesa."
+    },
+    {
+        "input": "¿me puedes traducir de la que vas / a la que vas, cuéyilu al español?",
+        "output": "Cuando vayas, cógelo es lo que quiere decir en español."
+    },
+    {
+        "input": "¿cómo se traduce en cuanto llegues al leonés?",
+        "output": "En idioma leonés se dice en cuantos que cheges/ namás que cheges."
+    },
+    {
+        "input": "¿cómo se entiende en cuantos que cheges/ namás que cheges en español?",
+        "output": "Esa palabra significa en cuanto llegues en español."
+    },
+    {
+        "input": "¿cómo se diría a la vez que comes... en leonés?",
+        "output": "En idioma leonés se dice al empar que xantas...."
+    },
+    {
+        "input": "¿me puedes traducir al empar que xantas... al español?",
+        "output": "A la vez que comes... es lo que quiere decir en español."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir puede que llegue?",
+        "output": "En leonés se diría pue que chege."
+    },
+    {
+        "input": "¿qué quiere decir pue que chege en español?",
+        "output": "En español eso significa puede que llegue."
+    },
+    {
+        "input": "¿sabes cómo se dice pierde el tiempo hablando en leonés?",
+        "output": "La traducción al leonés sería gasta'l tiempu falandu."
+    },
+    {
+        "input": "¿sabes cómo se traduce gasta'l tiempu falandu al español?",
+        "output": "Pierde el tiempo hablando sería su equivalente en español."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir no me da la gana?",
+        "output": "En leonés usarías la palabra nun me peta."
+    },
+    {
+        "input": "¿cómo diríamos nun me peta en español?",
+        "output": "Simplemente se dice no me da la gana en español."
+    },
+    {
+        "input": "¿cómo se diría no se han encontrado casos de... en leonés?",
+        "output": "Nun se tienen atopaos casos de... es la forma leonesa."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir nun se tienen atopaos casos de... en español?",
+        "output": "Lo traducimos al español como no se han encontrado casos de...."
+    },
+    {
+        "input": "¿cómo se traduce en muchos lugares del reino al leonés?",
+        "output": "Se traduce como en bien de llugares del reinu en leonés."
+    },
+    {
+        "input": "¿qué quiere decir en bien de llugares del reinu en español?",
+        "output": "Lo traducimos al español como en muchos lugares del reino."
+    },
+    {
+        "input": "¿me traduces está más allá de nuestras fronteras al leonés?",
+        "output": "Se traduce como tá más p'allá de las nuesas llindes en leonés."
+    },
+    {
+        "input": "¿qué significa exactamente tá más p'allá de las nuesas llindes en español?",
+        "output": "Está más allá de nuestras fronteras es lo que quiere decir en español."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir me voy para casa de juan?",
+        "output": "En leonés se diría marchu p'an cá xuan."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir marchu p'an cá xuan en español?",
+        "output": "Esa palabra significa me voy para casa de juan en español."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice ir hacia una dirección en leonés?",
+        "output": "La traducción al leonés sería dire p'hacia una direición."
+    },
+    {
+        "input": "¿cómo se entiende dire p'hacia una direición en español?",
+        "output": "Simplemente se dice ir hacia una dirección en español."
+    },
+    {
+        "input": "¿me traduces de dentro hacia afuera al leonés?",
+        "output": "En leonés usarías la palabra de dientru p'hacia fuera."
+    },
+    {
+        "input": "¿cómo diríamos de dientru p'hacia fuera en español?",
+        "output": "De dentro hacia afuera es lo que quiere decir en español."
+    },
+    {
+        "input": "¿sabes cómo se dice me voy a ir a león en leonés?",
+        "output": "Eso en leonés sería vou marchare pa llión."
+    },
+    {
+        "input": "¿cómo se entiende vou marchare pa llión en español?",
+        "output": "La traducción al español sería me voy a ir a león."
+    },
+    {
+        "input": "¿cómo se diría estar mal de la cabeza en leonés?",
+        "output": "Se traduce como tare mal de la chaveta en leonés."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir tare mal de la chaveta en español?",
+        "output": "Esa palabra significa estar mal de la cabeza en español."
+    },
+    {
+        "input": "Quiero saber cómo se dice burlarse de algo, no darle importancia en leonés",
+        "output": "En idioma leonés se dice tomare dalgu a chufla."
+    },
+    {
+        "input": "¿cómo se entiende tomare dalgu a chufla en español?",
+        "output": "Lo traducimos al español como burlarse de algo, no darle importancia."
+    },
+    {
+        "input": "¿cómo se diría no doy abasto en leonés?",
+        "output": "La traducción al leonés sería nun dou abondu."
+    },
+    {
+        "input": "¿cómo se entiende nun dou abondu en español?",
+        "output": "En español eso significa no doy abasto."
+    },
+    {
+        "input": "¿me traduces no entender nada al leonés?",
+        "output": "Nun pescanciare nada es la manera correcta en leonés."
+    },
+    {
+        "input": "¿qué significa exactamente nun pescanciare nada en español?",
+        "output": "Simplemente se dice no entender nada en español."
+    },
+    {
+        "input": "Quiero saber cómo se dice aunque sólo fuera por eso en leonés",
+        "output": "Eso en leonés sería anque namás fuera pur esu."
+    },
+    {
+        "input": "¿qué quiere decir anque namás fuera pur esu en español?",
+        "output": "Aunque sólo fuera por eso sería su equivalente en español."
+    },
+    {
+        "input": "¿puedes pasarme no me importa al leonés?",
+        "output": "En idioma leonés se dice nun me da más."
+    },
+    {
+        "input": "¿me puedes traducir nun me da más al español?",
+        "output": "En español eso significa no me importa."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice ¡ésto es lo que faltaba! en leonés?",
+        "output": "Eso en leonés sería ¡éstu ye l'acabación! / l'acabouse!."
+    },
+    {
+        "input": "¿sabes cómo se traduce ¡éstu ye l'acabación! / l'acabouse! al español?",
+        "output": "¡ésto es lo que faltaba! sería su equivalente en español."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir hay que hacerlo del modo siguiente?",
+        "output": "Hai que facelu del xeitu darréu es la forma leonesa."
+    },
+    {
+        "input": "¿cómo se entiende hai que facelu del xeitu darréu en español?",
+        "output": "Hay que hacerlo del modo siguiente sería su equivalente en español."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice hace mucho tiempo que se fue en leonés?",
+        "output": "En leonés se diría va bien de tiempu que marchóu."
+    },
+    {
+        "input": "¿qué quiere decir va bien de tiempu que marchóu en español?",
+        "output": "Lo traducimos al español como hace mucho tiempo que se fue."
+    },
+    {
+        "input": "¿cómo se diría hace seis años que marchó en leonés?",
+        "output": "Van seyes años que marchóu es la forma leonesa."
+    },
+    {
+        "input": "¿cómo se dice van seyes años que marchóu en español?",
+        "output": "Simplemente se dice hace seis años que marchó en español."
+    },
+    {
+        "input": "¿me traduces hace poco que se fueron al leonés?",
+        "output": "La traducción al leonés sería va poucu que marchonun."
+    },
+    {
+        "input": "¿cómo se entiende va poucu que marchonun en español?",
+        "output": "Hace poco que se fueron sería su equivalente en español."
+    },
+    {
+        "input": "¿cómo se diría hace ya muchos años que lo hice en leonés?",
+        "output": "Va pa bien d'años que lu fici es la forma leonesa."
+    },
+    {
+        "input": "¿cómo se dice va pa bien d'años que lu fici en español?",
+        "output": "Eso en español se dice hace ya muchos años que lo hice."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice cuando vayas, cógelo en leonés?",
+        "output": "La traducción al leonés sería de la que vas / a la que vas, cuéyilu."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir de la que vas / a la que vas, cuéyilu en español?",
+        "output": "La traducción al español sería cuando vayas, cógelo."
+    },
+    {
+        "input": "¿sabes cómo se dice en cuanto llegues en leonés?",
+        "output": "La traducción al leonés sería en cuantos que cheges/ namás que cheges."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir en cuantos que cheges/ namás que cheges en español?",
+        "output": "La traducción al español sería en cuanto llegues."
+    },
+    {
+        "input": "¿me traduces a la vez que comes... al leonés?",
+        "output": "En idioma leonés se dice al empar que xantas...."
+    },
+    {
+        "input": "¿qué significa exactamente al empar que xantas... en español?",
+        "output": "A la vez que comes... es lo que quiere decir en español."
+    },
+    {
+        "input": "¿me traduces puede que llegue al leonés?",
+        "output": "En leonés usarías la palabra pue que chege."
+    },
+    {
+        "input": "¿qué significa exactamente pue que chege en español?",
+        "output": "Lo traducimos al español como puede que llegue."
+    },
+    {
+        "input": "Quiero saber cómo se dice pierde el tiempo hablando en leonés",
+        "output": "Eso en leonés sería gasta'l tiempu falandu."
+    },
+    {
+        "input": "¿cómo se dice gasta'l tiempu falandu en español?",
+        "output": "Pierde el tiempo hablando sería su equivalente en español."
+    },
+    {
+        "input": "Quiero saber cómo se dice no me da la gana en leonés",
+        "output": "En idioma leonés se dice nun me peta."
+    },
+    {
+        "input": "¿qué significa exactamente nun me peta en español?",
+        "output": "En español eso significa no me da la gana."
+    },
+    {
+        "input": "Quiero saber cómo se dice no se han encontrado casos de... en leonés",
+        "output": "En leonés usarías la palabra nun se tienen atopaos casos de...."
+    },
+    {
+        "input": "¿cómo se entiende nun se tienen atopaos casos de... en español?",
+        "output": "En español eso significa no se han encontrado casos de...."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice en muchos lugares del reino en leonés?",
+        "output": "En bien de llugares del reinu es la forma leonesa."
+    },
+    {
+        "input": "¿cómo diríamos en bien de llugares del reinu en español?",
+        "output": "La forma en español es en muchos lugares del reino."
+    },
+    {
+        "input": "¿me traduces está más allá de nuestras fronteras al leonés?",
+        "output": "Eso en leonés sería tá más p'allá de las nuesas llindes."
+    },
+    {
+        "input": "¿qué significa exactamente tá más p'allá de las nuesas llindes en español?",
+        "output": "La forma en español es está más allá de nuestras fronteras."
+    },
+    {
+        "input": "Quiero saber cómo se dice me voy para casa de juan en leonés",
+        "output": "La traducción al leonés sería marchu p'an cá xuan."
+    },
+    {
+        "input": "¿qué quiere decir marchu p'an cá xuan en español?",
+        "output": "Simplemente se dice me voy para casa de juan en español."
+    },
+    {
+        "input": "¿cómo se traduce ir hacia una dirección al leonés?",
+        "output": "Dire p'hacia una direición es la manera correcta en leonés."
+    },
+    {
+        "input": "¿cuál es el significado de dire p'hacia una direición en español?",
+        "output": "Ir hacia una dirección sería su equivalente en español."
+    },
+    {
+        "input": "¿cómo se diría de dentro hacia afuera en leonés?",
+        "output": "De dientru p'hacia fuera es la forma leonesa."
+    },
+    {
+        "input": "¿qué significa exactamente de dientru p'hacia fuera en español?",
+        "output": "De dentro hacia afuera es lo que quiere decir en español."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir me voy a ir a león?",
+        "output": "Diríamos simplemente vou marchare pa llión en leonés."
+    },
+    {
+        "input": "¿cómo diríamos vou marchare pa llión en español?",
+        "output": "En español diríamos me voy a ir a león."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir estar mal de la cabeza?",
+        "output": "Eso en leonés sería tare mal de la chaveta."
+    },
+    {
+        "input": "¿cuál es el significado de tare mal de la chaveta en español?",
+        "output": "Estar mal de la cabeza sería su equivalente en español."
+    },
+    {
+        "input": "Quiero saber cómo se dice burlarse de algo, no darle importancia en leonés",
+        "output": "La traducción al leonés sería tomare dalgu a chufla."
+    },
+    {
+        "input": "¿cuál es el significado de tomare dalgu a chufla en español?",
+        "output": "Burlarse de algo, no darle importancia sería su equivalente en español."
+    },
+    {
+        "input": "¿me traduces no doy abasto al leonés?",
+        "output": "En leonés se diría nun dou abondu."
+    },
+    {
+        "input": "¿cuál es el significado de nun dou abondu en español?",
+        "output": "Esa palabra significa no doy abasto en español."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir no entender nada?",
+        "output": "En leonés usarías la palabra nun pescanciare nada."
+    },
+    {
+        "input": "¿sabes cómo se traduce nun pescanciare nada al español?",
+        "output": "La forma en español es no entender nada."
+    },
+    {
+        "input": "¿me traduces aunque sólo fuera por eso al leonés?",
+        "output": "La traducción al leonés sería anque namás fuera pur esu."
+    },
+    {
+        "input": "¿qué quiere decir anque namás fuera pur esu en español?",
+        "output": "Eso en español se dice aunque sólo fuera por eso."
+    },
+    {
+        "input": "Quiero saber cómo se dice no me importa en leonés",
+        "output": "Eso en leonés sería nun me da más."
+    },
+    {
+        "input": "¿me puedes traducir nun me da más al español?",
+        "output": "En español diríamos no me importa."
+    },
+    {
+        "input": "¿puedes pasarme ¡ésto es lo que faltaba! al leonés?",
+        "output": "La traducción al leonés sería ¡éstu ye l'acabación! / l'acabouse!."
+    },
+    {
+        "input": "¿sabes cómo se traduce ¡éstu ye l'acabación! / l'acabouse! al español?",
+        "output": "¡ésto es lo que faltaba! es lo que quiere decir en español."
+    },
+    {
+        "input": "¿sabes cómo se dice hay que hacerlo del modo siguiente en leonés?",
+        "output": "Hai que facelu del xeitu darréu es la forma leonesa."
+    },
+    {
+        "input": "¿cómo diríamos hai que facelu del xeitu darréu en español?",
+        "output": "Hay que hacerlo del modo siguiente sería su equivalente en español."
+    },
+    {
+        "input": "¿me traduces hace mucho tiempo que se fue al leonés?",
+        "output": "En idioma leonés se dice va bien de tiempu que marchóu."
+    },
+    {
+        "input": "¿cuál es el significado de va bien de tiempu que marchóu en español?",
+        "output": "Esa palabra significa hace mucho tiempo que se fue en español."
+    },
+    {
+        "input": "Quiero saber cómo se dice hace seis años que marchó en leonés",
+        "output": "En idioma leonés se dice van seyes años que marchóu."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir van seyes años que marchóu en español?",
+        "output": "Simplemente se dice hace seis años que marchó en español."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice hace poco que se fueron en leonés?",
+        "output": "Diríamos simplemente va poucu que marchonun en leonés."
+    },
+    {
+        "input": "¿sabes cómo se traduce va poucu que marchonun al español?",
+        "output": "En español diríamos hace poco que se fueron."
+    },
+    {
+        "input": "¿cómo se diría hace ya muchos años que lo hice en leonés?",
+        "output": "Va pa bien d'años que lu fici es la forma leonesa."
+    },
+    {
+        "input": "¿cómo diríamos va pa bien d'años que lu fici en español?",
+        "output": "La traducción al español sería hace ya muchos años que lo hice."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice cuando vayas, cógelo en leonés?",
+        "output": "Se traduce como de la que vas / a la que vas, cuéyilu en leonés."
+    },
+    {
+        "input": "¿qué quiere decir de la que vas / a la que vas, cuéyilu en español?",
+        "output": "Simplemente se dice cuando vayas, cógelo en español."
+    },
+    {
+        "input": "¿sabes cómo se dice en cuanto llegues en leonés?",
+        "output": "En cuantos que cheges/ namás que cheges es la manera correcta en leonés."
+    },
+    {
+        "input": "¿cómo se entiende en cuantos que cheges/ namás que cheges en español?",
+        "output": "En cuanto llegues sería su equivalente en español."
+    },
+    {
+        "input": "¿cómo se diría a la vez que comes... en leonés?",
+        "output": "Al empar que xantas... es la manera correcta en leonés."
+    },
+    {
+        "input": "¿sabes cómo se traduce al empar que xantas... al español?",
+        "output": "Eso en español se dice a la vez que comes...."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir puede que llegue?",
+        "output": "En idioma leonés se dice pue que chege."
+    },
+    {
+        "input": "¿qué quiere decir pue que chege en español?",
+        "output": "Simplemente se dice puede que llegue en español."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice pierde el tiempo hablando en leonés?",
+        "output": "Eso en leonés sería gasta'l tiempu falandu."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir gasta'l tiempu falandu en español?",
+        "output": "Pierde el tiempo hablando es lo que quiere decir en español."
+    },
+    {
+        "input": "¿cómo se traduce no me da la gana al leonés?",
+        "output": "Nun me peta es la forma leonesa."
+    },
+    {
+        "input": "¿cómo se dice nun me peta en español?",
+        "output": "La forma en español es no me da la gana."
+    },
+    {
+        "input": "¿me traduces no se han encontrado casos de... al leonés?",
+        "output": "Eso en leonés sería nun se tienen atopaos casos de...."
+    },
+    {
+        "input": "¿qué significa exactamente nun se tienen atopaos casos de... en español?",
+        "output": "La forma en español es no se han encontrado casos de...."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice hasta ahora se habían mirado mal en leonés?",
+        "output": "Diríamos simplemente ata agora se tenían miráu mal en leonés."
+    },
+    {
+        "input": "¿cómo se dice ata agora se tenían miráu mal en español?",
+        "output": "Simplemente se dice hasta ahora se habían mirado mal en español."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir no habían hecho nada?",
+        "output": "Nun tenían feichu ná es la forma leonesa."
+    },
+    {
+        "input": "¿me puedes traducir nun tenían feichu ná al español?",
+        "output": "Esa palabra significa no habían hecho nada en español."
+    },
+    {
+        "input": "Quiero saber cómo se dice en la parte de abajo en leonés",
+        "output": "Nu baxeiru es la forma leonesa."
+    },
+    {
+        "input": "¿cómo se dice nu baxeiru en español?",
+        "output": "La traducción al español sería en la parte de abajo."
+    },
+    {
+        "input": "¿cómo se diría en la parte de arriba en leonés?",
+        "output": "Nu cimeiru es la forma leonesa."
+    },
+    {
+        "input": "¿me puedes traducir nu cimeiru al español?",
+        "output": "En la parte de arriba sería su equivalente en español."
+    },
+    {
+        "input": "¿me traduces de hoy en ocho días al leonés?",
+        "output": "De guei n'ochu días es la forma leonesa."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir de guei n'ochu días en español?",
+        "output": "De hoy en ocho días sería su equivalente en español."
+    },
+    {
+        "input": "¿puedes pasarme por culpa de... al leonés?",
+        "output": "Diríamos simplemente pula mor de... en leonés."
+    },
+    {
+        "input": "¿cómo se dice pula mor de... en español?",
+        "output": "En español eso significa por culpa de...."
+    },
+    {
+        "input": "¿puedes pasarme ¿qué fecha es hoy? al leonés?",
+        "output": "Diríamos simplemente ¿quéi data ye guei? en leonés."
+    },
+    {
+        "input": "¿me puedes traducir ¿quéi data ye guei? al español?",
+        "output": "¿qué fecha es hoy? sería su equivalente en español."
+    },
+    {
+        "input": "¿cómo se diría miercoles, 27 de febrero en leonés?",
+        "output": "La traducción al leonés sería miércoles, febreiru y 27."
+    },
+    {
+        "input": "¿cuál es el significado de miércoles, febreiru y 27 en español?",
+        "output": "En español eso significa miercoles, 27 de febrero."
+    },
+    {
+        "input": "¿sabes cómo se dice nadie te quiere ver en leonés?",
+        "output": "Eso en leonés sería naide nun te quier vere."
+    },
+    {
+        "input": "¿sabes cómo se traduce naide nun te quier vere al español?",
+        "output": "La traducción al español sería nadie te quiere ver."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice jugar a la gallina ciega en leonés?",
+        "output": "En leonés usarías la palabra xugar a pitaciega."
+    },
+    {
+        "input": "¿qué significa exactamente xugar a pitaciega en español?",
+        "output": "Esa palabra significa jugar a la gallina ciega en español."
+    },
+    {
+        "input": "¿puedes pasarme ir en contra de algo al leonés?",
+        "output": "En leonés usarías la palabra dir a la escontra dalgu."
+    },
+    {
+        "input": "¿sabes cómo se traduce dir a la escontra dalgu al español?",
+        "output": "La forma en español es ir en contra de algo."
+    },
+    {
+        "input": "Quiero saber cómo se dice no logro entenderlo en leonés",
+        "output": "Eso en leonés sería nun sou quien a pescancialu."
+    },
+    {
+        "input": "¿qué significa exactamente nun sou quien a pescancialu en español?",
+        "output": "La forma en español es no logro entenderlo."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir podemos oír la canción?",
+        "output": "En leonés usarías la palabra somos a sentire' l cantar."
+    },
+    {
+        "input": "¿cuál es el significado de somos a sentire' l cantar en español?",
+        "output": "Podemos oír la canción es lo que quiere decir en español."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice en un principio... en leonés?",
+        "output": "En leonés usarías la palabra nun entamu...."
+    },
+    {
+        "input": "¿cómo diríamos nun entamu... en español?",
+        "output": "Lo traducimos al español como en un principio...."
+    },
+    {
+        "input": "¿sabes cómo se dice de vez en cuando en leonés?",
+        "output": "Eso en leonés sería de vuelta en cuandu / de cuandu en vez."
+    },
+    {
+        "input": "¿me puedes traducir de vuelta en cuandu / de cuandu en vez al español?",
+        "output": "De vez en cuando es lo que quiere decir en español."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir hizo hincapié en su edad?",
+        "output": "La traducción al leonés sería fizu fincapía na sua edá."
+    },
+    {
+        "input": "¿qué significa exactamente fizu fincapía na sua edá en español?",
+        "output": "En español eso significa hizo hincapié en su edad."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir romper en aplausos?",
+        "output": "Estoupare n'aplausos es la forma leonesa."
+    },
+    {
+        "input": "¿qué quiere decir estoupare n'aplausos en español?",
+        "output": "Romper en aplausos es lo que quiere decir en español."
+    },
+    {
+        "input": "¿me traduces estar embobado, distraído al leonés?",
+        "output": "Diríamos simplemente tare nas apabardas / tare mirandu las apabardas en leonés."
+    },
+    {
+        "input": "¿qué quiere decir tare nas apabardas / tare mirandu las apabardas en español?",
+        "output": "Simplemente se dice estar embobado, distraído en español."
+    },
+    {
+        "input": "Quiero saber cómo se dice llegó a deshora, como siempre en leonés",
+        "output": "En leonés usarías la palabra chegóu a dashoras , cumu siempres."
+    },
+    {
+        "input": "¿cuál es el significado de chegóu a dashoras , cumu siempres en español?",
+        "output": "Simplemente se dice llegó a deshora, como siempre en español."
+    },
+    {
+        "input": "¿me traduces ¡ya tiene bastante para ella! al leonés?",
+        "output": "En leonés se diría ¡eilla yá tien bien d'eillu !."
+    },
+    {
+        "input": "¿qué quiere decir ¡eilla yá tien bien d'eillu ! en español?",
+        "output": "En español diríamos ¡ya tiene bastante para ella!."
+    },
+    {
+        "input": "¿sabes cómo se dice acertaste (dengue = chal pequeño) en leonés?",
+        "output": "Eso en leonés sería diesti nel denge."
+    },
+    {
+        "input": "¿cómo se entiende diesti nel denge en español?",
+        "output": "Acertaste (dengue = chal pequeño) es lo que quiere decir en español."
+    },
+    {
+        "input": "Quiero saber cómo se dice malvendió la casa en leonés",
+        "output": "Eso en leonés sería dióu la casa al desbarate."
+    },
+    {
+        "input": "¿cuál es el significado de dióu la casa al desbarate en español?",
+        "output": "La forma en español es malvendió la casa."
+    },
+    {
+        "input": "¿cómo se diría contó la cosa de pasada en leonés?",
+        "output": "En leonés usarías la palabra contóu la cousa deslláu."
+    },
+    {
+        "input": "¿me puedes traducir contóu la cousa deslláu al español?",
+        "output": "La forma en español es contó la cosa de pasada."
+    },
+    {
+        "input": "¿cómo se traduce estoy acostumbrado a comer con la cuchara al leonés?",
+        "output": "Eso en leonés sería tou ensiñáu a xantare cuna cuchar."
+    },
+    {
+        "input": "¿me puedes traducir tou ensiñáu a xantare cuna cuchar al español?",
+        "output": "Eso en español se dice estoy acostumbrado a comer con la cuchara."
+    },
+    {
+        "input": "¿sabes cómo se dice no estoy acostumbrado a hacerlo en leonés?",
+        "output": "En leonés se diría nun tou avezáu (ensiñáu) a facelu."
+    },
+    {
+        "input": "¿me puedes traducir nun tou avezáu (ensiñáu) a facelu al español?",
+        "output": "Simplemente se dice no estoy acostumbrado a hacerlo en español."
+    },
+    {
+        "input": "¿me traduces hasta ahora se habían mirado mal al leonés?",
+        "output": "La traducción al leonés sería ata agora se tenían miráu mal."
+    },
+    {
+        "input": "¿cómo se entiende ata agora se tenían miráu mal en español?",
+        "output": "Esa palabra significa hasta ahora se habían mirado mal en español."
+    },
+    {
+        "input": "¿cómo se diría no habían hecho nada en leonés?",
+        "output": "En idioma leonés se dice nun tenían feichu ná."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir nun tenían feichu ná en español?",
+        "output": "La traducción al español sería no habían hecho nada."
+    },
+    {
+        "input": "¿puedes pasarme en la parte de abajo al leonés?",
+        "output": "En leonés se diría nu baxeiru."
+    },
+    {
+        "input": "¿cómo diríamos nu baxeiru en español?",
+        "output": "Simplemente se dice en la parte de abajo en español."
+    },
+    {
+        "input": "¿me traduces en la parte de arriba al leonés?",
+        "output": "Se traduce como nu cimeiru en leonés."
+    },
+    {
+        "input": "¿cuál es el significado de nu cimeiru en español?",
+        "output": "Lo traducimos al español como en la parte de arriba."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice de hoy en ocho días en leonés?",
+        "output": "En idioma leonés se dice de guei n'ochu días."
+    },
+    {
+        "input": "¿sabes cómo se traduce de guei n'ochu días al español?",
+        "output": "Esa palabra significa de hoy en ocho días en español."
+    },
+    {
+        "input": "¿cómo se diría por culpa de... en leonés?",
+        "output": "En idioma leonés se dice pula mor de...."
+    },
+    {
+        "input": "¿cuál es el significado de pula mor de... en español?",
+        "output": "Por culpa de... sería su equivalente en español."
+    },
+    {
+        "input": "¿cómo se diría ¿qué fecha es hoy? en leonés?",
+        "output": "Eso en leonés sería ¿quéi data ye guei?."
+    },
+    {
+        "input": "¿sabes cómo se traduce ¿quéi data ye guei? al español?",
+        "output": "La traducción al español sería ¿qué fecha es hoy?."
+    },
+    {
+        "input": "Quiero saber cómo se dice miercoles, 27 de febrero en leonés",
+        "output": "En idioma leonés se dice miércoles, febreiru y 27."
+    },
+    {
+        "input": "¿cuál es el significado de miércoles, febreiru y 27 en español?",
+        "output": "En español diríamos miercoles, 27 de febrero."
+    },
+    {
+        "input": "¿sabes cómo se dice nadie te quiere ver en leonés?",
+        "output": "Naide nun te quier vere es la forma leonesa."
+    },
+    {
+        "input": "¿qué significa exactamente naide nun te quier vere en español?",
+        "output": "Nadie te quiere ver es lo que quiere decir en español."
+    },
+    {
+        "input": "¿cómo se diría jugar a la gallina ciega en leonés?",
+        "output": "Eso en leonés sería xugar a pitaciega."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir xugar a pitaciega en español?",
+        "output": "Simplemente se dice jugar a la gallina ciega en español."
+    },
+    {
+        "input": "¿sabes cómo se dice ir en contra de algo en leonés?",
+        "output": "Diríamos simplemente dir a la escontra dalgu en leonés."
+    },
+    {
+        "input": "¿qué significa exactamente dir a la escontra dalgu en español?",
+        "output": "La traducción al español sería ir en contra de algo."
+    },
+    {
+        "input": "¿puedes pasarme no logro entenderlo al leonés?",
+        "output": "La traducción al leonés sería nun sou quien a pescancialu."
+    },
+    {
+        "input": "¿qué significa exactamente nun sou quien a pescancialu en español?",
+        "output": "Eso en español se dice no logro entenderlo."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir podemos oír la canción?",
+        "output": "Eso en leonés sería somos a sentire' l cantar."
+    },
+    {
+        "input": "¿cómo se entiende somos a sentire' l cantar en español?",
+        "output": "Eso en español se dice podemos oír la canción."
+    },
+    {
+        "input": "¿puedes pasarme en un principio... al leonés?",
+        "output": "Diríamos simplemente nun entamu... en leonés."
+    },
+    {
+        "input": "¿sabes cómo se traduce nun entamu... al español?",
+        "output": "Lo traducimos al español como en un principio...."
+    },
+    {
+        "input": "Quiero saber cómo se dice de vez en cuando en leonés",
+        "output": "De vuelta en cuandu / de cuandu en vez es la manera correcta en leonés."
+    },
+    {
+        "input": "¿cómo se entiende de vuelta en cuandu / de cuandu en vez en español?",
+        "output": "Eso en español se dice de vez en cuando."
+    },
+    {
+        "input": "Quiero saber cómo se dice hizo hincapié en su edad en leonés",
+        "output": "En leonés usarías la palabra fizu fincapía na sua edá."
+    },
+    {
+        "input": "¿me puedes traducir fizu fincapía na sua edá al español?",
+        "output": "Esa palabra significa hizo hincapié en su edad en español."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice romper en aplausos en leonés?",
+        "output": "En leonés se diría estoupare n'aplausos."
+    },
+    {
+        "input": "¿qué significa exactamente estoupare n'aplausos en español?",
+        "output": "Eso en español se dice romper en aplausos."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir estar embobado, distraído?",
+        "output": "En leonés usarías la palabra tare nas apabardas / tare mirandu las apabardas."
+    },
+    {
+        "input": "¿sabes cómo se traduce tare nas apabardas / tare mirandu las apabardas al español?",
+        "output": "En español eso significa estar embobado, distraído."
+    },
+    {
+        "input": "¿cómo se diría llegó a deshora, como siempre en leonés?",
+        "output": "Diríamos simplemente chegóu a dashoras , cumu siempres en leonés."
+    },
+    {
+        "input": "¿sabes cómo se traduce chegóu a dashoras , cumu siempres al español?",
+        "output": "En español diríamos llegó a deshora, como siempre."
+    },
+    {
+        "input": "¿cómo se traduce ¡ya tiene bastante para ella! al leonés?",
+        "output": "En idioma leonés se dice ¡eilla yá tien bien d'eillu !."
+    },
+    {
+        "input": "¿qué quiere decir ¡eilla yá tien bien d'eillu ! en español?",
+        "output": "Lo traducimos al español como ¡ya tiene bastante para ella!."
+    },
+    {
+        "input": "¿sabes cómo se dice acertaste (dengue = chal pequeño) en leonés?",
+        "output": "Se traduce como diesti nel denge en leonés."
+    },
+    {
+        "input": "¿cómo diríamos diesti nel denge en español?",
+        "output": "Acertaste (dengue = chal pequeño) sería su equivalente en español."
+    },
+    {
+        "input": "¿sabes cómo se dice malvendió la casa en leonés?",
+        "output": "Diríamos simplemente dióu la casa al desbarate en leonés."
+    },
+    {
+        "input": "¿cómo diríamos dióu la casa al desbarate en español?",
+        "output": "La forma en español es malvendió la casa."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice contó la cosa de pasada en leonés?",
+        "output": "La traducción al leonés sería contóu la cousa deslláu."
+    },
+    {
+        "input": "¿sabes cómo se traduce contóu la cousa deslláu al español?",
+        "output": "Contó la cosa de pasada sería su equivalente en español."
+    },
+    {
+        "input": "¿cómo se diría estoy acostumbrado a comer con la cuchara en leonés?",
+        "output": "En leonés usarías la palabra tou ensiñáu a xantare cuna cuchar."
+    },
+    {
+        "input": "¿cuál es el significado de tou ensiñáu a xantare cuna cuchar en español?",
+        "output": "Estoy acostumbrado a comer con la cuchara sería su equivalente en español."
+    },
+    {
+        "input": "¿cómo se diría no estoy acostumbrado a hacerlo en leonés?",
+        "output": "En leonés se diría nun tou avezáu (ensiñáu) a facelu."
+    },
+    {
+        "input": "¿qué quiere decir nun tou avezáu (ensiñáu) a facelu en español?",
+        "output": "En español diríamos no estoy acostumbrado a hacerlo."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice cuanto más tienes más quieres en leonés?",
+        "output": "En idioma leonés se dice ente más tienes más quieres."
+    },
+    {
+        "input": "¿qué quiere decir ente más tienes más quieres en español?",
+        "output": "La forma en español es cuanto más tienes más quieres."
+    },
+    {
+        "input": "Quiero saber cómo se dice siempre andas curioseando en leonés",
+        "output": "En idioma leonés se dice siempres andas fediendu / tas cuceandu / tas a la oleta."
+    },
+    {
+        "input": "¿cuál es el significado de siempres andas fediendu / tas cuceandu / tas a la oleta en español?",
+        "output": "Eso en español se dice siempre andas curioseando."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir tomar algo ligero (comida)?",
+        "output": "Tomar un gabis es la forma leonesa."
+    },
+    {
+        "input": "¿cómo diríamos tomar un gabis en español?",
+        "output": "La traducción al español sería tomar algo ligero (comida)."
+    },
+    {
+        "input": "¿cómo se traduce ir encorvado, alicaído, cabizbajo al leonés?",
+        "output": "En leonés se diría dire gachu."
+    },
+    {
+        "input": "¿cómo se dice dire gachu en español?",
+        "output": "Simplemente se dice ir encorvado, alicaído, cabizbajo en español."
+    },
+    {
+        "input": "¿me traduces de paso, cómprame varias cosas al leonés?",
+        "output": "De manu , mércame deillas cousas es la forma leonesa."
+    },
+    {
+        "input": "¿me puedes traducir de manu , mércame deillas cousas al español?",
+        "output": "En español diríamos de paso, cómprame varias cosas."
+    },
+    {
+        "input": "¿sabes cómo se dice se está haciendo el remolón en leonés?",
+        "output": "Ta faciendu la goña es la manera correcta en leonés."
+    },
+    {
+        "input": "¿cómo se dice ta faciendu la goña en español?",
+        "output": "La forma en español es se está haciendo el remolón."
+    },
+    {
+        "input": "¿puedes pasarme lo pilló con las manos en la masa al leonés?",
+        "output": "En idioma leonés se dice pillóulu nel intre."
+    },
+    {
+        "input": "¿qué quiere decir pillóulu nel intre en español?",
+        "output": "La forma en español es lo pilló con las manos en la masa."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice no lo uso, no lo utilizo para nada en leonés?",
+        "output": "La traducción al leonés sería nun ye mandu nada."
+    },
+    {
+        "input": "¿sabes cómo se traduce nun ye mandu nada al español?",
+        "output": "Lo traducimos al español como no lo uso, no lo utilizo para nada."
+    },
+    {
+        "input": "¿cómo se traduce no lo haré nunca más al leonés?",
+        "output": "En idioma leonés se dice nun lu fadréi más nunca."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir nun lu fadréi más nunca en español?",
+        "output": "En español eso significa no lo haré nunca más."
+    },
+    {
+        "input": "¿sabes cómo se dice cogen gusto por... en leonés?",
+        "output": "Eso en leonés sería cueyen preste pur...."
+    },
+    {
+        "input": "¿qué quiere decir cueyen preste pur... en español?",
+        "output": "En español eso significa cogen gusto por...."
+    },
+    {
+        "input": "¿cómo se traduce le di la razón porque tenía prisa al leonés?",
+        "output": "Diye'l parabién purque tenía priesa es la manera correcta en leonés."
+    },
+    {
+        "input": "¿sabes cómo se traduce diye'l parabién purque tenía priesa al español?",
+        "output": "La forma en español es le di la razón porque tenía prisa."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice ¡deja de hacer el tonto! en leonés?",
+        "output": "En leonés se diría ¡deixa de facere'l pardal!."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir ¡deixa de facere'l pardal! en español?",
+        "output": "¡deja de hacer el tonto! sería su equivalente en español."
+    },
+    {
+        "input": "¿cómo se diría marcharse sin avisar en leonés?",
+        "output": "En leonés se diría coyere'l pendín."
+    },
+    {
+        "input": "¿cómo se entiende coyere'l pendín en español?",
+        "output": "Simplemente se dice marcharse sin avisar en español."
+    },
+    {
+        "input": "¿me traduces hay mucha pendiente, está muy inclinado al leonés?",
+        "output": "Se traduce como tá mui pindiu en leonés."
+    },
+    {
+        "input": "¿cómo se dice tá mui pindiu en español?",
+        "output": "Hay mucha pendiente, está muy inclinado sería su equivalente en español."
+    },
+    {
+        "input": "¿cómo se traduce esto no me sienta bien al leonés?",
+        "output": "La traducción al leonés sería estu nun me pinta bien."
+    },
+    {
+        "input": "¿cómo se entiende estu nun me pinta bien en español?",
+        "output": "Esa palabra significa esto no me sienta bien en español."
+    },
+    {
+        "input": "¿puedes pasarme éste tiene aspecto de ser un idiota (tonto) al leonés?",
+        "output": "Diríamos simplemente ésti tien pinta de ser un pailán en leonés."
+    },
+    {
+        "input": "¿cómo diríamos ésti tien pinta de ser un pailán en español?",
+        "output": "Lo traducimos al español como éste tiene aspecto de ser un idiota (tonto)."
+    },
+    {
+        "input": "Quiero saber cómo se dice están cayendo unas gotas (de lluvia) en leonés",
+        "output": "Eso en leonés sería tán cayendu unas pintas / tá pintiandu."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir tán cayendu unas pintas / tá pintiandu en español?",
+        "output": "Simplemente se dice están cayendo unas gotas (de lluvia) en español."
+    },
+    {
+        "input": "¿sabes cómo se dice iba parando de trecho en trecho en leonés?",
+        "output": "Eso en leonés sería diba parandu a pousas."
+    },
+    {
+        "input": "¿cómo se entiende diba parandu a pousas en español?",
+        "output": "La traducción al español sería iba parando de trecho en trecho."
+    },
+    {
+        "input": "¿sabes cómo se dice lo hizó de un tirón (de una vez) en leonés?",
+        "output": "Diríamos simplemente fízulu d'una pousa en leonés."
+    },
+    {
+        "input": "¿cuál es el significado de fízulu d'una pousa en español?",
+        "output": "Simplemente se dice lo hizó de un tirón (de una vez) en español."
+    },
+    {
+        "input": "¿sabes cómo se dice ya no nos debemos nada / estamos en paz en leonés?",
+        "output": "Diríamos simplemente yá tamos a pré en leonés."
+    },
+    {
+        "input": "¿sabes cómo se traduce yá tamos a pré al español?",
+        "output": "Eso en español se dice ya no nos debemos nada / estamos en paz."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice iba como un rayo en leonés?",
+        "output": "Diríamos simplemente diba cumu una salación en leonés."
+    },
+    {
+        "input": "¿sabes cómo se traduce diba cumu una salación al español?",
+        "output": "Iba como un rayo es lo que quiere decir en español."
+    },
+    {
+        "input": "¿cómo se diría tenía mucha sed y corrió hacia el agua en leonés?",
+        "output": "Tenía secañu y corrióu p'hacia l'augua es la forma leonesa."
+    },
+    {
+        "input": "¿qué significa exactamente tenía secañu y corrióu p'hacia l'augua en español?",
+        "output": "Eso en español se dice tenía mucha sed y corrió hacia el agua."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice se le metió en la cabeza y se fue en leonés?",
+        "output": "En idioma leonés se dice dióuye la ventolada/ventolera y marchóuse."
+    },
+    {
+        "input": "¿cuál es el significado de dióuye la ventolada/ventolera y marchóuse en español?",
+        "output": "Esa palabra significa se le metió en la cabeza y se fue en español."
+    },
+    {
+        "input": "¿cómo se diría llamar a la puerta en leonés?",
+        "output": "En leonés usarías la palabra picare la puerta."
+    },
+    {
+        "input": "¿qué significa exactamente picare la puerta en español?",
+        "output": "La forma en español es llamar a la puerta."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice una serie de circunstancias en leonés?",
+        "output": "En idioma leonés se dice una riestra circustancias."
+    },
+    {
+        "input": "¿qué significa exactamente una riestra circustancias en español?",
+        "output": "La forma en español es una serie de circunstancias."
+    },
+    {
+        "input": "¿sabes cómo se dice cuanto más tienes más quieres en leonés?",
+        "output": "Se traduce como ente más tienes más quieres en leonés."
+    },
+    {
+        "input": "¿cómo se entiende ente más tienes más quieres en español?",
+        "output": "Eso en español se dice cuanto más tienes más quieres."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir siempre andas curioseando?",
+        "output": "La traducción al leonés sería siempres andas fediendu / tas cuceandu / tas a la oleta."
+    },
+    {
+        "input": "¿qué quiere decir siempres andas fediendu / tas cuceandu / tas a la oleta en español?",
+        "output": "Lo traducimos al español como siempre andas curioseando."
+    },
+    {
+        "input": "¿puedes pasarme tomar algo ligero (comida) al leonés?",
+        "output": "Diríamos simplemente tomar un gabis en leonés."
+    },
+    {
+        "input": "¿cuál es el significado de tomar un gabis en español?",
+        "output": "La traducción al español sería tomar algo ligero (comida)."
+    },
+    {
+        "input": "¿cómo se traduce ir encorvado, alicaído, cabizbajo al leonés?",
+        "output": "La traducción al leonés sería dire gachu."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir dire gachu en español?",
+        "output": "La traducción al español sería ir encorvado, alicaído, cabizbajo."
+    },
+    {
+        "input": "¿cómo se traduce de paso, cómprame varias cosas al leonés?",
+        "output": "De manu , mércame deillas cousas es la forma leonesa."
+    },
+    {
+        "input": "¿cuál es el significado de de manu , mércame deillas cousas en español?",
+        "output": "Eso en español se dice de paso, cómprame varias cosas."
+    },
+    {
+        "input": "¿me traduces se está haciendo el remolón al leonés?",
+        "output": "La traducción al leonés sería ta faciendu la goña."
+    },
+    {
+        "input": "¿cómo se entiende ta faciendu la goña en español?",
+        "output": "En español eso significa se está haciendo el remolón."
+    },
+    {
+        "input": "Quiero saber cómo se dice lo pilló con las manos en la masa en leonés",
+        "output": "En leonés usarías la palabra pillóulu nel intre."
+    },
+    {
+        "input": "¿cómo se entiende pillóulu nel intre en español?",
+        "output": "Esa palabra significa lo pilló con las manos en la masa en español."
+    },
+    {
+        "input": "¿cómo se traduce no lo uso, no lo utilizo para nada al leonés?",
+        "output": "Diríamos simplemente nun ye mandu nada en leonés."
+    },
+    {
+        "input": "¿sabes cómo se traduce nun ye mandu nada al español?",
+        "output": "La traducción al español sería no lo uso, no lo utilizo para nada."
+    },
+    {
+        "input": "¿sabes cómo se dice no lo haré nunca más en leonés?",
+        "output": "En idioma leonés se dice nun lu fadréi más nunca."
+    },
+    {
+        "input": "¿cómo se dice nun lu fadréi más nunca en español?",
+        "output": "Lo traducimos al español como no lo haré nunca más."
+    },
+    {
+        "input": "¿cómo se diría cogen gusto por... en leonés?",
+        "output": "Eso en leonés sería cueyen preste pur...."
+    },
+    {
+        "input": "¿qué quiere decir cueyen preste pur... en español?",
+        "output": "Cogen gusto por... es lo que quiere decir en español."
+    },
+    {
+        "input": "Quiero saber cómo se dice le di la razón porque tenía prisa en leonés",
+        "output": "Diye'l parabién purque tenía priesa es la manera correcta en leonés."
+    },
+    {
+        "input": "¿qué quiere decir diye'l parabién purque tenía priesa en español?",
+        "output": "Lo traducimos al español como le di la razón porque tenía prisa."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir ¡deja de hacer el tonto!?",
+        "output": "La traducción al leonés sería ¡deixa de facere'l pardal!."
+    },
+    {
+        "input": "¿cuál es el significado de ¡deixa de facere'l pardal! en español?",
+        "output": "La traducción al español sería ¡deja de hacer el tonto!."
+    },
+    {
+        "input": "¿puedes pasarme marcharse sin avisar al leonés?",
+        "output": "La traducción al leonés sería coyere'l pendín."
+    },
+    {
+        "input": "¿qué quiere decir coyere'l pendín en español?",
+        "output": "Eso en español se dice marcharse sin avisar."
+    },
+    {
+        "input": "Quiero saber cómo se dice hay mucha pendiente, está muy inclinado en leonés",
+        "output": "La traducción al leonés sería tá mui pindiu."
+    },
+    {
+        "input": "¿qué quiere decir tá mui pindiu en español?",
+        "output": "Esa palabra significa hay mucha pendiente, está muy inclinado en español."
+    },
+    {
+        "input": "¿puedes pasarme esto no me sienta bien al leonés?",
+        "output": "Diríamos simplemente estu nun me pinta bien en leonés."
+    },
+    {
+        "input": "¿cómo diríamos estu nun me pinta bien en español?",
+        "output": "La forma en español es esto no me sienta bien."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir éste tiene aspecto de ser un idiota (tonto)?",
+        "output": "Ésti tien pinta de ser un pailán es la forma leonesa."
+    },
+    {
+        "input": "¿cuál es el significado de ésti tien pinta de ser un pailán en español?",
+        "output": "Eso en español se dice éste tiene aspecto de ser un idiota (tonto)."
+    },
+    {
+        "input": "Quiero saber cómo se dice están cayendo unas gotas (de lluvia) en leonés",
+        "output": "Tán cayendu unas pintas / tá pintiandu es la manera correcta en leonés."
+    },
+    {
+        "input": "¿sabes cómo se traduce tán cayendu unas pintas / tá pintiandu al español?",
+        "output": "La traducción al español sería están cayendo unas gotas (de lluvia)."
+    },
+    {
+        "input": "¿cómo se diría iba parando de trecho en trecho en leonés?",
+        "output": "La traducción al leonés sería diba parandu a pousas."
+    },
+    {
+        "input": "¿qué quiere decir diba parandu a pousas en español?",
+        "output": "Lo traducimos al español como iba parando de trecho en trecho."
+    },
+    {
+        "input": "¿puedes pasarme lo hizó de un tirón (de una vez) al leonés?",
+        "output": "En leonés usarías la palabra fízulu d'una pousa."
+    },
+    {
+        "input": "¿sabes cómo se traduce fízulu d'una pousa al español?",
+        "output": "Lo traducimos al español como lo hizó de un tirón (de una vez)."
+    },
+    {
+        "input": "Quiero saber cómo se dice ya no nos debemos nada / estamos en paz en leonés",
+        "output": "En leonés se diría yá tamos a pré."
+    },
+    {
+        "input": "¿cómo se dice yá tamos a pré en español?",
+        "output": "Lo traducimos al español como ya no nos debemos nada / estamos en paz."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice iba como un rayo en leonés?",
+        "output": "Diba cumu una salación es la manera correcta en leonés."
+    },
+    {
+        "input": "¿cómo diríamos diba cumu una salación en español?",
+        "output": "En español eso significa iba como un rayo."
+    },
+    {
+        "input": "¿puedes pasarme tenía mucha sed y corrió hacia el agua al leonés?",
+        "output": "En leonés usarías la palabra tenía secañu y corrióu p'hacia l'augua."
+    },
+    {
+        "input": "¿cuál es el significado de tenía secañu y corrióu p'hacia l'augua en español?",
+        "output": "Esa palabra significa tenía mucha sed y corrió hacia el agua en español."
+    },
+    {
+        "input": "¿cómo se traduce se le metió en la cabeza y se fue al leonés?",
+        "output": "En idioma leonés se dice dióuye la ventolada/ventolera y marchóuse."
+    },
+    {
+        "input": "¿cómo diríamos dióuye la ventolada/ventolera y marchóuse en español?",
+        "output": "Se le metió en la cabeza y se fue sería su equivalente en español."
+    },
+    {
+        "input": "¿sabes cómo se dice llamar a la puerta en leonés?",
+        "output": "Diríamos simplemente picare la puerta en leonés."
+    },
+    {
+        "input": "¿cuál es el significado de picare la puerta en español?",
+        "output": "Llamar a la puerta sería su equivalente en español."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice una serie de circunstancias en leonés?",
+        "output": "La traducción al leonés sería una riestra circustancias."
+    },
+    {
+        "input": "¿qué significa exactamente una riestra circustancias en español?",
+        "output": "En español diríamos una serie de circunstancias."
+    },
+    {
+        "input": "¿cómo se traduce el tiempo está triste (de niebla o lluvia) al leonés?",
+        "output": "Diríamos simplemente el tiempu ta aburrináu en leonés."
+    },
+    {
+        "input": "¿qué quiere decir el tiempu ta aburrináu en español?",
+        "output": "El tiempo está triste (de niebla o lluvia) sería su equivalente en español."
+    },
+    {
+        "input": "¿sabes cómo se dice en esta habitación todo está desordenado en leonés?",
+        "output": "N'esti cuartu tou tá acabaláu es la forma leonesa."
+    },
+    {
+        "input": "¿sabes cómo se traduce n'esti cuartu tou tá acabaláu al español?",
+        "output": "Simplemente se dice en esta habitación todo está desordenado en español."
+    },
+    {
+        "input": "¿cómo se diría ir con la cabeza descubierta en leonés?",
+        "output": "En leonés se diría andar a pelote."
+    },
+    {
+        "input": "¿me puedes traducir andar a pelote al español?",
+        "output": "Lo traducimos al español como ir con la cabeza descubierta."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice se fue a toda prisa en leonés?",
+        "output": "Se traduce como marchóu ascape en leonés."
+    },
+    {
+        "input": "¿me puedes traducir marchóu ascape al español?",
+        "output": "Eso en español se dice se fue a toda prisa."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir no me des la espalda?",
+        "output": "En leonés usarías la palabra nun me vuelvas el llombu."
+    },
+    {
+        "input": "¿qué significa exactamente nun me vuelvas el llombu en español?",
+        "output": "Eso en español se dice no me des la espalda."
+    },
+    {
+        "input": "¿me traduces en el monte me encuentro bien al leonés?",
+        "output": "Nel monte siéntume bien es la manera correcta en leonés."
+    },
+    {
+        "input": "¿cuál es el significado de nel monte siéntume bien en español?",
+        "output": "Esa palabra significa en el monte me encuentro bien en español."
+    },
+    {
+        "input": "¿puedes pasarme en el momento en que cogío las llaves al leonés?",
+        "output": "Eso en leonés sería nu intre que coyera las chaves."
+    },
+    {
+        "input": "¿cómo se entiende nu intre que coyera las chaves en español?",
+        "output": "En español eso significa en el momento en que cogío las llaves."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice se pone en marcha en leonés?",
+        "output": "La traducción al leonés sería ponse en furrulamientu."
+    },
+    {
+        "input": "¿qué significa exactamente ponse en furrulamientu en español?",
+        "output": "Simplemente se dice se pone en marcha en español."
+    },
+    {
+        "input": "¿puedes pasarme hacerlo de un modo experimental al leonés?",
+        "output": "La traducción al leonés sería facelu d'un xeitu esprimental."
+    },
+    {
+        "input": "¿qué quiere decir facelu d'un xeitu esprimental en español?",
+        "output": "Hacerlo de un modo experimental sería su equivalente en español."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir acabo de estar hablando con ella?",
+        "output": "Vengu de tare falandu cun eilla es la manera correcta en leonés."
+    },
+    {
+        "input": "¿cómo diríamos vengu de tare falandu cun eilla en español?",
+        "output": "Esa palabra significa acabo de estar hablando con ella en español."
+    },
+    {
+        "input": "¿puedes pasarme ¿por qué demonios...? al leonés?",
+        "output": "¿pur quéi demontres …? ¿pur quéi diaños...? es la forma leonesa."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir ¿pur quéi demontres …? ¿pur quéi diaños...? en español?",
+        "output": "La forma en español es ¿por qué demonios...?."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir llegaré a las diez como muy tarde?",
+        "output": "Diríamos simplemente chegaréi a las diez a lu más en leonés."
+    },
+    {
+        "input": "¿cómo se dice chegaréi a las diez a lu más en español?",
+        "output": "Lo traducimos al español como llegaré a las diez como muy tarde."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice alcánzame (doblándola) esa rama en leonés?",
+        "output": "Eso en leonés sería abángame esa rama."
+    },
+    {
+        "input": "¿sabes cómo se traduce abángame esa rama al español?",
+        "output": "La forma en español es alcánzame (doblándola) esa rama."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir ¡la madre que te parió!?",
+        "output": "Diríamos simplemente ¡la mai que t'abatanóu! en leonés."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir ¡la mai que t'abatanóu! en español?",
+        "output": "¡la madre que te parió! es lo que quiere decir en español."
+    },
+    {
+        "input": "¿cómo se traduce las chicas estaban a cubierto al leonés?",
+        "output": "En leonés usarías la palabra las mozas taban a l'abrigada."
+    },
+    {
+        "input": "¿cómo se dice las mozas taban a l'abrigada en español?",
+        "output": "La traducción al español sería las chicas estaban a cubierto."
+    },
+    {
+        "input": "¿cómo se traduce colocó el vaso boca a bajo sobre la mesa al leonés?",
+        "output": "Eso en leonés sería abrucóu'l vasu sobru la mesa."
+    },
+    {
+        "input": "¿cómo se entiende abrucóu'l vasu sobru la mesa en español?",
+        "output": "Esa palabra significa colocó el vaso boca a bajo sobre la mesa en español."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice ¡despertó con una cara...! en leonés?",
+        "output": "En leonés se diría ¡espertóu cun un caretu... !."
+    },
+    {
+        "input": "¿qué quiere decir ¡espertóu cun un caretu... ! en español?",
+        "output": "Lo traducimos al español como ¡despertó con una cara...!."
+    },
+    {
+        "input": "¿cómo se diría mirar por encima del hombro en leonés?",
+        "output": "Diríamos simplemente mirare pur enriba'l costazu en leonés."
+    },
+    {
+        "input": "¿sabes cómo se traduce mirare pur enriba'l costazu al español?",
+        "output": "Lo traducimos al español como mirar por encima del hombro."
+    },
+    {
+        "input": "¿puedes pasarme llevar al hombro al leonés?",
+        "output": "Eso en leonés sería llevar al costazu."
+    },
+    {
+        "input": "¿cómo se dice llevar al costazu en español?",
+        "output": "Esa palabra significa llevar al hombro en español."
+    },
+    {
+        "input": "¿puedes pasarme fruncir el ceño al leonés?",
+        "output": "Engurriare'l ceñu es la forma leonesa."
+    },
+    {
+        "input": "¿me puedes traducir engurriare'l ceñu al español?",
+        "output": "En español diríamos fruncir el ceño."
+    },
+    {
+        "input": "¿sabes cómo se dice no prestaba atención a nada en leonés?",
+        "output": "Nun atendía a ná es la manera correcta en leonés."
+    },
+    {
+        "input": "¿qué quiere decir nun atendía a ná en español?",
+        "output": "Esa palabra significa no prestaba atención a nada en español."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir por esta vez te perdono?",
+        "output": "La traducción al leonés sería d'ésta te perdonu."
+    },
+    {
+        "input": "¿cuál es el significado de d'ésta te perdonu en español?",
+        "output": "Simplemente se dice por esta vez te perdono en español."
+    },
+    {
+        "input": "¿cómo se traduce en muchas ocasiones llegas tarde al leonés?",
+        "output": "La traducción al leonés sería en bien d 'ocasiones chegas tarde."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir en bien d 'ocasiones chegas tarde en español?",
+        "output": "En muchas ocasiones llegas tarde sería su equivalente en español."
+    },
+    {
+        "input": "¿cómo se traduce juega con el objetivo / intención de ganar al leonés?",
+        "output": "Se traduce como xuega cul envís de gañare en leonés."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir xuega cul envís de gañare en español?",
+        "output": "Esa palabra significa juega con el objetivo / intención de ganar en español."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice iba a espaldas del hombre en leonés?",
+        "output": "Se traduce como diba a llombos de l'home en leonés."
+    },
+    {
+        "input": "¿cómo diríamos diba a llombos de l'home en español?",
+        "output": "Iba a espaldas del hombre es lo que quiere decir en español."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice el tiempo está triste (de niebla o lluvia) en leonés?",
+        "output": "El tiempu ta aburrináu es la manera correcta en leonés."
+    },
+    {
+        "input": "¿cómo se entiende el tiempu ta aburrináu en español?",
+        "output": "En español eso significa el tiempo está triste (de niebla o lluvia)."
+    },
+    {
+        "input": "¿me traduces en esta habitación todo está desordenado al leonés?",
+        "output": "En idioma leonés se dice n'esti cuartu tou tá acabaláu."
+    },
+    {
+        "input": "¿cómo se entiende n'esti cuartu tou tá acabaláu en español?",
+        "output": "Eso en español se dice en esta habitación todo está desordenado."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir ir con la cabeza descubierta?",
+        "output": "Andar a pelote es la forma leonesa."
+    },
+    {
+        "input": "¿cuál es el significado de andar a pelote en español?",
+        "output": "Ir con la cabeza descubierta es lo que quiere decir en español."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir se fue a toda prisa?",
+        "output": "Se traduce como marchóu ascape en leonés."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir marchóu ascape en español?",
+        "output": "Esa palabra significa se fue a toda prisa en español."
+    },
+    {
+        "input": "Quiero saber cómo se dice no me des la espalda en leonés",
+        "output": "En leonés se diría nun me vuelvas el llombu."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir nun me vuelvas el llombu en español?",
+        "output": "No me des la espalda sería su equivalente en español."
+    },
+    {
+        "input": "¿me traduces en el monte me encuentro bien al leonés?",
+        "output": "Nel monte siéntume bien es la forma leonesa."
+    },
+    {
+        "input": "¿cómo se dice nel monte siéntume bien en español?",
+        "output": "La traducción al español sería en el monte me encuentro bien."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice en el momento en que cogío las llaves en leonés?",
+        "output": "Se traduce como nu intre que coyera las chaves en leonés."
+    },
+    {
+        "input": "¿me puedes traducir nu intre que coyera las chaves al español?",
+        "output": "La traducción al español sería en el momento en que cogío las llaves."
+    },
+    {
+        "input": "¿puedes pasarme se pone en marcha al leonés?",
+        "output": "En idioma leonés se dice ponse en furrulamientu."
+    },
+    {
+        "input": "¿cómo diríamos ponse en furrulamientu en español?",
+        "output": "Lo traducimos al español como se pone en marcha."
+    },
+    {
+        "input": "¿cómo se traduce hacerlo de un modo experimental al leonés?",
+        "output": "Eso en leonés sería facelu d'un xeitu esprimental."
+    },
+    {
+        "input": "¿cuál es el significado de facelu d'un xeitu esprimental en español?",
+        "output": "La traducción al español sería hacerlo de un modo experimental."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir acabo de estar hablando con ella?",
+        "output": "La traducción al leonés sería vengu de tare falandu cun eilla."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir vengu de tare falandu cun eilla en español?",
+        "output": "Acabo de estar hablando con ella es lo que quiere decir en español."
+    },
+    {
+        "input": "¿cómo se diría ¿por qué demonios...? en leonés?",
+        "output": "¿pur quéi demontres …? ¿pur quéi diaños...? es la manera correcta en leonés."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir ¿pur quéi demontres …? ¿pur quéi diaños...? en español?",
+        "output": "Esa palabra significa ¿por qué demonios...? en español."
+    },
+    {
+        "input": "¿sabes cómo se dice llegaré a las diez como muy tarde en leonés?",
+        "output": "En leonés se diría chegaréi a las diez a lu más."
+    },
+    {
+        "input": "¿cómo se dice chegaréi a las diez a lu más en español?",
+        "output": "Lo traducimos al español como llegaré a las diez como muy tarde."
+    },
+    {
+        "input": "¿sabes cómo se dice alcánzame (doblándola) esa rama en leonés?",
+        "output": "Abángame esa rama es la forma leonesa."
+    },
+    {
+        "input": "¿me puedes traducir abángame esa rama al español?",
+        "output": "Simplemente se dice alcánzame (doblándola) esa rama en español."
+    },
+    {
+        "input": "Quiero saber cómo se dice ¡la madre que te parió! en leonés",
+        "output": "En idioma leonés se dice ¡la mai que t'abatanóu!."
+    },
+    {
+        "input": "¿cómo se entiende ¡la mai que t'abatanóu! en español?",
+        "output": "En español diríamos ¡la madre que te parió!."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir las chicas estaban a cubierto?",
+        "output": "La traducción al leonés sería las mozas taban a l'abrigada."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir las mozas taban a l'abrigada en español?",
+        "output": "En español eso significa las chicas estaban a cubierto."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir colocó el vaso boca a bajo sobre la mesa?",
+        "output": "Abrucóu'l vasu sobru la mesa es la manera correcta en leonés."
+    },
+    {
+        "input": "¿sabes cómo se traduce abrucóu'l vasu sobru la mesa al español?",
+        "output": "Lo traducimos al español como colocó el vaso boca a bajo sobre la mesa."
+    },
+    {
+        "input": "¿cómo se traduce ¡despertó con una cara...! al leonés?",
+        "output": "En leonés usarías la palabra ¡espertóu cun un caretu... !."
+    },
+    {
+        "input": "¿cuál es el significado de ¡espertóu cun un caretu... ! en español?",
+        "output": "En español diríamos ¡despertó con una cara...!."
+    },
+    {
+        "input": "Quiero saber cómo se dice mirar por encima del hombro en leonés",
+        "output": "En leonés usarías la palabra mirare pur enriba'l costazu."
+    },
+    {
+        "input": "¿sabes cómo se traduce mirare pur enriba'l costazu al español?",
+        "output": "Simplemente se dice mirar por encima del hombro en español."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice llevar al hombro en leonés?",
+        "output": "En leonés se diría llevar al costazu."
+    },
+    {
+        "input": "¿qué quiere decir llevar al costazu en español?",
+        "output": "Simplemente se dice llevar al hombro en español."
+    },
+    {
+        "input": "Quiero saber cómo se dice fruncir el ceño en leonés",
+        "output": "Se traduce como engurriare'l ceñu en leonés."
+    },
+    {
+        "input": "¿qué significa exactamente engurriare'l ceñu en español?",
+        "output": "Eso en español se dice fruncir el ceño."
+    },
+    {
+        "input": "¿cómo se diría no prestaba atención a nada en leonés?",
+        "output": "Diríamos simplemente nun atendía a ná en leonés."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir nun atendía a ná en español?",
+        "output": "Simplemente se dice no prestaba atención a nada en español."
+    },
+    {
+        "input": "¿puedes pasarme por esta vez te perdono al leonés?",
+        "output": "D'ésta te perdonu es la forma leonesa."
+    },
+    {
+        "input": "¿qué significa exactamente d'ésta te perdonu en español?",
+        "output": "Esa palabra significa por esta vez te perdono en español."
+    },
+    {
+        "input": "¿puedes pasarme en muchas ocasiones llegas tarde al leonés?",
+        "output": "Eso en leonés sería en bien d 'ocasiones chegas tarde."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir en bien d 'ocasiones chegas tarde en español?",
+        "output": "La forma en español es en muchas ocasiones llegas tarde."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir juega con el objetivo / intención de ganar?",
+        "output": "Xuega cul envís de gañare es la manera correcta en leonés."
+    },
+    {
+        "input": "¿me puedes traducir xuega cul envís de gañare al español?",
+        "output": "En español eso significa juega con el objetivo / intención de ganar."
+    },
+    {
+        "input": "¿cómo se diría iba a espaldas del hombre en leonés?",
+        "output": "Eso en leonés sería diba a llombos de l'home."
+    },
+    {
+        "input": "¿cómo se entiende diba a llombos de l'home en español?",
+        "output": "Lo traducimos al español como iba a espaldas del hombre."
+    },
+    {
+        "input": "Quiero saber cómo se dice arrimar el hombro en leonés",
+        "output": "En leonés se diría arimare'l llombu."
+    },
+    {
+        "input": "¿sabes cómo se traduce arimare'l llombu al español?",
+        "output": "En español diríamos arrimar el hombro."
+    },
+    {
+        "input": "¿me traduces dar la espalda a alguien al leonés?",
+        "output": "La traducción al leonés sería dar el llombu a daquién."
+    },
+    {
+        "input": "¿sabes cómo se traduce dar el llombu a daquién al español?",
+        "output": "Eso en español se dice dar la espalda a alguien."
+    },
+    {
+        "input": "¿cómo se diría está al final de la calle en leonés?",
+        "output": "Tá'l cabu la cai es la manera correcta en leonés."
+    },
+    {
+        "input": "¿me puedes traducir tá'l cabu la cai al español?",
+        "output": "En español eso significa está al final de la calle."
+    },
+    {
+        "input": "Quiero saber cómo se dice para terminar, voy a deciros una cosa en leonés",
+        "output": "Pa cabu / pa finare , vou dicivos una cousa es la forma leonesa."
+    },
+    {
+        "input": "¿cómo se entiende pa cabu / pa finare , vou dicivos una cousa en español?",
+        "output": "En español eso significa para terminar, voy a deciros una cosa."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir con arreglo a la ley?",
+        "output": "Diríamos simplemente cun igua a la llei en leonés."
+    },
+    {
+        "input": "¿qué quiere decir cun igua a la llei en español?",
+        "output": "En español diríamos con arreglo a la ley."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice en ningún caso en leonés?",
+        "output": "En casu dalu es la manera correcta en leonés."
+    },
+    {
+        "input": "¿me puedes traducir en casu dalu al español?",
+        "output": "La forma en español es en ningún caso."
+    },
+    {
+        "input": "¿sabes cómo se dice siempre está sacando punta de todo en leonés?",
+        "output": "La traducción al leonés sería siempres tá aguzandu."
+    },
+    {
+        "input": "¿sabes cómo se traduce siempres tá aguzandu al español?",
+        "output": "En español diríamos siempre está sacando punta de todo."
+    },
+    {
+        "input": "¿cómo se diría llenó el frasco a tope, apretando en leonés?",
+        "output": "En leonés se diría chenóu'l frascu arretacu."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir chenóu'l frascu arretacu en español?",
+        "output": "Simplemente se dice llenó el frasco a tope, apretando en español."
+    },
+    {
+        "input": "¿puedes pasarme tiene la piel reseca y escamada al leonés?",
+        "output": "Tien la piel arfiada es la forma leonesa."
+    },
+    {
+        "input": "¿cuál es el significado de tien la piel arfiada en español?",
+        "output": "La forma en español es tiene la piel reseca y escamada."
+    },
+    {
+        "input": "Quiero saber cómo se dice no sabe cómo hacerlo. es un torpe en leonés",
+        "output": "En idioma leonés se dice nun sabe cúmu facelu. ye un atáu .."
+    },
+    {
+        "input": "¿qué significa exactamente nun sabe cúmu facelu. ye un atáu . en español?",
+        "output": "La forma en español es no sabe cómo hacerlo. es un torpe."
+    },
+    {
+        "input": "¿sabes cómo se dice es muy inteligente en leonés?",
+        "output": "Eso en leonés sería tien mueitu caletre."
+    },
+    {
+        "input": "¿me puedes traducir tien mueitu caletre al español?",
+        "output": "Esa palabra significa es muy inteligente en español."
+    },
+    {
+        "input": "¿me traduces no se le puede decir un secreto. todo lo cuenta a los cuatro vientos. al leonés?",
+        "output": "Se traduce como nun se ye puede dicir un secretu. tou lu campanea en leonés."
+    },
+    {
+        "input": "¿sabes cómo se traduce nun se ye puede dicir un secretu. tou lu campanea al español?",
+        "output": "No se le puede decir un secreto. todo lo cuenta a los cuatro vientos. sería su equivalente en español."
+    },
+    {
+        "input": "¿sabes cómo se dice la casa está en la parte alta del pueblo en leonés?",
+        "output": "En leonés se diría la casa tá a lu cimeiru 'l pueblu."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir la casa tá a lu cimeiru 'l pueblu en español?",
+        "output": "En español eso significa la casa está en la parte alta del pueblo."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir este hombre no tiene sentido común?",
+        "output": "Eso en leonés sería esti home nun tien conocimientu."
+    },
+    {
+        "input": "¿cómo se dice esti home nun tien conocimientu en español?",
+        "output": "La traducción al español sería este hombre no tiene sentido común."
+    },
+    {
+        "input": "¿cómo se traduce esta hogaza da mucho de sí al leonés?",
+        "output": "Se traduce como esta fougaza cunde abondu en leonés."
+    },
+    {
+        "input": "¿cómo se dice esta fougaza cunde abondu en español?",
+        "output": "Lo traducimos al español como esta hogaza da mucho de sí."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir el muchacho se atragantó bebiendo?",
+        "output": "En idioma leonés se dice el mozu empapizóuse bebiendu."
+    },
+    {
+        "input": "¿cuál es el significado de el mozu empapizóuse bebiendu en español?",
+        "output": "El muchacho se atragantó bebiendo sería su equivalente en español."
+    },
+    {
+        "input": "¿me traduces el tiempo está como de invierno al leonés?",
+        "output": "Diríamos simplemente el tiempu tá hibernizu en leonés."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir el tiempu tá hibernizu en español?",
+        "output": "El tiempo está como de invierno sería su equivalente en español."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir al anochecer tendremos que marchar?",
+        "output": "La traducción al leonés sería al escurecere tendremos de marchare."
+    },
+    {
+        "input": "¿qué significa exactamente al escurecere tendremos de marchare en español?",
+        "output": "La traducción al español sería al anochecer tendremos que marchar."
+    },
+    {
+        "input": "¿puedes pasarme luis le dijo de golpe que la iba a dejar al leonés?",
+        "output": "En leonés usarías la palabra lluis espetóuye que diba deixala."
+    },
+    {
+        "input": "¿cómo se dice lluis espetóuye que diba deixala en español?",
+        "output": "Lo traducimos al español como luis le dijo de golpe que la iba a dejar."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir ven pronto que tengo que irme?",
+        "output": "Diríamos simplemente ven llueu que tengu de marchare en leonés."
+    },
+    {
+        "input": "¿me puedes traducir ven llueu que tengu de marchare al español?",
+        "output": "La forma en español es ven pronto que tengo que irme."
+    },
+    {
+        "input": "¿cómo se traduce proporcionalmente, es más caro que éste al leonés?",
+        "output": "Eso en leonés sería al respetive, ye mas caru qu'ésti."
+    },
+    {
+        "input": "¿me puedes traducir al respetive, ye mas caru qu'ésti al español?",
+        "output": "Lo traducimos al español como proporcionalmente, es más caro que éste."
+    },
+    {
+        "input": "¿cómo se traduce coger una insolación al leonés?",
+        "output": "Diríamos simplemente coyer una soleadura en leonés."
+    },
+    {
+        "input": "¿me puedes traducir coyer una soleadura al español?",
+        "output": "Eso en español se dice coger una insolación."
+    },
+    {
+        "input": "¿cómo se traduce márchate / marchaos, no quiero volver a verte / veros al leonés?",
+        "output": "Ábate / abaivos, nun quieru volver a vete / vevos es la manera correcta en leonés."
+    },
+    {
+        "input": "¿sabes cómo se traduce ábate / abaivos, nun quieru volver a vete / vevos al español?",
+        "output": "Lo traducimos al español como márchate / marchaos, no quiero volver a verte / veros."
+    },
+    {
+        "input": "¿puedes pasarme es una persona abierta (fácil de tratar) al leonés?",
+        "output": "En leonés usarías la palabra ye una presona abertable."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir ye una presona abertable en español?",
+        "output": "Lo traducimos al español como es una persona abierta (fácil de tratar)."
+    },
+    {
+        "input": "¿cómo se traduce parece mucho, pero no es para tanto al leonés?",
+        "output": "En leonés se diría abulta, peru nun ye pa tantu."
+    },
+    {
+        "input": "¿sabes cómo se traduce abulta, peru nun ye pa tantu al español?",
+        "output": "Parece mucho, pero no es para tanto sería su equivalente en español."
+    },
+    {
+        "input": "¿me traduces arrimar el hombro al leonés?",
+        "output": "Se traduce como arimare'l llombu en leonés."
+    },
+    {
+        "input": "¿sabes cómo se traduce arimare'l llombu al español?",
+        "output": "Arrimar el hombro sería su equivalente en español."
+    },
+    {
+        "input": "¿cómo se traduce dar la espalda a alguien al leonés?",
+        "output": "Diríamos simplemente dar el llombu a daquién en leonés."
+    },
+    {
+        "input": "¿cuál es el significado de dar el llombu a daquién en español?",
+        "output": "En español eso significa dar la espalda a alguien."
+    },
+    {
+        "input": "¿me traduces está al final de la calle al leonés?",
+        "output": "En leonés usarías la palabra tá'l cabu la cai."
+    },
+    {
+        "input": "¿sabes cómo se traduce tá'l cabu la cai al español?",
+        "output": "En español diríamos está al final de la calle."
+    },
+    {
+        "input": "¿me traduces para terminar, voy a deciros una cosa al leonés?",
+        "output": "Se traduce como pa cabu / pa finare , vou dicivos una cousa en leonés."
+    },
+    {
+        "input": "¿me puedes traducir pa cabu / pa finare , vou dicivos una cousa al español?",
+        "output": "La forma en español es para terminar, voy a deciros una cosa."
+    },
+    {
+        "input": "¿sabes cómo se dice con arreglo a la ley en leonés?",
+        "output": "Cun igua a la llei es la forma leonesa."
+    },
+    {
+        "input": "¿qué significa exactamente cun igua a la llei en español?",
+        "output": "La traducción al español sería con arreglo a la ley."
+    },
+    {
+        "input": "Quiero saber cómo se dice en ningún caso en leonés",
+        "output": "En leonés se diría en casu dalu."
+    },
+    {
+        "input": "¿me puedes traducir en casu dalu al español?",
+        "output": "En español eso significa en ningún caso."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir siempre está sacando punta de todo?",
+        "output": "En leonés se diría siempres tá aguzandu."
+    },
+    {
+        "input": "¿cómo se dice siempres tá aguzandu en español?",
+        "output": "La forma en español es siempre está sacando punta de todo."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir llenó el frasco a tope, apretando?",
+        "output": "En idioma leonés se dice chenóu'l frascu arretacu."
+    },
+    {
+        "input": "¿cómo se dice chenóu'l frascu arretacu en español?",
+        "output": "En español eso significa llenó el frasco a tope, apretando."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice tiene la piel reseca y escamada en leonés?",
+        "output": "En idioma leonés se dice tien la piel arfiada."
+    },
+    {
+        "input": "¿me puedes traducir tien la piel arfiada al español?",
+        "output": "Simplemente se dice tiene la piel reseca y escamada en español."
+    },
+    {
+        "input": "¿sabes cómo se dice no sabe cómo hacerlo. es un torpe en leonés?",
+        "output": "Diríamos simplemente nun sabe cúmu facelu. ye un atáu . en leonés."
+    },
+    {
+        "input": "¿cómo diríamos nun sabe cúmu facelu. ye un atáu . en español?",
+        "output": "En español eso significa no sabe cómo hacerlo. es un torpe."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir es muy inteligente?",
+        "output": "En leonés se diría tien mueitu caletre."
+    },
+    {
+        "input": "¿sabes cómo se traduce tien mueitu caletre al español?",
+        "output": "En español eso significa es muy inteligente."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir no se le puede decir un secreto. todo lo cuenta a los cuatro vientos.?",
+        "output": "En leonés se diría nun se ye puede dicir un secretu. tou lu campanea."
+    },
+    {
+        "input": "¿sabes cómo se traduce nun se ye puede dicir un secretu. tou lu campanea al español?",
+        "output": "Esa palabra significa no se le puede decir un secreto. todo lo cuenta a los cuatro vientos. en español."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir la casa está en la parte alta del pueblo?",
+        "output": "Eso en leonés sería la casa tá a lu cimeiru 'l pueblu."
+    },
+    {
+        "input": "¿cómo se entiende la casa tá a lu cimeiru 'l pueblu en español?",
+        "output": "La casa está en la parte alta del pueblo es lo que quiere decir en español."
+    },
+    {
+        "input": "Quiero saber cómo se dice este hombre no tiene sentido común en leonés",
+        "output": "En idioma leonés se dice esti home nun tien conocimientu."
+    },
+    {
+        "input": "¿cuál es el significado de esti home nun tien conocimientu en español?",
+        "output": "La traducción al español sería este hombre no tiene sentido común."
+    },
+    {
+        "input": "¿sabes cómo se dice esta hogaza da mucho de sí en leonés?",
+        "output": "La traducción al leonés sería esta fougaza cunde abondu."
+    },
+    {
+        "input": "¿cómo diríamos esta fougaza cunde abondu en español?",
+        "output": "Eso en español se dice esta hogaza da mucho de sí."
+    },
+    {
+        "input": "¿cómo se traduce el muchacho se atragantó bebiendo al leonés?",
+        "output": "La traducción al leonés sería el mozu empapizóuse bebiendu."
+    },
+    {
+        "input": "¿me puedes traducir el mozu empapizóuse bebiendu al español?",
+        "output": "La forma en español es el muchacho se atragantó bebiendo."
+    },
+    {
+        "input": "¿sabes cómo se dice el tiempo está como de invierno en leonés?",
+        "output": "En leonés se diría el tiempu tá hibernizu."
+    },
+    {
+        "input": "¿cómo se dice el tiempu tá hibernizu en español?",
+        "output": "Eso en español se dice el tiempo está como de invierno."
+    },
+    {
+        "input": "Quiero saber cómo se dice al anochecer tendremos que marchar en leonés",
+        "output": "Al escurecere tendremos de marchare es la manera correcta en leonés."
+    },
+    {
+        "input": "¿cómo se dice al escurecere tendremos de marchare en español?",
+        "output": "Al anochecer tendremos que marchar sería su equivalente en español."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir luis le dijo de golpe que la iba a dejar?",
+        "output": "En idioma leonés se dice lluis espetóuye que diba deixala."
+    },
+    {
+        "input": "¿qué quiere decir lluis espetóuye que diba deixala en español?",
+        "output": "Eso en español se dice luis le dijo de golpe que la iba a dejar."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir ven pronto que tengo que irme?",
+        "output": "Se traduce como ven llueu que tengu de marchare en leonés."
+    },
+    {
+        "input": "¿cómo se entiende ven llueu que tengu de marchare en español?",
+        "output": "Esa palabra significa ven pronto que tengo que irme en español."
+    },
+    {
+        "input": "Quiero saber cómo se dice proporcionalmente, es más caro que éste en leonés",
+        "output": "Al respetive, ye mas caru qu'ésti es la forma leonesa."
+    },
+    {
+        "input": "¿sabes cómo se traduce al respetive, ye mas caru qu'ésti al español?",
+        "output": "En español diríamos proporcionalmente, es más caro que éste."
+    },
+    {
+        "input": "¿cómo se diría coger una insolación en leonés?",
+        "output": "Coyer una soleadura es la forma leonesa."
+    },
+    {
+        "input": "¿cómo diríamos coyer una soleadura en español?",
+        "output": "La forma en español es coger una insolación."
+    },
+    {
+        "input": "Quiero saber cómo se dice márchate / marchaos, no quiero volver a verte / veros en leonés",
+        "output": "La traducción al leonés sería ábate / abaivos, nun quieru volver a vete / vevos."
+    },
+    {
+        "input": "¿cómo se dice ábate / abaivos, nun quieru volver a vete / vevos en español?",
+        "output": "Eso en español se dice márchate / marchaos, no quiero volver a verte / veros."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir es una persona abierta (fácil de tratar)?",
+        "output": "Eso en leonés sería ye una presona abertable."
+    },
+    {
+        "input": "¿sabes cómo se traduce ye una presona abertable al español?",
+        "output": "Es una persona abierta (fácil de tratar) sería su equivalente en español."
+    },
+    {
+        "input": "¿cómo se traduce parece mucho, pero no es para tanto al leonés?",
+        "output": "Abulta, peru nun ye pa tantu es la forma leonesa."
+    },
+    {
+        "input": "¿qué significa exactamente abulta, peru nun ye pa tantu en español?",
+        "output": "En español diríamos parece mucho, pero no es para tanto."
+    },
+    {
+        "input": "¿cómo se diría no soy capaz de hacerlo trabajar en leonés?",
+        "output": "Se traduce como nun sou quien a facelu trabayare en leonés."
+    },
+    {
+        "input": "¿qué significa exactamente nun sou quien a facelu trabayare en español?",
+        "output": "Simplemente se dice no soy capaz de hacerlo trabajar en español."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir no llevar jugada (en el juego de cartas)?",
+        "output": "En leonés se diría tare n'adil."
+    },
+    {
+        "input": "¿qué quiere decir tare n'adil en español?",
+        "output": "No llevar jugada (en el juego de cartas) es lo que quiere decir en español."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir hace una brisa muy agradable?",
+        "output": "Eso en leonés sería faz un airín mui prestosu."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir faz un airín mui prestosu en español?",
+        "output": "Esa palabra significa hace una brisa muy agradable en español."
+    },
+    {
+        "input": "¿sabes cómo se dice no hay intención de cambiar en leonés?",
+        "output": "En leonés se diría nun hai asomu de camudare."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir nun hai asomu de camudare en español?",
+        "output": "La forma en español es no hay intención de cambiar."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir no pienso en ello ni remotamente?",
+        "output": "Eso en leonés sería nun albidru n'eillu nin pur asomu."
+    },
+    {
+        "input": "¿cómo diríamos nun albidru n'eillu nin pur asomu en español?",
+        "output": "Lo traducimos al español como no pienso en ello ni remotamente."
+    },
+    {
+        "input": "¿cómo se diría lo escondió muy bien en leonés?",
+        "output": "En leonés usarías la palabra púsulu a recáu."
+    },
+    {
+        "input": "¿qué significa exactamente púsulu a recáu en español?",
+        "output": "En español diríamos lo escondió muy bien."
+    },
+    {
+        "input": "¿me traduces ¿a quién se parece este niño? al leonés?",
+        "output": "Eso en leonés sería ¿a quién sal esti neñu?."
+    },
+    {
+        "input": "¿cómo se entiende ¿a quién sal esti neñu? en español?",
+        "output": "La forma en español es ¿a quién se parece este niño?."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir había comida en abundancia?",
+        "output": "Eso en leonés sería había xanta a rodu."
+    },
+    {
+        "input": "¿cómo diríamos había xanta a rodu en español?",
+        "output": "La forma en español es había comida en abundancia."
+    },
+    {
+        "input": "¿me traduces estaba el salón completamente lleno al leonés?",
+        "output": "Eso en leonés sería taba'l salón de tas en bas."
+    },
+    {
+        "input": "¿cómo se entiende taba'l salón de tas en bas en español?",
+        "output": "Lo traducimos al español como estaba el salón completamente lleno."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir ¡vuelta al mismo tema!?",
+        "output": "La traducción al leonés sería ¡vuelta'l sucu!."
+    },
+    {
+        "input": "¿cómo se dice ¡vuelta'l sucu! en español?",
+        "output": "La forma en español es ¡vuelta al mismo tema!."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice entrar en razón en leonés?",
+        "output": "La traducción al leonés sería tornar a la rodeira."
+    },
+    {
+        "input": "¿me puedes traducir tornar a la rodeira al español?",
+        "output": "Lo traducimos al español como entrar en razón."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice ser de la misma edad en leonés?",
+        "output": "Sere del mesmu tiempu es la forma leonesa."
+    },
+    {
+        "input": "¿cómo diríamos sere del mesmu tiempu en español?",
+        "output": "Lo traducimos al español como ser de la misma edad."
+    },
+    {
+        "input": "¿cómo se diría estar muy gordo en leonés?",
+        "output": "Se traduce como tare cum'un fonsu / cum'un trullu en leonés."
+    },
+    {
+        "input": "¿cómo diríamos tare cum'un fonsu / cum'un trullu en español?",
+        "output": "Estar muy gordo es lo que quiere decir en español."
+    },
+    {
+        "input": "¿sabes cómo se dice esa cosa no me estorba en leonés?",
+        "output": "Esi telar nun me xanta pan es la manera correcta en leonés."
+    },
+    {
+        "input": "¿cómo se entiende esi telar nun me xanta pan en español?",
+        "output": "Esa cosa no me estorba sería su equivalente en español."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir tener reservas no está de más?",
+        "output": "En idioma leonés se dice roupa blanca nun pide pan."
+    },
+    {
+        "input": "¿qué significa exactamente roupa blanca nun pide pan en español?",
+        "output": "Lo traducimos al español como tener reservas no está de más."
+    },
+    {
+        "input": "¿cómo se traduce nada más que le mencioné el dinero me dijo que ni pensarlo al leonés?",
+        "output": "La traducción al leonés sería namás amentaye las perras díxume que ¡lises!."
+    },
+    {
+        "input": "¿cómo diríamos namás amentaye las perras díxume que ¡lises! en español?",
+        "output": "Simplemente se dice nada más que le mencioné el dinero me dijo que ni pensarlo en español."
+    },
+    {
+        "input": "¿puedes pasarme están cayendo cuatro gotas (de lluvia) al leonés?",
+        "output": "En idioma leonés se dice tán cayendu cuatru babinas."
+    },
+    {
+        "input": "¿cómo se dice tán cayendu cuatru babinas en español?",
+        "output": "La traducción al español sería están cayendo cuatro gotas (de lluvia)."
+    },
+    {
+        "input": "¿puedes pasarme le dan unas venadas que hacen temblar al leonés?",
+        "output": "En leonés usarías la palabra danye unas benetadas que facen tremare."
+    },
+    {
+        "input": "¿cómo se dice danye unas benetadas que facen tremare en español?",
+        "output": "En español diríamos le dan unas venadas que hacen temblar."
+    },
+    {
+        "input": "¿me traduces poco a poco al leonés?",
+        "output": "En leonés usarías la palabra sele que sele."
+    },
+    {
+        "input": "¿sabes cómo se traduce sele que sele al español?",
+        "output": "Eso en español se dice poco a poco."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir paso a paso?",
+        "output": "En idioma leonés se dice pasu ente pasu."
+    },
+    {
+        "input": "¿qué quiere decir pasu ente pasu en español?",
+        "output": "Simplemente se dice paso a paso en español."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir esto no vale / merece la pena?",
+        "output": "En leonés se diría estu nun paga la pena."
+    },
+    {
+        "input": "¿sabes cómo se traduce estu nun paga la pena al español?",
+        "output": "Lo traducimos al español como esto no vale / merece la pena."
+    },
+    {
+        "input": "Quiero saber cómo se dice está muy flaco en leonés",
+        "output": "Se traduce como paez que nun xanta pan de cristianu en leonés."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir paez que nun xanta pan de cristianu en español?",
+        "output": "Está muy flaco es lo que quiere decir en español."
+    },
+    {
+        "input": "Quiero saber cómo se dice estar un ave sin plumas en leonés",
+        "output": "En idioma leonés se dice tar en carnetas."
+    },
+    {
+        "input": "¿sabes cómo se traduce tar en carnetas al español?",
+        "output": "La traducción al español sería estar un ave sin plumas."
+    },
+    {
+        "input": "¿cómo se traduce con este calor me molesta la ropa al leonés?",
+        "output": "En idioma leonés se dice cun esta calor oféndeme la roupa."
+    },
+    {
+        "input": "¿qué significa exactamente cun esta calor oféndeme la roupa en español?",
+        "output": "En español eso significa con este calor me molesta la ropa."
+    },
+    {
+        "input": "¿me traduces no soy capaz de hacerlo trabajar al leonés?",
+        "output": "Diríamos simplemente nun sou quien a facelu trabayare en leonés."
+    },
+    {
+        "input": "¿sabes cómo se traduce nun sou quien a facelu trabayare al español?",
+        "output": "No soy capaz de hacerlo trabajar sería su equivalente en español."
+    },
+    {
+        "input": "¿cómo se traduce no llevar jugada (en el juego de cartas) al leonés?",
+        "output": "Diríamos simplemente tare n'adil en leonés."
+    },
+    {
+        "input": "¿me puedes traducir tare n'adil al español?",
+        "output": "No llevar jugada (en el juego de cartas) sería su equivalente en español."
+    },
+    {
+        "input": "Quiero saber cómo se dice hace una brisa muy agradable en leonés",
+        "output": "La traducción al leonés sería faz un airín mui prestosu."
+    },
+    {
+        "input": "¿me puedes traducir faz un airín mui prestosu al español?",
+        "output": "Esa palabra significa hace una brisa muy agradable en español."
+    },
+    {
+        "input": "¿puedes pasarme no hay intención de cambiar al leonés?",
+        "output": "Se traduce como nun hai asomu de camudare en leonés."
+    },
+    {
+        "input": "¿me puedes traducir nun hai asomu de camudare al español?",
+        "output": "La traducción al español sería no hay intención de cambiar."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir no pienso en ello ni remotamente?",
+        "output": "Diríamos simplemente nun albidru n'eillu nin pur asomu en leonés."
+    },
+    {
+        "input": "¿me puedes traducir nun albidru n'eillu nin pur asomu al español?",
+        "output": "Eso en español se dice no pienso en ello ni remotamente."
+    },
+    {
+        "input": "¿cómo se diría lo escondió muy bien en leonés?",
+        "output": "Diríamos simplemente púsulu a recáu en leonés."
+    },
+    {
+        "input": "¿cuál es el significado de púsulu a recáu en español?",
+        "output": "En español eso significa lo escondió muy bien."
+    },
+    {
+        "input": "Quiero saber cómo se dice ¿a quién se parece este niño? en leonés",
+        "output": "En leonés usarías la palabra ¿a quién sal esti neñu?."
+    },
+    {
+        "input": "¿sabes cómo se traduce ¿a quién sal esti neñu? al español?",
+        "output": "En español diríamos ¿a quién se parece este niño?."
+    },
+    {
+        "input": "¿sabes cómo se dice había comida en abundancia en leonés?",
+        "output": "En idioma leonés se dice había xanta a rodu."
+    },
+    {
+        "input": "¿cómo se entiende había xanta a rodu en español?",
+        "output": "Había comida en abundancia sería su equivalente en español."
+    },
+    {
+        "input": "¿sabes cómo se dice estaba el salón completamente lleno en leonés?",
+        "output": "Diríamos simplemente taba'l salón de tas en bas en leonés."
+    },
+    {
+        "input": "¿cuál es el significado de taba'l salón de tas en bas en español?",
+        "output": "Estaba el salón completamente lleno es lo que quiere decir en español."
+    },
+    {
+        "input": "¿me traduces ¡vuelta al mismo tema! al leonés?",
+        "output": "Se traduce como ¡vuelta'l sucu! en leonés."
+    },
+    {
+        "input": "¿cómo se entiende ¡vuelta'l sucu! en español?",
+        "output": "Esa palabra significa ¡vuelta al mismo tema! en español."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir entrar en razón?",
+        "output": "En idioma leonés se dice tornar a la rodeira."
+    },
+    {
+        "input": "¿qué significa exactamente tornar a la rodeira en español?",
+        "output": "La forma en español es entrar en razón."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice ser de la misma edad en leonés?",
+        "output": "Diríamos simplemente sere del mesmu tiempu en leonés."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir sere del mesmu tiempu en español?",
+        "output": "En español diríamos ser de la misma edad."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir estar muy gordo?",
+        "output": "Tare cum'un fonsu / cum'un trullu es la manera correcta en leonés."
+    },
+    {
+        "input": "¿cómo se dice tare cum'un fonsu / cum'un trullu en español?",
+        "output": "Esa palabra significa estar muy gordo en español."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir esa cosa no me estorba?",
+        "output": "En leonés usarías la palabra esi telar nun me xanta pan."
+    },
+    {
+        "input": "¿cómo diríamos esi telar nun me xanta pan en español?",
+        "output": "La forma en español es esa cosa no me estorba."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir tener reservas no está de más?",
+        "output": "Eso en leonés sería roupa blanca nun pide pan."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir roupa blanca nun pide pan en español?",
+        "output": "Lo traducimos al español como tener reservas no está de más."
+    },
+    {
+        "input": "¿cómo se traduce nada más que le mencioné el dinero me dijo que ni pensarlo al leonés?",
+        "output": "En leonés usarías la palabra namás amentaye las perras díxume que ¡lises!."
+    },
+    {
+        "input": "¿qué quiere decir namás amentaye las perras díxume que ¡lises! en español?",
+        "output": "La traducción al español sería nada más que le mencioné el dinero me dijo que ni pensarlo."
+    },
+    {
+        "input": "¿me traduces están cayendo cuatro gotas (de lluvia) al leonés?",
+        "output": "En idioma leonés se dice tán cayendu cuatru babinas."
+    },
+    {
+        "input": "¿cómo se entiende tán cayendu cuatru babinas en español?",
+        "output": "Están cayendo cuatro gotas (de lluvia) es lo que quiere decir en español."
+    },
+    {
+        "input": "¿puedes pasarme le dan unas venadas que hacen temblar al leonés?",
+        "output": "Danye unas benetadas que facen tremare es la manera correcta en leonés."
+    },
+    {
+        "input": "¿qué quiere decir danye unas benetadas que facen tremare en español?",
+        "output": "La traducción al español sería le dan unas venadas que hacen temblar."
+    },
+    {
+        "input": "¿cómo se traduce poco a poco al leonés?",
+        "output": "Sele que sele es la forma leonesa."
+    },
+    {
+        "input": "¿qué quiere decir sele que sele en español?",
+        "output": "La traducción al español sería poco a poco."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir paso a paso?",
+        "output": "Se traduce como pasu ente pasu en leonés."
+    },
+    {
+        "input": "¿cuál es el significado de pasu ente pasu en español?",
+        "output": "La traducción al español sería paso a paso."
+    },
+    {
+        "input": "¿sabes cómo se dice esto no vale / merece la pena en leonés?",
+        "output": "Diríamos simplemente estu nun paga la pena en leonés."
+    },
+    {
+        "input": "¿cuál es el significado de estu nun paga la pena en español?",
+        "output": "La forma en español es esto no vale / merece la pena."
+    },
+    {
+        "input": "¿cómo se diría está muy flaco en leonés?",
+        "output": "Se traduce como paez que nun xanta pan de cristianu en leonés."
+    },
+    {
+        "input": "¿sabes cómo se traduce paez que nun xanta pan de cristianu al español?",
+        "output": "Está muy flaco es lo que quiere decir en español."
+    },
+    {
+        "input": "¿me traduces estar un ave sin plumas al leonés?",
+        "output": "Se traduce como tar en carnetas en leonés."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir tar en carnetas en español?",
+        "output": "La forma en español es estar un ave sin plumas."
+    },
+    {
+        "input": "¿sabes cómo se dice con este calor me molesta la ropa en leonés?",
+        "output": "En idioma leonés se dice cun esta calor oféndeme la roupa."
+    },
+    {
+        "input": "¿cuál es el significado de cun esta calor oféndeme la roupa en español?",
+        "output": "La forma en español es con este calor me molesta la ropa."
+    },
+    {
+        "input": "¿sabes cómo se dice ese no está haciendo nada (reproche) en leonés?",
+        "output": "En idioma leonés se dice ési tá bien de más."
+    },
+    {
+        "input": "¿cómo diríamos ési tá bien de más en español?",
+        "output": "En español diríamos ese no está haciendo nada (reproche)."
+    },
+    {
+        "input": "¿me traduces lo hizo en un instante al leonés?",
+        "output": "Fízulu nun biribí es la manera correcta en leonés."
+    },
+    {
+        "input": "¿cómo se dice fízulu nun biribí en español?",
+        "output": "Lo traducimos al español como lo hizo en un instante."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir esta pera está todavía muy verde?",
+        "output": "Eso en leonés sería esta pera tá verdocha."
+    },
+    {
+        "input": "¿cómo se entiende esta pera tá verdocha en español?",
+        "output": "Esa palabra significa esta pera está todavía muy verde en español."
+    },
+    {
+        "input": "¿cómo se traduce lo llevaba a horcajadas sobre el cuello al leonés?",
+        "output": "Llevábalu a cachaperna / a la cascabela es la manera correcta en leonés."
+    },
+    {
+        "input": "¿cómo se dice llevábalu a cachaperna / a la cascabela en español?",
+        "output": "Simplemente se dice lo llevaba a horcajadas sobre el cuello en español."
+    },
+    {
+        "input": "¿me traduces se acercó a ella sigilosamente al leonés?",
+        "output": "Averóuse a eilla selemente es la forma leonesa."
+    },
+    {
+        "input": "¿me puedes traducir averóuse a eilla selemente al español?",
+        "output": "Lo traducimos al español como se acercó a ella sigilosamente."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir me gusta beber a chorro del botijo?",
+        "output": "Préstame bebere de la barrila a la canaleta / a carañola es la forma leonesa."
+    },
+    {
+        "input": "¿cómo se dice préstame bebere de la barrila a la canaleta / a carañola en español?",
+        "output": "La forma en español es me gusta beber a chorro del botijo."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice se puso a cantar a voz en grito... en leonés?",
+        "output": "La traducción al leonés sería soltóu unos cantaridos...."
+    },
+    {
+        "input": "¿me puedes traducir soltóu unos cantaridos... al español?",
+        "output": "La forma en español es se puso a cantar a voz en grito...."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir lo pasó muy mal?",
+        "output": "En leonés se diría pasoulas cardinas."
+    },
+    {
+        "input": "¿cuál es el significado de pasoulas cardinas en español?",
+        "output": "Lo pasó muy mal es lo que quiere decir en español."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir así no se te hace tan largo (y pesado, el tiempo)?",
+        "output": "Se traduce como asina nun t'aprovez tantu en leonés."
+    },
+    {
+        "input": "¿sabes cómo se traduce asina nun t'aprovez tantu al español?",
+        "output": "Esa palabra significa así no se te hace tan largo (y pesado, el tiempo) en español."
+    },
+    {
+        "input": "¿sabes cómo se dice está lloviendo a cántaros en leonés?",
+        "output": "Se traduce como tá choviendu ensin conocencia en leonés."
+    },
+    {
+        "input": "¿me puedes traducir tá choviendu ensin conocencia al español?",
+        "output": "Esa palabra significa está lloviendo a cántaros en español."
+    },
+    {
+        "input": "¿sabes cómo se dice está lloviendo muchísimo en leonés?",
+        "output": "En leonés se diría tá choviendu la imalia."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir tá choviendu la imalia en español?",
+        "output": "En español eso significa está lloviendo muchísimo."
+    },
+    {
+        "input": "¿me traduces montar a caballo a horcajadas al leonés?",
+        "output": "Eso en leonés sería dir a las carranchetas / a la espernanqueta."
+    },
+    {
+        "input": "¿cómo se dice dir a las carranchetas / a la espernanqueta en español?",
+        "output": "Lo traducimos al español como montar a caballo a horcajadas."
+    },
+    {
+        "input": "¿cómo se traduce llevar algo con cuidado al leonés?",
+        "output": "En leonés usarías la palabra llevare dalgu a modu."
+    },
+    {
+        "input": "¿qué quiere decir llevare dalgu a modu en español?",
+        "output": "Eso en español se dice llevar algo con cuidado."
+    },
+    {
+        "input": "¿cómo se diría hablar en voz muy baja en leonés?",
+        "output": "Se traduce como falare a modín en leonés."
+    },
+    {
+        "input": "¿cuál es el significado de falare a modín en español?",
+        "output": "Simplemente se dice hablar en voz muy baja en español."
+    },
+    {
+        "input": "¿me traduces lo sujetó por el cuello contra la pared al leonés?",
+        "output": "En idioma leonés se dice apercollóulu escontra la muria."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir apercollóulu escontra la muria en español?",
+        "output": "Lo traducimos al español como lo sujetó por el cuello contra la pared."
+    },
+    {
+        "input": "¿sabes cómo se dice se aplastó el dedo con la puerta en leonés?",
+        "output": "En leonés se diría atartallóuse'l deu cuna puerta."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir atartallóuse'l deu cuna puerta en español?",
+        "output": "Se aplastó el dedo con la puerta es lo que quiere decir en español."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir ¡qué desorden hay en casa de emilio!?",
+        "output": "¡qué atropos hai ancá miliu! es la forma leonesa."
+    },
+    {
+        "input": "¿cómo diríamos ¡qué atropos hai ancá miliu! en español?",
+        "output": "La forma en español es ¡qué desorden hay en casa de emilio!."
+    },
+    {
+        "input": "¿sabes cómo se dice pescó un montón de ranas en leonés?",
+        "output": "Diríamos simplemente pescóu una cachapada ranas en leonés."
+    },
+    {
+        "input": "¿qué quiere decir pescóu una cachapada ranas en español?",
+        "output": "Pescó un montón de ranas es lo que quiere decir en español."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice sacar provecho de algo en leonés?",
+        "output": "Sacare chupe dalgu es la forma leonesa."
+    },
+    {
+        "input": "¿sabes cómo se traduce sacare chupe dalgu al español?",
+        "output": "La forma en español es sacar provecho de algo."
+    },
+    {
+        "input": "¿sabes cómo se dice comenzó a cortar el jamón en leonés?",
+        "output": "Encietóu'l xamón es la manera correcta en leonés."
+    },
+    {
+        "input": "¿cómo se entiende encietóu'l xamón en español?",
+        "output": "En español diríamos comenzó a cortar el jamón."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice no le des tantas vueltas en la cabeza en leonés?",
+        "output": "Nun t'escuartes la tiesta es la manera correcta en leonés."
+    },
+    {
+        "input": "¿sabes cómo se traduce nun t'escuartes la tiesta al español?",
+        "output": "En español eso significa no le des tantas vueltas en la cabeza."
+    },
+    {
+        "input": "¿me traduces me despierto poco antes de amanecer al leonés?",
+        "output": "En leonés se diría espiértume escontra la mañana."
+    },
+    {
+        "input": "¿cómo diríamos espiértume escontra la mañana en español?",
+        "output": "Simplemente se dice me despierto poco antes de amanecer en español."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir el leonés me gusta muchísimo?",
+        "output": "En leonés usarías la palabra el llïonés préstame pur viviré / pula vida."
+    },
+    {
+        "input": "¿qué quiere decir el llïonés préstame pur viviré / pula vida en español?",
+        "output": "Esa palabra significa el leonés me gusta muchísimo en español."
+    },
+    {
+        "input": "¿me traduces los días ya son más largos al leonés?",
+        "output": "Conócense yá los días es la forma leonesa."
+    },
+    {
+        "input": "¿sabes cómo se traduce conócense yá los días al español?",
+        "output": "En español diríamos los días ya son más largos."
+    },
+    {
+        "input": "¿cómo se diría no para de repetir que es viejo en leonés?",
+        "output": "Se traduce como tou vuélveseye repitire que ye vieyu en leonés."
+    },
+    {
+        "input": "¿cómo se dice tou vuélveseye repitire que ye vieyu en español?",
+        "output": "Lo traducimos al español como no para de repetir que es viejo."
+    },
+    {
+        "input": "¿cómo se diría ese no está haciendo nada (reproche) en leonés?",
+        "output": "Ési tá bien de más es la manera correcta en leonés."
+    },
+    {
+        "input": "¿cuál es el significado de ési tá bien de más en español?",
+        "output": "Simplemente se dice ese no está haciendo nada (reproche) en español."
+    },
+    {
+        "input": "¿cómo se diría lo hizo en un instante en leonés?",
+        "output": "En idioma leonés se dice fízulu nun biribí."
+    },
+    {
+        "input": "¿cuál es el significado de fízulu nun biribí en español?",
+        "output": "Eso en español se dice lo hizo en un instante."
+    },
+    {
+        "input": "Quiero saber cómo se dice esta pera está todavía muy verde en leonés",
+        "output": "En leonés usarías la palabra esta pera tá verdocha."
+    },
+    {
+        "input": "¿cómo se entiende esta pera tá verdocha en español?",
+        "output": "Simplemente se dice esta pera está todavía muy verde en español."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir lo llevaba a horcajadas sobre el cuello?",
+        "output": "En idioma leonés se dice llevábalu a cachaperna / a la cascabela."
+    },
+    {
+        "input": "¿qué quiere decir llevábalu a cachaperna / a la cascabela en español?",
+        "output": "En español eso significa lo llevaba a horcajadas sobre el cuello."
+    },
+    {
+        "input": "¿sabes cómo se dice se acercó a ella sigilosamente en leonés?",
+        "output": "En leonés usarías la palabra averóuse a eilla selemente."
+    },
+    {
+        "input": "¿cuál es el significado de averóuse a eilla selemente en español?",
+        "output": "Simplemente se dice se acercó a ella sigilosamente en español."
+    },
+    {
+        "input": "Quiero saber cómo se dice me gusta beber a chorro del botijo en leonés",
+        "output": "En leonés se diría préstame bebere de la barrila a la canaleta / a carañola."
+    },
+    {
+        "input": "¿qué significa exactamente préstame bebere de la barrila a la canaleta / a carañola en español?",
+        "output": "Esa palabra significa me gusta beber a chorro del botijo en español."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice se puso a cantar a voz en grito... en leonés?",
+        "output": "Diríamos simplemente soltóu unos cantaridos... en leonés."
+    },
+    {
+        "input": "¿cómo se dice soltóu unos cantaridos... en español?",
+        "output": "En español diríamos se puso a cantar a voz en grito...."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir lo pasó muy mal?",
+        "output": "Diríamos simplemente pasoulas cardinas en leonés."
+    },
+    {
+        "input": "¿sabes cómo se traduce pasoulas cardinas al español?",
+        "output": "Simplemente se dice lo pasó muy mal en español."
+    },
+    {
+        "input": "¿me traduces así no se te hace tan largo (y pesado, el tiempo) al leonés?",
+        "output": "La traducción al leonés sería asina nun t'aprovez tantu."
+    },
+    {
+        "input": "¿qué quiere decir asina nun t'aprovez tantu en español?",
+        "output": "La forma en español es así no se te hace tan largo (y pesado, el tiempo)."
+    },
+    {
+        "input": "¿cómo se traduce está lloviendo a cántaros al leonés?",
+        "output": "En idioma leonés se dice tá choviendu ensin conocencia."
+    },
+    {
+        "input": "¿me puedes traducir tá choviendu ensin conocencia al español?",
+        "output": "Esa palabra significa está lloviendo a cántaros en español."
+    },
+    {
+        "input": "¿sabes cómo se dice está lloviendo muchísimo en leonés?",
+        "output": "Tá choviendu la imalia es la manera correcta en leonés."
+    },
+    {
+        "input": "¿puedes decirme qué quiere decir tá choviendu la imalia en español?",
+        "output": "Está lloviendo muchísimo sería su equivalente en español."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir montar a caballo a horcajadas?",
+        "output": "Diríamos simplemente dir a las carranchetas / a la espernanqueta en leonés."
+    },
+    {
+        "input": "¿cómo se dice dir a las carranchetas / a la espernanqueta en español?",
+        "output": "En español diríamos montar a caballo a horcajadas."
+    },
+    {
+        "input": "¿me traduces llevar algo con cuidado al leonés?",
+        "output": "Eso en leonés sería llevare dalgu a modu."
+    },
+    {
+        "input": "¿cómo se entiende llevare dalgu a modu en español?",
+        "output": "En español eso significa llevar algo con cuidado."
+    },
+    {
+        "input": "¿cómo se diría hablar en voz muy baja en leonés?",
+        "output": "La traducción al leonés sería falare a modín."
+    },
+    {
+        "input": "¿cuál es el significado de falare a modín en español?",
+        "output": "La forma en español es hablar en voz muy baja."
+    },
+    {
+        "input": "¿puedes pasarme lo sujetó por el cuello contra la pared al leonés?",
+        "output": "En leonés usarías la palabra apercollóulu escontra la muria."
+    },
+    {
+        "input": "¿cómo se entiende apercollóulu escontra la muria en español?",
+        "output": "Lo sujetó por el cuello contra la pared es lo que quiere decir en español."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir se aplastó el dedo con la puerta?",
+        "output": "En idioma leonés se dice atartallóuse'l deu cuna puerta."
+    },
+    {
+        "input": "¿cómo se entiende atartallóuse'l deu cuna puerta en español?",
+        "output": "Se aplastó el dedo con la puerta es lo que quiere decir en español."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir ¡qué desorden hay en casa de emilio!?",
+        "output": "En idioma leonés se dice ¡qué atropos hai ancá miliu!."
+    },
+    {
+        "input": "¿me puedes traducir ¡qué atropos hai ancá miliu! al español?",
+        "output": "La traducción al español sería ¡qué desorden hay en casa de emilio!."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice pescó un montón de ranas en leonés?",
+        "output": "La traducción al leonés sería pescóu una cachapada ranas."
+    },
+    {
+        "input": "¿cómo se dice pescóu una cachapada ranas en español?",
+        "output": "Lo traducimos al español como pescó un montón de ranas."
+    },
+    {
+        "input": "¿qué palabra usan en leonés para decir sacar provecho de algo?",
+        "output": "La traducción al leonés sería sacare chupe dalgu."
+    },
+    {
+        "input": "¿cómo se entiende sacare chupe dalgu en español?",
+        "output": "En español eso significa sacar provecho de algo."
+    },
+    {
+        "input": "¿cómo se traduce comenzó a cortar el jamón al leonés?",
+        "output": "En idioma leonés se dice encietóu'l xamón."
+    },
+    {
+        "input": "¿qué quiere decir encietóu'l xamón en español?",
+        "output": "Lo traducimos al español como comenzó a cortar el jamón."
+    },
+    {
+        "input": "¿podrías decirme cómo se dice no le des tantas vueltas en la cabeza en leonés?",
+        "output": "En leonés usarías la palabra nun t'escuartes la tiesta."
+    },
+    {
+        "input": "¿cómo diríamos nun t'escuartes la tiesta en español?",
+        "output": "Simplemente se dice no le des tantas vueltas en la cabeza en español."
+    },
+    {
+        "input": "¿puedes pasarme me despierto poco antes de amanecer al leonés?",
+        "output": "Espiértume escontra la mañana es la forma leonesa."
+    },
+    {
+        "input": "¿cómo se dice espiértume escontra la mañana en español?",
+        "output": "Lo traducimos al español como me despierto poco antes de amanecer."
+    },
+    {
+        "input": "¿me traduces el leonés me gusta muchísimo al leonés?",
+        "output": "Diríamos simplemente el llïonés préstame pur viviré / pula vida en leonés."
+    },
+    {
+        "input": "¿me puedes traducir el llïonés préstame pur viviré / pula vida al español?",
+        "output": "Eso en español se dice el leonés me gusta muchísimo."
+    },
+    {
+        "input": "¿cuál sería la forma leonesa de decir los días ya son más largos?",
+        "output": "Conócense yá los días es la manera correcta en leonés."
+    },
+    {
+        "input": "¿cómo se entiende conócense yá los días en español?",
+        "output": "Lo traducimos al español como los días ya son más largos."
+    },
+    {
+        "input": "¿me traduces no para de repetir que es viejo al leonés?",
+        "output": "Se traduce como tou vuélveseye repitire que ye vieyu en leonés."
+    },
+    {
+        "input": "¿me puedes traducir tou vuélveseye repitire que ye vieyu al español?",
+        "output": "Esa palabra significa no para de repetir que es viejo en español."
+    }
+]

@@ -1,0 +1,1521 @@
+Na frontera del asturllionés y el gallegoportugués:
+descripción y exame horiométricu
+de la fala de Fernidiellu (Forniella, Llión), I. Fonética
+Fernando Álvarez-Balbuena García
+Universidá d’Uvieo
+Presentación y ufierta
+Les fales limítrofes ente l’asturllionés y el gallegoportugués na
+provincia de Llión formen un mosaico variáu y complexu que
+s’estiende de norte a sur pel occidente de la provincia, y son tan inte-
+resantes pal estudio de la variación xeolectal como insuficientemente
+conocíes. Nesti artículo quiero dar noticia d’una de les teseles d’esi
+mosaico –hastasagora mal conocida– y valorar la so posición dientro
+del continuum lingüísticu del noroccidente hispánicu1.
+1 Esti trabayu ye una extensión a territoriu llionés del proxecto d’investigación «Estudio
+de la transición lingüística en la zona Eo-Navia, Asturias» (ETLEN), financiáu pol Ministeriu
+de Ciencia y Innovación del Gobierno d’España (ref. MICINN-08-FFI2008-01774/FILO).
+Tengo que manifestar el mio agradecimientu a los compañeros del proxecto ETLEN, Ramón
+d’Andrés Díaz, Xosé Miguel Suárez Fernández y María Cueto Fernández, que son corres-
+ponsables de parte de los conceptos, la metodoloxía y les tipificaciones que se van utilizar
+nesti artículo. Tamién a Andrés Menéndez Blanco, pol trabayu inestimable cola cartografía.
+Y a Rolando Ramón Ramón y Cipriano Álvarez Iglesias (de Trescastru) y Manuel Cerecedo
+García (de Pranzáis), que me punxenon en contacto cola xente de Fernidiellu. Otramiente,
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+200 FERNANDO ÁLVAREZ-BALBUENA GARCÍA
+Otramiente, con esta contribución de tema llionés quiero manifestar
+agradecimientu y rendir homenaxe al profesor José Antonio Martínez
+–llionés de nacencia–, al que-y debo, ente otres coses que probablemente
+nun sepa, el tomar el determín de dedicame a los estudios lingüísticos
+naquellos años mozos nos que les decisiones yeren tan difíciles y tan
+determinantes.
+Introducción
+Fernidiellu: localización y descripción sumaria
+Situáu al noroccidente de la provincia de Llión, el llugar de Fer-
+nidiellu (oficialmente «Fresnedelo»)2 ye ún de los siete pueblos que
+formen el municipiu de Forniella (oficialmente «Ayuntamiento de
+Peranzanes», y tamién «Valle de Fornela» o simplemente «Fornela»),
+xunta Faru, Careiseda, Pranzáis, Trescastru, Chan y Guímara. Dientro
+de Forniella, Fernidiellu ocupa una posición marxinal: ye’l llugar más
+meridional del términu municipal y tamién el más deseparáu de toos
+tengo qu’agradecer a Nicolás Bartolomé, Luis Carlón, Iván Cuevas y Begoña Martínez l’arimu
+pa resolver dalgunes cuestiones.
+2 El nome popular del llugar conoz munches variantes. La forma autóctona ye Fernidiellu
+(cola segunda vocal átona articulada [i] o [e]), que rexistro en propiu pueblu y tamién en llugar
+cercanu d’Ancharinos (Páramu). Amás, rexistré Fernadiellu en Careiseda, Faru y Chan, Frenadiellu
+en Pranzáis, Frañadiellu y Fresnadiellu en Trescastru, y Frañadiel.l.u n’El Rebol.l.al (Degaña, Astu-
+ries), Trabáu (Degaña, Asturies) y El Vau (Íbias, Asturies). Recoyí tamién en Guímara la variante
+Fresnadelu, qu’en Chan y Trescastru rexístrase amás como forma mesolectal; tamién ye mesolectal
+la variante Fernadelu, de Faru. En San Pedru (Al Fabeiru) recueyo Fornudiellu; n’Al Fabeiru, For-
+nadiellu, y Andrés Menéndez Blanco (comunicación personal) anotó en Fontueira (Al Fabeiru) la
+forma Fornedielu. En valle vecín d’Ancares rexistro les variantes Fresnedèlo nos llugares de Lumeiras,
+Vilassomil y Pereda, y amás Fresnadèlo y Fernedèlo en Vilassomil. Sin indicación del puntu concretu
+de Forniella onde se recoyenon los datos, otros autores citen les formes Fernadiellu (García Gil,
+2002: 25), Fresnadiellu (Álvarez López, 2005: 13), Fresnediellu, Frusnidiellu, Fernedelu y Fresnedelu
+(González Pérez, 2002: 444). Finalmente, la bibliografía rexistraba yá en Chan les mesmes variantes
+Fernadiellu (Álvarez «Caruso» & Rodríguez Díez, 2012: 204) y Fresnadelu (Fernández, 1960: 159)
+que recoyí nes mios encuestes.
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+NA FRONTERA DEL ASTURLLIONÉS Y EL GALLEGOPORTUGUÉS 201
+ellos (quier dicise, el que presenta más distancia col pueblu forniellu
+más cercanu d’ente tolos siete llugares del municipiu). El pueblu más
+próximu a Fernidiellu ye San Pedru, perteneciente na actualidá al mu-
+nicipiu d’Al Fabeiru, que queda a trés quilómetros de distancia per
+carretera y a dos en lliña recta.
+La marxinalidá xeográfica del términu de Fernidiellu con relación a
+los otros llugares forniellos vien determinada tamién pola so situación
+nun valle lateral del valle principal de Forniella, que ye’l que forma
+El Ríu Cúa (qu’en Fernidiellu –y en xeneral en toda Forniella– recibe
+preferentemente’l nome d’El Ríu Grande). En verdá, el términu de Fer-
+nidiellu estiéndese per dos valles confluentes, regaos pol Ríu Vallinas
+(oficialmente «Arroyo de Fresnedelo») y por Rudepraos (oficialmente
+«Arroyo Boudela» y «Arroyo del Carballal»), que s’amiesten n’Entramos
+Ríos –más abaxo del pueblu, mui cerca del límite con San Pedru– y que
+lleven l’agua a El Ríu Grande. Nuna situación asemeyada solamente
+s’alcuentra en Forniella’l llugar de Faru, que se sitúa n’otru valle lateral
+que forma El Ríu Faru. Tolos otros pueblos del municipiu tán en valle
+principal d’El Ríu Grande, cola excepción relativa de Trescastru, que,
+enque ta en verdá nun valle lateral que riega El Ríu da Fervienza, alcuén-
+trase a poca distancia d’El Ríu Grande.
+El términu de Fernidiellu limita al norte colos de Chan y Careiseda
+(Forniella), al leste con Careiseda y con San Pedru (Al Fabeiru), al sur
+con San Pedru, Bárcena (Al Fabeiru) y Lumeiras (Ancares), y al oeste
+con Vilassomil y Espinheireda (Ancares). Les altures mayores alcánzales
+al norte, con picos destacaos como A Pena Portellín (1.819 metros, na
+raya con Chan) y Llamalluenga (1.856 metros, na raya con Careiseda).
+La divisoria con Ancares tien algo menos d’altura, con picos como El
+Alto da Matõa (1.497 metros), Coriscáu (1.499 metros), L’Altu’l Carballal
+(1.488 metros) o El Corón (1.342 metros). Al leste tamién ciarra’l términu
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+202 FERNANDO ÁLVAREZ-BALBUENA GARCÍA
+un cordal un poco más baxu, pero qu’entá presenta altures como la de
+Monegru, de 1.321 metros, na raya con Careiseda.
+El llugar de Fernidiellu ta situáu na vera derecha d’El Ríu Vallinas,
+debaxo d’A Pena de San Esteva y ente los 950 y los 990 metros derriba’l
+nivel de la mar. Los pueblos más cercanos –San Pedru y Careiseda–
+queden bien per baxo d’esa altura, a 800 y 850 metros respectivamente
+(Figures 1 y 2).
+Fernidiellu nunca debió ser un llugar mui pobláu. Nel añu 1587 tenía
+15 vecinos. Casimente dos sieglos más tarde, nel 1752, esa cifra subiera a
+32. Na década del 1820 el diccionariu xeográficu de Miñano rexistra 25
+vecinos y 92 habitantes, y dos décades depués el diccionariu de Madoz
+reduz eses cifres a 15 vecinos y 68 habitantes. Nel 1857 el primer nomen-
+clátor oficial d’España cuenta 117 habitantes, cifra qu’en nomenclátor del
+1888 sube a 127. Na mayor parte del sieglu xx Fernidiellu mantién unes
+cifres demográfiques bastante estables: 124 habitantes nel 1910, 137 nel
+1930, 132 nel 1950 y 131 nel 1970. Pero esa tendencia cambia de manera
+radical a finales del sieglu: l’añu 1986 la población cae a 49 habitantes y
+nel 2000 llegaba solamente a 41. No que va de sieglu xxi la cayida demo-
+gráfica sigue afondando imparable: nel 2005 la población de Fernidiellu
+yera de 37 habitantes, nel 2010 baxaba a 27 y nel 2013 llegaba a 263.
+Históricamente la economía de Fernidiellu basóse na ganadería y
+l’agricultura, a lo que se sumó’l trabayu na mina –instalada en muni-
+cipiu vecín d’Al Fabeiru– dende les primeres décades del sieglu xx. A
+diferencia de lo que pasó n’otros pueblos de Forniella (principalmente
+3 Los datos d’esta calicata demográfica son remanecíos de les fontes siguientes: González
+(1829: 178), Valcarze, Vello, Perez, Noboa, Guiraldez & Alvárez (1752: 58 rº), Miñano (1826: 194),
+Madoz (1847: 185), Comisión de Estadística General del Reino (1858: 434), Dirección General del
+Instituto Geográfico y Estadístico (1893: 24; 1915: 21), Dirección General del Instituto Geográfico,
+Catastral y de Estadística (1933: 23) y Instituto Nacional de Estadística (195?: 35; 1973: 46; 1990:
+54-55; 2014).
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+NA FRONTERA DEL ASTURLLIONÉS Y EL GALLEGOPORTUGUÉS 203
+Chan, Trescastru y Pranzáis), en Fernidiellu nun hebo dedicación a los
+oficios ambulantes d’arrieru, albarderu o vendedor de xénero. Sí qu’así,
+los homes del llugar organizaben cuadrilles de teitadores que, depués
+de la siega y la mayada del pan, andaben los pueblos de la redondada
+techando a paleta con paya de centén cases y cortes4.
+Fernidiellu tuvo d’antiguo una relación más estrencha con Ancares
+de la que pudo tener cualquiera de los otros llugares forniellos, mesma-
+mente conrayantes, como Chan y Guímara. De facto, Fernidiellu y
+Vilassomil comparten braña –o, por meyor dicir, compartíenla hasta
+hai unes décades, cuando los dos pueblos dexanon de subir el ganao–5,
+mentres que les relaciones ente los otros pueblos del valle y los vecinos
+ancareses son menos intenses y non siempre particularmente cordiales.
+El xentilicio popular de los vecinos de Fernidiellu ye fernidiellos, y
+n’otros pueblos de Forniella dan-yos tamién el llamatu –ente festivu y
+despectivu– de xente del monte, alusivu a la situación separada, allongada
+y bien montesa por cierto que tien el llugar. En Pranzáis completen el
+llamatu cola fórmula siguiente, esta yá abiertamente denigratoria: xente
+del monte, llobu ou raposa.
+Los estudios lingüísticos sobre Forniella
+Avulta abondo qu’hasta hai pocos años la fala de Forniella nun me-
+reciera l’atención reparatible de los lingüistas. De mano teníense na-
+más dalgunes poques noticies, mayormente disperses en trabayos que
+poníen l’atención n’espacios más amplios. Asina, Catalán (1954, 1956,
+4 Los teitadores de Fernidiellu trabayaben n’otros llugares de Forniella y tamién pasaben a
+zones cercanes como Degaña o L..laciana.
+5 Nel 1752, nes respuestes xenerales del Cadastro del Marqués de la Ensenada, yá se diz que
+los vecinos de Fernidiellu precisanon tomar en foro al monesteriu de San Andrés de Veiga una
+braña en términu de Vilassomil (Ancares) pa poder mantener los sos armentíos (Valcarze, Vello,
+Perez, Noboa, Guiraldez & Alvárez, 1752: 16 vº).
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+204 FERNANDO ÁLVAREZ-BALBUENA GARCÍA
+1957) y Catalán & Galmés (1954) aprovechen pa los sos estudios unes
+poques palabres fornielles que Matías Martínez Burgos anotara nuna
+encuesta del añu 1910, y otres poques que Menéndez Pidal recoyera
+d’un informador de Chan. Pocos años depués Andrés, Tolosa, Mozún
+& Sánchez Regueira (1957) utilicen los datos d’un interrogatoriu postal
+que respuende per escrito’l presidente de la xunta vecinal de Faru. Más
+substancioso, sin dexar de ser un apuntamientu breve, ye la informa-
+ción de la fala forniella que dan Alonso & García Yebra (1959) y que se
+basa en datos que recoyenon personalmente en Pranzáis. A otru añu,
+Fernández (1960) publica dalgunos topónimos y unes poques palabres
+y notes de la fala de Chan.
+Tienen que pasar más de trés décades pa que pareza una contri-
+bución lingüística con dello d’amplitú, como la que dedica Martínez
+Fernández (1994) a la fala de Faru –básicamente al vocabulariu y a la
+toponimia–. Esi mesmu añu García y García (1994) ocúpase brevemen-
+te de la toponimia del valle. Dende finales del sieglu xx la cartografía
+lingüística empicipia a interesase por Forniella, que queda representao
+col puntu de Chan n’Atlas Lingüístico de El Bierzo (ALBI) (Gutiérrez
+Tuñón, 1996, 2002) y col de Pranzáis n’Atlas lingüístico de Castilla y
+León (Alvar, 1999). Los datos del primer volume del ALBI –y ente ellos
+los de Chan– son interpretaos nun artículo de Cano González (1998).
+Otru asuntu d’interés nes décades postreres del sieglu xx y a principios
+del xxi ye la determinación de la frontera ente’l gallegoportugués y
+l’asturllionés na provincia de Llión, qu’obliga a los lingüistas a reparar
+en Forniella, al traviés del estudio de la so toponimia (García y García,
+1984, 1997) o de la fala viva (Seco Orosa, 1998, 2001, 2004). Pa facer los
+sos estudios de xeografía lingüística, Seco Orosa recueye información
+en Guímara, Chan, Trescastru, Pranzáis y Careiseda, amás d’utilizar
+datos bibliográficos de Faru. Nesos mesmos años publícase tamién dello
+d’información lingüística –de non muncha entidá– nos llibros sobre
+Forniella de Ramón Gurdiel (1998) –qu’incluye un vocabulariu de cua-
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+NA FRONTERA DEL ASTURLLIONÉS Y EL GALLEGOPORTUGUÉS 205
+renta términos del burón, el criptolecto gremial de los ambulantes del
+valle– y de Domínguez Yáñez (2001).
+Pero puede dicise que nun ye hasta’l 2002 cuando se principia a
+conocer con un nivel curiosu de detalle la fala de Forniella. Nesa fecha
+García Gil (2002) publica una indagación sobre la fonoloxía de les fales
+fornielles, González Pérez (2002) presenta un vocabulariu forniellu con
+apuntamientos sobre la toponimia mayor y sobre’l burón, y González
+Reboredo (2002: 211-216) expón dalgunes notes sobre la identidá lin-
+güística forniella. Trés años más tarde Álvarez López (2005) publica
+un trabayu minuciosu sobre’l burón, acompañáu d’un estimable com-
+pendiu gramatical de la fala forniella. D’entós p’acá, entá se publicó
+dalguna obra más: un vocabulariu bercianu coordináu y dirixíu por
+Crespo Álvarez & Andina Yanes (2008), que recueye léxico de Chan,
+Trescastru, Pranzáis y Fernidiellu; otru vocabulariu d’El Bierciu, más
+avalumáu, fechu por García y García (2011) con materiales de proce-
+dencia diversable; y finalmente, el llibru sobre Chan d’Álvarez «Caruso»
+& Rodríguez Díez (2012), que rexistra toponimia y léxico d’esti llugar
+forniellu6.
+En cualquier casu, polo que toca al obxecto d’estudio d’esti trabayu,
+hai que facer notar que mui poques de les obres anteriores faen referen-
+cia a la fala de Fernidiellu. De tolos estudios citaos, solamente los de
+González Pérez (2002), González Reboredo (2002), Crespo Álvarez &
+Andina Yanes (2008) y García y García (2011) apurren dalgunes palabres
+de Fernidiellu. Sí qu’así, el primeru solamente localiza la procedencia de
+les voces de Guímara, polo que resulta poco útil pal nuestru propósito;
+y el cuartu, aparentemente, nun incluye más palabres de Fernidiellu que
+6 Amás de les publicaciones citaes, Fernández (1979-1980: 33) anuncia un estudio de la fala
+de Forniella –referíu a lo menos a Trescastru y Pranzáis– que nun llegó a publicar. Y Álvarez Ló-
+pez (2005: 52) da noticia d’un trabayu inéditu d’Arturo Álvarez López, presentáu na Universidá
+d’Uvieo, que se titula El vocalismo de Fornela.
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+206 FERNANDO ÁLVAREZ-BALBUENA GARCÍA
+les qu’herieda del terceru. Otramiente, la gramática d’Álvarez López
+(2005) –enque nun lo declare de manera expresa– describe principal-
+mente la fala de Trescastru y nun fai referencia a Fernidiellu. Pela so par-
+te, García Gil (2002) sí se refier a Fernidiellu nel so trabayu, pero –como
+él mesmu reconoz (2002: 27)– toles sos afirmaciones sobre la fala d’esti
+llugar tán basaes en noticies indirectes recoyíes n’otros sitios, y non na
+escucha o encuesta directa a los vecinos del pueblu.
+Feches d’encuesta y informadores
+Nestes circunstancies, pa conocer la fala de Fernidiellu yera impres-
+cindible la consulta directa a la xente del llugar, y eso foi lo que fixi los
+díes 27 y 29 de setiembre, 28 d’ochobre y 4 de noviembre del añu 2013
+y 13 d’abril y 9 y 21 de setiembre del 2014. Tuvi la suerte de ser atendíu
+por persones acoyedores, amables y prestamoses, que respondienon les
+mios preguntes y colaboranon comigo cola meyor de les disposiciones.
+Ente elles tengo que mencionar primero a la que ye la mio informadora
+principal, Adoración Rodríguez Ramón, nacida en Fernidiellu l’añu 1927
+y vecina del llugar a lo llargo de los sos 87 años (Figura 3). Tamién a
+Gabino Carro Rodríguez, a Leonides Ramón Ramón y a Ernesto Ramón
+Martínez, vecinos de Fernidiellu. Y a Laurentino Martínez Rodríguez,
+nacíu en Fernidiellu y vecín de Pranzáis, que foi el primer fernidiellu col
+que falé. A toos ellos doi-yos les gracies pola so ayuda y la so atención.
+La fala de Fernidiellu: descripción
+y exame horiométricu (parte 1: fonética)
+Dada la situación de Fernidiellu en mesmu frente de contacto de los
+dominios románicos gallegoportugués y asturllionés (Alonso & García
+Yebra, 1959; Seco Orosa, 1998, 2001, 2004), nesti trabayu voi presentar
+y valorar una selección de trazos lingüísticos de la fala fernidiella que
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+NA FRONTERA DEL ASTURLLIONÉS Y EL GALLEGOPORTUGUÉS 207
+manifiesten pertinencia horiométrica7. O dicho n’otres palabres, voi des-
+cribir, categorizar y evaluar una serie de trazos lingüísticos propios de la
+variedá basilectal d’esti llugar que presenten una tipoloxía xeolectal di-
+ferencial que se puede reducir a les categoríes xeotípiques d’«occidental»
+y «oriental» –y, eventualmente, «axial»– estrictamente d’acorde cola so
+distribución xeográfica dientro de la metada occidental de la Península
+Hispánica8. D’esta manera, nos apartaos vinientes voi limitar la descrip-
+ción a una escoyeta de trazos lingüísticos de la fala de Fernidiellu que
+manifiesten distribuciones xeolectales diferenciales n’espacio territorial
+aseñaláu. La descripción lingüística d’esos trazos va dir acompañada de
+l’atribución xeotipolóxica correspondiente y d’una tabla de cuantifica-
+ción horiométrica que computa los resultaos na fala de Fernidiellu9. Y,
+finalmente, voi facer el cómputo de les diferentes atribuciones asignaes
+a fin de determinar les proporciones xeotipolóxiques –«occidental»,
+«oriental» y «axial»– que caractericen la fala de Fernidiellu (o, dicho
+con más propiedá, que caractericen la selección de los trazos de la fala
+de Fernidiellu que se describen nesti artículo).
+7 La horiometría defínese como «una variedad de dialectometría aplicada a la medición ma-
+temática de las fronteras lingüísticas y a la clasificación geotipológica de las variedades lingüísticas
+situadas en torno a ellas» (Álvarez-Balbuena, Andrés, Suárez & Cueto, 2011: 117) y, d’una manera
+más precisa, como «the mathematic-statistical measurement of the geodifferential features in a
+bundle of isoglosses by means of their ascription to the contiguous geolects» (Andrés, Álvarez-
+Balbuena, Cueto & Suárez, 2013: 91).
+8 N’Álvarez-Balbuena, Andrés, Suárez & Cueto (2011) y n’Andrés, Álvarez-Balbuena, Cueto
+& Suárez (2012, 2013) expónense los métodos de la horiometría y una definición precisa de los
+conceptos que s’utilicen nesta clas d’estudios; y, otramiente, xustifícase la operatividá a efectos
+horiométricos de la identificación xeotipolóxica de variantes «occidentales», «orientales», «axiales»
+y «comunes» en marcu xeográficu citáu. Remito contra estos trés artículos p’aclariar los aspectos
+terminolóxicos y metodolóxicos del análisis y la síntesis horiométriques.
+9 En concreto, les atribuciones xeotipolóxiques y la tabla de cuantificación horiométrica por
+parámetros tán descrites n’Álvarez-Balbuena, Andrés, Suárez & Cueto (2011: 113-116) y n’Andrés,
+Álvarez-Balbuena, Cueto & Suárez (2012: 13-17; 2013: 95, 98-100).
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+208 FERNANDO ÁLVAREZ-BALBUENA GARCÍA
+Pola mor de los límites d’espacio impuestos na publicación d’esti
+volume, véome obligáu a dividir esti trabayu en dos partes y a limitar
+esta primera al estudio d’una selección de los trazos lingüísticos de tipo
+fónicu. Nesta parte la formulación de los fenómenos lingüísticos presén-
+tase xeneralmente en términos diacrónicos, enque dacuando –si resulta
+más operativo– puede optase por presentar una formulación sincrónica.
+Vocalismo
+§ 1. Diftongación o non diftongación de /ɛ/ y /ɔ/
+tóniques del llatín vulgar
+En Fernidiellu la solución xeneral ye la diftongación. Les realizacio-
+nes más frecuentes de los diftongos resultantes son respectivamente [je]
+~ [jɛ] y [wø] ~ [wœ]10: piedra, fierru, piértigu, yerba, yera (< e˘rat), fiestas,
+briespa, martiellu, butiellu, dubiellu, stiella ‘blezna’, gaviella, costiellas,
+ouriéganu; puörta, ruöca, muölas, nuösa, fuölle ‘sacu pa la farina fechu
+col pelleyu d’una cabra o d’una oveya’, fuöra, cuörvos, uöllu < o˘cu˘lu,
+nuöite, fuölla, guöi < ho˘d˘ie, teriruöla ‘tarigüela, pieza del llaviegu que
+val pa regular la fondura del riegu’, miruöń danu, truöb́ anu.
+Como ye común nes fales asturllioneses occidentales, nunes poques
+palabres el resultao procedente de /ɛ/ puede ser [ja], como en yá < e˘st,
+y tamién un hiato [ˈi.a], como en pía < pe˘de, ía < e˘st.
+Polo que se refier a la realización del diftongo procedente de /ɔ/, Gar-
+cía Gil (2002: 29) y Álvarez López (2005: 54) presenten una gama más
+10 Cuando recurro a la notación fonética de fonos y secuencies, faigo uso d’una trescripción
+«ancha» que prescinde de dalgunos matices que nun son pertinentes pa una exposición como esta.
+La notación gráfica básase na ortografía xeneral del asturllionés, y más concretamente na modalidá
+específica que se suel utilizar pa representar l’asturllionés occidental (Asociación Cultural Faceira,
+2012), matizada con dalgunes soluciones que, otramiente, vienen avalaes pola tradición de los
+estudios lingüísticos o pol orixe etimolóxicu de les palabres.
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+NA FRONTERA DEL ASTURLLIONÉS Y EL GALLEGOPORTUGUÉS 209
+amplia de posibilidaes articulatories que –según les mios observaciones–
+respuenden a la fala d’otros llugares forniellos, pero non propiamente a
+la de Fernidiellu. En tou casu, nun tará de más aseñalar que la realiza-
+ción [wø] ~ [wœ] ye la más frecuente en tolos siete llugares de Forniella.
+Atribución xeotipolóxica: l’adiftongación ye xeotipolóxicamente oc-
+cidental y la diftongación ye xeotipolóxicamente oriental11.
+Cuantificación horiométrica12:
++ occidental – oriental 0
+– occidental + oriental 100
+– occidental – oriental 0
++ occidental + oriental 0
+§ 2. Diftongación o non diftongación de /ɛ/ y /ɔ/ tóniques
+en sílaba ciarrada por consonante nasal
+La solución mayoritaria ye la diftongación: diente, caliente, siempre
+~ siempres, tiempu, bien, tamién, quién, alquién; fuönte, puönte, Llama-
+lluönga. Sí qu’así, recuéyense tamién casos de non diftongación: ten ‘P3
+11 Como s’aseñaló un poco más arriba, la manera de determinar les atribuciones xeotipoló-
+xiques de los trazos lingüísticos xeodiferenciales básase exclusivamente na disposición territorial
+de les árees lingüístiques y les isogloses. La manera concreta de determinar caúna d’elles afórrase
+nesti trabayu a fin de nun lu allargar de por más. En tou casu, queda apuntada sumariamente
+n’Andrés, Álvarez-Balbuena, Cueto & Suárez (2012: 8).
+12 Nesta tabla la combinación «+ occidental, – oriental» indica l’atribución al xeótipo oc-
+cidental; «– occidental, + oriental», l’atribución al xeótipo oriental; «– occidental, – oriental»,
+l’atribución axial (quier dicise, l’atribución exclusiva al axis o zona de contacto de los dos xeótipos
+referíos); y «+ occidental, + oriental» indica atribución xeotipolóxica común. La cifra que sigue
+a caúna d’estes combinaciones indica’l repartu percentual qu’alcancen la variante o variantes en
+caún d’esos cuatro parámetros.
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+210 FERNANDO ÁLVAREZ-BALBUENA GARCÍA
+del presente d’indicativo de tener’, ven ‘P3 del presente d’indicativo de
+venir’; alcontra ‘P3 del presente d’indicativo d’alcontrar’.
+Atribución xeotipolóxica: l’adiftongación en sílaba ciarrada por con-
+sonante nasal ye occidental y la diftongación ye oriental.
+Cuantificación horiométrica13:
++ occidental – oriental 25
+– occidental + oriental 75
+– occidental – oriental 0
++ occidental + oriental 0
+§ 3. Existencia d’un sistema de siete o de cinco vocales
+orales en posición tónica
+De magar foi descrito por Babarro González (1994: 104-105), sabemos
+que la diftongación creciente de /ɛ/ y /ɔ/ tóniques nun tien una corres-
+pondencia biunívoca cola existencia d’un sistema de cinco vocales orales,
+y qu’hai fales diftongadores limítrofes que presenten un sistema de siete
+vocales (con oposiciones fonemátiques /ɛ/-/e/ y /ɔ/-/o/).
+13 En casos como esti, nos que coexisten dos resultaos con atribuciones xeotipolóxiques
+diferentes, la puntuación percentual nun se fai computando les ocurrencies concretes recoyíes en
+cada casu, sinón estableciendo una escala de graduación que simplifica les proporciones nestes
+posibilidaes: 0–25–50–75–100. De manera que si la proporción de la solución minoritaria ye
+mayor del 5% y menor o igual al 25% del total de los casos rexistraos, la puntuación na tabla de
+cuantificación será de 25 (y, portanto, la de la solución mayoritaria, de 75); y si la solución mino-
+ritaria supera’l 25% de les ocurrencies, la puntuación arredondiaráse a 50 (colo que coincidirá cola
+puntuación de la solución mayoritaria). Casu de coexistir trés resultaos diverxentes pal mesmu
+fenómeno –y siempre que los dos minoritarios superen el 5% de los rexistros–, les proporciones
+de la tabla simplifíquense en 33–33–33. Les soluciones que nun algamen el 5% despréciense nesti
+modelo de cuantificación horiométrica.
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+NA FRONTERA DEL ASTURLLIONÉS Y EL GALLEGOPORTUGUÉS 211
+Les pruebes efectuaes en Fernidiellu lleven a concluyir que la fala del
+llugar tien un sistema de cinco vocales orales en posición tónica, porque
+los posibles pares mínimos que probaríen la entidá fonemática de vocales
+medio-abiertes y medio-ciarraes (Babarro González, 1994: 104-105) son
+aquí homófonos. Asina, v[ɛ]n ye’l significante tanto de ‘P3 del presente
+d’indicativo de venir’ como de ‘P2 del imperativo de venir’, p[ɛ]gas val
+tanto pa ‘Pica pica ’ como pa ‘inconvenientes, reparos’, y p[ɔ]n ye
+plural
+una realización posible tanto pa ‘P3 del presente d’indicativo de poner’
+como pa ‘P2 del imperativo de poner’.
+Atribución xeotipolóxica: la distinción fonemática de vocales medio-
+abiertes y medio-ciarraes en posición tónica ye occidental, y la indistin-
+ción ye oriental.
+Cuantificación horiométrica:
++ occidental – oriental 0
+– occidental + oriental 100
+– occidental – oriental 0
++ occidental + oriental 0
+§ 4. Existencia o non existencia de vocales nasales
+Vide, más alantre, l’apartao § 20. Enque aparentemente se trata d’un
+fenómeno xeocontrastivu, en verdá ye subsidiariu d’otru («Resultaos de
+-n- intervocálica llatina: pérdiga –coles tresformaciones ulteriores– o
+mantenimientu»), y entra portanto dientro de la categoría de los que
+n’horiometría se denominen fenómenos subcontrastivos o subdiferen-
+ciales, que nun tienen pertinencia nesti nivel d’análisis horiométricu
+(Andrés, Álvarez-Balbuena, Cueto & Suárez, 2012: 14-15).
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+212 FERNANDO ÁLVAREZ-BALBUENA GARCÍA
+§ 5. Conservación o reducción de los diftongos
+decrecientes -ei- y -ou-
+En Fernidiellu mantiénense los diftongos decrecientes -ei- y -ou- de
+manera xeneral: eiros, lleite, feitu, queisu, beisu, teixu, caldeiru, costelleiru
+‘costellar’, sendeiros, cheguéi; llousa (< lausa), vaca lloura ~ vacalloura ‘Lu-
+canus cervus’, tampouco, roupa, dous, fouce, outru, soutu ‘castañéu’, xelóu.
+En posición átona los diftongos decrecientes pueden mantenese (cerei-
+~
+sal, cheirar ‘goler mal’, teitadores, caldeiraos, cordeir os; foucín, toucín, pou-
+sada, chourizos) o reducise (teriruöla; tucín). En sílaba pretónica abierta
+pueden parecer diftongos decrecientes non etimolóxicos, xeneraos dende
+una vocal primitiva palatal (eiglesia) o velar (ouriéganu, ouvella).
+Atribución xeotipolóxica: limitando la valoración a la posición tó-
+nica, el mantenimientu de los diftongos ye occidental y la reducción ye
+común, porque se da n’árees extenses de los dominios gallegoportugués
+y asturllionés.
+Cuantificación horiométrica:
++ occidental – oriental 100
+– occidental + oriental 0
+– occidental – oriental 0
++ occidental + oriental 0
+§ 6. Conservación o reducción del diftongo decreciente
+-ei- na terminación -eira
+La reducción -ei- > -e- limitada a la terminación -eira ye un fenó-
+meno que se rexistra nun área amplia qu’ocupa’l centro y el norte del
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+NA FRONTERA DEL ASTURLLIONÉS Y EL GALLEGOPORTUGUÉS 213
+asturllionés occidental, onde, otramiente, el diftongo -ei- se mantién
+de manera xeneral, mesmamente na terminación -eiru. Esta ye precisa-
+mente la situación que revelen los datos de Fernidiellu: caldera, primera,
+sacavera, montonera, arandanera, figuera ‘figal’, peneras ‘piñeras’, rozadera
+‘que val pa rozar’, ourelleras ‘oreyeres del llaviegu’, garduñeras ‘armadíes
+de fierro pa cazar’, garvancera ‘Rosa canina’, batedera ‘fesoria’, llavan-
+deras ‘Motacilla alba ’, bolera, A Reguera d’Abranéu, Llumeras. Hai
+plural
+qu’aseñalar qu’esta reducción nun afecta solamente los derivaos de la
+terminación llatina -a¯r˘ia, como los vistos hasta qui; tamién se produz
+cuando l’orixe de la terminación ye otru: madera < ma¯te˘r˘ia, entera <
+˘inte˘gra.
+Atribución xeotipolóxica: el mantenimientu del diftongo decreciente
+ye occidental y la reducción ye común.
+Cuantificación horiométrica:
++ occidental – oriental 0
+– occidental + oriental 0
+– occidental – oriental 0
++ occidental + oriental 100
+§ 7. Conservación o reducción del diftongo decreciente -ei-
+procedente del llatín /ɛ/, /e/ + yode
+El diftongo -ei- mantiénse mayoritariamente si procede del contacto
+etimolóxicu de /ɛ/ o /e/ con yode, combinación que n’otres fales más
+septentrionales puede resolvese regularmente na reducción a [e] (Álva-
+rez-Balbuena, 1999). En Fernidiellu rexístrense streitu, foleitos, dereitu,
+teitar, teitadores; pero sí qu’así, en sentíu contrariu, tamién formes como
+enteru o maderu. En casu d’entera y madera (acabante de ver n’apartao
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+214 FERNANDO ÁLVAREZ-BALBUENA GARCÍA
+anterior) resulta difícil determinar si la reducción del diftongo obedez
+a los condicionantes presentaos en § 6 o más bien a los que s’enuncien
+aquí, enque la congruencia del resultao de les formes masculines podría
+apuntar preferentemente a esti otru orixe.
+Atribución xeotipolóxica: el mantenimientu del diftongo decreciente
+ye occidental y la reducción ye común.
+Cuantificación horiométrica:
++ occidental – oriental 50
+– occidental + oriental 0
+– occidental – oriental 0
++ occidental + oriental 50
+§ 8. Ciarramientu metafonéticu de [ˈa] > [ˈɛ], [ˈæ], inducíu por un
+elemento vocálicu precedente (silábicu o asilábicu) d’abertura
+mínima; o mantenimientu de [ˈa]
+Fernidiellu limita con dos llugares ancareses –Vilassomil y Espinhei-
+reda– nos que se produz esta inflexión metafonética (Fernández Gon-
+zález, 1978: 34-35; datos propios). Sí qu’así, a diferencia de la fala de los
+sos vecinos, Fernidiellu desconoz completamente esti fenómeno: cirolal,
+cereisal, caldeiraos, tiranon, repeirar ‘reposar les fogaces primero de dir
+pal fornu’, teitar, cheirar, tirar, escueitar ~ scueitar; llumacos, puñáu,
+pousada, fumando, buscando, axouxar ‘añar, anexar’, allumar, ayudar,
+enchourizar.
+Atribución xeotipolóxica: teniendo en cuenta qu’esta clas d’inflexión
+namás se rexistra nuna zona limitada del occidente peninsular (parte del
+Alto Alentejo y la Beira Baixa, per un llau; y parte del valle d’Ancares,
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+NA FRONTERA DEL ASTURLLIONÉS Y EL GALLEGOPORTUGUÉS 215
+per otru), hai que concluyir que la existencia d’esti ciarramientu meta-
+fonéticu ye occidental y que la so ausencia ye común.
+Cuantificación horiométrica:
++ occidental – oriental 0
+– occidental + oriental 0
+– occidental – oriental 0
++ occidental + oriental 100
+§ 9. Epéntesis vocálica, o ausencia d’epéntesis, ente dos vocales
+de grao mínimu d’abertura
+Na fala de Fernidiellu danse soluciones diverses. Per una parte pro-
+duzse la epéntesis vocálica en casos como trueita ~ truöita, mueitu ~ muöi-
+tu, muei ~ muöi ‘mui’, escueitar ~ scueitar. Y per otra, mantiénense les dos
+vocales altes en contacto n’otros casos como ríu, tíu, ruídu [uˈi] ~ ruidu
+[wi], Luís. Amás, hai que notar que n’adxectivo rin ‘ruin’ producióse la
+reducción de la secuencia vocálica. Aparentemente, la epéntesis limítase
+aquí a los derivaos de les secuencies etimolóxiques -uct-, -u˘lt-. Otra-
+miente, en sílaba átona non siempre se produz la epéntesis, de manera
+qu’al par d’escueitar ~ scueitar tamién s’anotó troiteiru ‘Cinclus cinclus’.
+Atribución xeotipolóxica: la epéntesis vocálica nestes condicio-
+nes ye xeotipolóxicamente oriental: tien incidencia diversa nuna
+zona extensa que va de Conqueiros (Asturies) a Aliste (Zamora) y
+nun se puede considerar axial porque en Llión y Zamora alcanza en
+dalgunos términos los límites orientales del asturllionés. L’ausencia
+d’epéntesis ye común, porque falta al occidente de la zona citada y
+tampoco nun se da na inmensa mayor parte d’Asturies nin en Mi-
+randa del Douru.
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+216 FERNANDO ÁLVAREZ-BALBUENA GARCÍA
+Cuantificación horiométrica:
++ occidental – oriental 0
+– occidental + oriental 50
+– occidental – oriental 0
++ occidental + oriental 50
+§ 10. Neutralización o non neutralización
+de les vocales átones velares y palatales
+Nun s’observen diferencies de significao asociaes a la conmutación
+de [o] y [u], o de [e] y [i] en posición átona, lo qu’obliga a deducir
+que les oposiciones fonemátiques /o/-/u/ y /e/-/i/ –operatives en po-
+sición tónica– tán neutralizaes en sílaba átona. De facto, en posición
+átona [o] y [u], per una parte, y [e] y [i], per otra, alternen frecuen-
+temente sin qu’esa alternancia tea vinculada a cambeos de significao.
+En vocalismo velar final les proporciones d’aparición de -[u] y de
+-[o] finales parecen tar cercanes, mentres qu’en vocalismo palatal fi-
+nal predomina -[e] sobre -[i]. La falta d’oposición significativa vese
+en secuencies como Esto ta sec[o] , frente a El prau ta sec[o]
+neutro mas-
+(que n’asturllionés central esixiríen [o] y [u] respectivamente);
+culino
+o como A leña part[e] bien, frente a ¡Part[e] el trochu!
+indicativo imperativo
+(qu’en munches fales asturllioneses centro-orientales presenten [e] y
+[i] respectivamente).
+Atribución xeotipolóxica: la neutralización de les vocales átones ve-
+lares y palatales ye occidental, mentres que la non neutralización ye
+oriental.
+Cuantificación horiométrica:
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+NA FRONTERA DEL ASTURLLIONÉS Y EL GALLEGOPORTUGUÉS 217
++ occidental – oriental 100
+– occidental + oriental 0
+– occidental – oriental 0
++ occidental + oriental 0
+Consonantismo
+§ 11. Mantenimientu o pérdiga de -d- nos derivaos del llatín -atu
+A diferencia de lo que pasa en llugares cercanos, como Chan y Guí-
+mara, en Fernidiellu la pérdiga de -d- nesta terminación ye sistemática:
+delgáu, chapurriáu, ganáu, macháu ‘hachu, bruesa’, puñáu, prau, llau;
+condanaos, caldeiraos, Rudepraos.
+Atribución xeotipolóxica: el mantenimientu de -d- ye occidental y la
+pérdiga de -d- ye oriental.
+Cuantificación horiométrica:
++ occidental – oriental 0
+– occidental + oriental 100
+– occidental – oriental 0
++ occidental + oriental 0
+§ 12. Mantenimientu o pérdiga de -d- nos derivaos del llatín -e¯tu
+Los exemplos rexistraos en Fernidiellu –toos toponímicos– revelen
+que la solución local ye la pérdiga de la -d-: Abranéu, Mollanéu, Teixéu,
+Piornéu, Sancéu, Fresnéu. A los resultaos del sufixo llatín -e¯tu puede
+asimilase l’adverbio ceu < c˘ito˘.
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+218 FERNANDO ÁLVAREZ-BALBUENA GARCÍA
+Atribución xeotipolóxica: la pérdiga de -d- ye oriental; el mante-
+nimientu tien que se considerar común, por ser xeneral en Galicia y
+Portugal y por tener una presencia xeolingüística minoritaria, pero de
+suficiente entidá en delles zones d’Asturies y Llión.
+Cuantificación horiométrica:
++ occidental – oriental 0
+– occidental + oriental 100
+– occidental – oriental 0
++ occidental + oriental 0
+§ 13. Resultaos ápico-alveolares o palatales de l- inicial
+El resultao fernidiellu mayoritariu de l- inicial ye una consonante
+lateral palatal [ʎ]: llobu, llume ‘fueu’, llingua, llana, llinu, llamber, lla-
+brar, lleite, llousa (< lausa), llumacos, llombu, llastra, llinguaniza, llavar,
+llavanderas, llavazas, lladra, llau, llóndriga, llunes, vaca lloura, A Llista,
+Llagarinos, El Guörtu Llucía, Llamalluönga, Llumeras. La solución [l]
+rexístrase tamién nunos cuantos casos, y en dellos parez que podría
+debese a la influencia del castellano más qu’a la continuidá col área
+occidental de resultaos ápico-alveolares: leña, ladrona, limpiu, liendres,
+luna, lejos, lier, leuguas, Luís.
+Hai qu’aseñalar que l’informador de menos edá ofreció regularmente
+resultaos yeístas.
+Atribución xeotipolóxica: la solución ápico-alveolar ye occidental y
+los resultaos palatales son orientales.
+Cuantificación horiométrica:
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+NA FRONTERA DEL ASTURLLIONÉS Y EL GALLEGOPORTUGUÉS 219
++ occidental – oriental 25
+– occidental + oriental 75
+– occidental – oriental 0
++ occidental + oriental 0
+§ 14. Resultaos ápico-alveolares o palatales de -ll- intervocálica
+El resultao de -ll- ye regularmente [ʎ]: rebollu, mellón ‘vellón de
+llana’, cogolla ‘atao de paya curtio’, polleiru ‘gallineru’, valle, fuölle, aque-
+lla, ella, ellos, eillí, allá, dubiellu, martiellu, butiellu, gaviella, costiellas,
+costelleiru, noyellos ‘güesos salientes del todíu’, Villasecu, Vallinas, A Fon-
+taniella, Forniella, As Siellas, Fernidiellu, Portellín, El Gustellín.
+Hai qu’aseñalar como en puntu anterior que l’informador de menos
+edá dio siempre resultaos yeístas.
+Atribución xeotipolóxica: la solución ápico-alveolar ye occidental y
+los resultaos palatales son orientales.
+Cuantificación horiométrica:
++ occidental – oriental 0
+– occidental + oriental 100
+– occidental – oriental 0
++ occidental + oriental 0
+§ 15. Pérdiga o mantenimientu de -l- intervocálica.
+La fala de Fernidiellu mantién -l- intervocálica: pala, muöla, palos,
+malu, áiguila, xelar, foleitos, salir, molín, culuöbra, calellu, caliente, delan-
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+220 FERNANDO ÁLVAREZ-BALBUENA GARCÍA
+tre, volicu ‘güelu’, culu, adrales, pardales ‘Passer domesticus ’, jabariles
+plural
+‘Sus scrofa ’.
+plural
+Atribución xeotipolóxica: la pérdiga ye occidental y el mantenimien-
+tu ye oriental.
+Cuantificación horiométrica:
++ occidental – oriental 0
+– occidental + oriental 100
+– occidental – oriental 0
++ occidental + oriental 0
+§ 16. Solución de los grupos de lateral más yode:
+-lj-, -llj-, -c’l-, -t’l-, -g’l-
+El resultao d’estos grupos na fala de Fernidiellu ye una consonante
+lateral palatal [ʎ]: fuölla, palla, palleiru, traballar, fillu, muller, andro-
+llas, mallu ‘manal’, mallar, calellu, panolla, abellas, grallas ‘Pyrrhocorax
+pyrrhocorax ’, uöllu, ouvella, vencellos, ourelleras, cavilla, caravilla,
+plural
+cagalla ‘cagaritu d’oveya o de cabra’, gamallu ‘carbayu pequeñu’, torrullos
+‘griñispos, rustiones’, borrallu ‘ceniza’, Brañaviella, rella, o’l sufixo des-
+pectivu -allu < -acu˘lu, presente en palabres como burricallu o xatallos.
+Al empar d’esa solución mayoritaria, anoto dalgún casu de penetración
+del resultao castellanu [x] ~ [χ]: manoju, pioju, vieju.
+García Gil (2002: 32-33), basándose en noticies indirectes, afirma que
+la solución d’estos grupos en Fernidiellu ye una aproximante dorsopala-
+tal sonora [j]. A la vista de la observación directa, faise evidente qu’eses
+noticies indirectes yeren desacertaes y engañoses14.
+14 Como principiu metodolóxicu a la hora d’estudiar la variación lingüística diatópica, les
+noticies indirectes nun habríen merecer más enfotu de la cuenta de parte del lingüista. Sacante’l
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+NA FRONTERA DEL ASTURLLIONÉS Y EL GALLEGOPORTUGUÉS 221
+Como en casu de los resultaos de l- y -ll-, al informador de menos
+edá rexistro-y soluciones yeístas, que nun tengo en cuenta a efectos de
+los cálculos horiométricos.
+Atribución xeotipolóxica: la solución palatal lateral ye occidental y
+les soluciones palatales centrales son orientales.
+Cuantificación horiométrica:
++ occidental – oriental 100
+– occidental + oriental 0
+– occidental – oriental 0
++ occidental + oriental 0
+§ 17. Resultaos de la palatalización del llatín pl-, cl-, fl- iniciales:
+solución africada (o fricativa) prepalatal sorda,
+frente a otros resultaos posibles
+La fala de Fernidiellu presenta dos soluciones diferentes pa estos
+trés grupos. La mayoritaria ye l’africada prepalatal sorda [t̻ ͡ ʃ]: chorar,
+chegar, chover, chenu, chenar, chanu; chave, chamar, chuöza ‘llueza’ (<
+casu de que l’informador indirectu fora criáu en llugar del que da noticia (o polo menos vecín
+a lo llargo d’un tiempu), siempre hai que tratar esos datos con prudencia y dello de reserva. Yo
+tamién andaría engañáu en relación con esti resultao de llegar a aceptar les noticies indirectes
+que me dienon d’él, porque en Chan y en Guímara aseguránonme que la xente de Fernidiellu
+dicía ouvecha. Pero lo cierto ye qu’en Fernidiellu dicen ouvella, non ouvecha, lo qu’amuestra
+la poca fiabilidá que puede llegar a tener tener esta clas d’información, mesmamente cuando
+provién de llugares vecinos. Lo que debió pasar nesti casu ye que los informadores de Guímara
+y Chan, con una conocencia poco precisa del asuntu, debienon escatramundiase y adxudicanon
+la forma propia de los pueblos vecinos de Conqueiros y Degaña (onde sí dicen ouvecha) a la
+fala de Fernidiellu. Llama l’atención que l’error se repita n’informadores de pueblos diferentes,
+lo que val pa recalcar la necesidá de tomar con muncha precaución cualquier clas de testemuñu
+lingüísticu indirectu.
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+222 FERNANDO ÁLVAREZ-BALBUENA GARCÍA
+*clo˘ccea), chuöć aras ‘llueques’ (< clo˘cca + suf.); cheirar. Pero al par
+d’esti resultao, parez tamién la lateral dorsopalatal [ʎ] nunos cuantos
+casos: llanteiru ‘era de plantes de güerta’, llagas, allagánonlos; llama (<
+flamma), llamarada.
+Atribución xeotipolóxica: les soluciones [t̻ ͡ ʃ] y [ʃ] son occidentales;
+los resultaos [ʎ], [t͡ ̺s̺], [t͡ s], [c͡ ʝ] y [j
+̝
+] son orientales.
+Cuantificación horiométrica:
++ occidental – oriental 50
+– occidental + oriental 50
+– occidental – oriental 0
++ occidental + oriental 0
+§ 18. Tratamientu non palatalizador de /p, k, f, b, ɡ/ más [l]:
+mantenimientu de [l] o rotacismo
+Hai una serie de palabres na que la combinación (etimolóxica o ro-
+mance) de /p, k, f, b, ɡ/ con /l/ nun xenera un resultáu palatal. Nestos
+casos en Fernidiellu danse dos soluciones diferentes. La más frecuente
+parez ser el mantenimientu de [l]: platu, clavu, clavóu, flojar ‘facer andar
+p’atrás la pareya al llabrar’, blanda, nublineiru ‘nublina’, tabla, eiglesia.
+Pero’l pasu de [l] a [ɾ] tamién tien presencia: prádamu ‘Acer pseudopla-
+tanus’, cabruñar, Abranéu, Trabada (< ta˘bu˘la¯ta).
+Atribución xeotipolóxica: Les formes rotacistes son occidentales y les
+formes que mantienen [l] son orientales.
+Cuantificación horiométrica:
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+NA FRONTERA DEL ASTURLLIONÉS Y EL GALLEGOPORTUGUÉS 223
++ occidental – oriental 50
+– occidental + oriental 50
+– occidental – oriental 0
++ occidental + oriental 0
+§ 19. Resultaos ápico-alveolares o palatales de -nn-, -mn-
+Rexístrense de nuevo dos soluciones, casimente a la par. D’una parte
+ta’l resultao nasal ápico-alveolar [n]: pena, penón, pequenu, ninos, ninas,
+cabana, canas, canón, peneiraba, peneras. Y de la otra, la nasal palatal [ɲ],
+qu’alcanza una proporción bien alta nun llugar tan occidental como Fer-
+nidiellu: peñascu, cañizu ‘ciebu’, pistañas, añu, astiañu ‘anguaño’; suöñu
+(< so˘mnu), outoñu, escañu.
+Atribución xeotipolóxica: la solución ápico-alveolar ye occidental y
+la solución palatal ye oriental.
+Cuantificación horiométrica:
++ occidental – oriental 50
+– occidental + oriental 50
+– occidental – oriental 0
++ occidental + oriental 0
+§ 20. Resultaos de -n- intervocálica llatina: pérdiga
+(coles tresformaciones ulteriores) o mantenimientu
+García Gil (2002: 33-37), basándose de nuevo en noticies indirectes,
+supón que la solución de -n- en Fernidiellu ye la consonante nasal velar
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+224 FERNANDO ÁLVAREZ-BALBUENA GARCÍA
+[ŋ], y mesmamente llega a dar la palabra mañanha como propia d’esti
+llugar. Igual que se dixo pa § 16, eses noticies son engañoses y nun tienen
+que ver cola realidá, como se va ver de qui p’alantre.
+A fin d’exponer cola mayor claridá posible los resultaos de -n-, voi
+facer una presentación analítica de los datos, distinguiendo determinaes
+posiciones y terminaciones nos qu’esta consonante puede presentar com-
+portamientos diferentes.
+1. Cuando la -n- intervocálica etimolóxica s’alcontraba en sílaba non
+final, la solución propia de Fernidiellu ye’l mantenimientu de [n]. Y eso
+pasa tanto si la [n] ta situada n’interior de lexema como si ta en límite
+lexemáticu: menudu, amanecíu, canal, canalexa, moneda, panolla, llin-
+guaniza, ganáu, granizu, arandanera, manzanal, avellaneiru, espineiru,
+espinazu, montonera, cenar, sanar, tener, venir, poner, encadenar, perdona.
+2. Na terminación -a¯nu tamién se da la conservación de [n]: granu,
+chanu, manu, hermanu, branu, ventanu, solanu, medianu ‘correa cola que
+s’ata’l timón del aráu al xugu’. Y lo mesmo pasa coles formes correspon-
+dientes de plural, procedentes de (o asimilaes a) la terminación llatina
+-a¯nos: granos, chanos, manos, hermanos, branos, Os Chanos.
+3. Tamién hai mantenimientu regular de [n] na terminación átona
+-a˘nu (y les asimilaes a ella), asina como nos plurales correspondien-
+tes: ouriéganu, guöŕ fanu, truöb́ anu, carámbanu, El Cándanu, arándanos,
+miruöń danos, Os Cándanos. En prádamu (< pla˘ta˘nu) hai un cambeo de
+consonantes nasales [n] > [m].
+4. La terminación -a¯na tamién presenta conservación de [n]: llana,
+chana, manzana, grana, mañana, campana, hermana, ventana, xanzana
+‘Gentiana lutea’, cana ‘pelu blancu’, solana, avellana. Y igual pasa col
+plural deriváu de -a¯nas: manzanas, avellanas, chanas, hermanas, ventanas.
+5. En final átonu -a˘na –mui poco frecuente– obsérvase tamién el
+mantenimientu de [n]: sábana.
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+NA FRONTERA DEL ASTURLLIONÉS Y EL GALLEGOPORTUGUÉS 225
+6. La terminación -ane –de diferentes oríxenes etimolóxicos– presen-
+ta la pérdiga de la vocal final y la conservación de la consonante nasal
+en forma de [ŋ] velar final pola mor de los condicionantes fonotácticos
+de la fala –y en xeneral, del asturllionés–: pan, folgazán, galán ‘trebeyu
+que se da a los neños’, feisán ‘Tetrao urogallus’.
+La terminación -anes –tamién d’oríxenes diferentes– amuestra una
+solución distinta: la consonante intervocálica desaparez, nasalizando la
+vocal tónica y produciendo un diftongo decreciente nel que la nasalidá
+puede limitase a la vocal tónica o estendese tamién al elemento semivo-
+~ ~~
+cálicu: [ɑj] ~ [ɑ ]: pãis ‘panes’, folgazãis, charlatãis, galãis, feisãis (Figura
+4). Tamién ye posible l’hiato [ ~ ɑe]: charlatães. Sí qu’así, una excepción a
+esta evolución preséntala’l nome de la capital municipal, Pranzanes (<
+Pe˘tru + *Ant˘ia¯nis, según García Martínez, 1992: 311), que conserva la
+[n] (y que, otramiente, na fala de la propia capital ye Pranzáis). Tampoco
+nun hai pérdiga en casu de dalguna forma verbal que presenta una forma
+análoga a la de les terminaciones nominales en -anes, como sanes ‘P2 del
+presente de subxuntivo de sanar’.
+Polo que dexen ver los pocos casos atropaos, parez que nesti casu la
+pérdiga de -n- y la nasalización vocálica tán limitaes a finales nominales
+que constituyen el morfema de plural de substantivos y adxectivos con
+singulares terminaos en -án.
+7. Na terminación -e¯nu hai mantenimientu de [n]: chenu, centenu.
+Amás, a diferencia de lo que pasa en fales próximes, nun se pierde la
+vocal final. Nuna forma verbal de fechura análoga a la d’esta terminación
+nominal, como ye vieno ‘P3 del indefinío de venir’, tamién se conserva
+la [n] intervocálica.
+Na forma de plural -e¯nos la solución ye idéntica a la del singular:
+chenos.
+8. La conservación de [n] ye tamién regular na terminación -e¯na (y
+formes asimilaes): cadena, chena, cena, avena, vena, docena, colmena, pena
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+226 FERNANDO ÁLVAREZ-BALBUENA GARCÍA
+‘llástima’, alacena. Pasa lo mesmo nos plurales correspondientes: cadenas,
+chenas, colmenas, alacenas.
+9. Tamién hai mantenimientu de [n] na poco frecuente terminación
+átona ´-ena, de la que namás tengo rexistráu un exemplo toponímicu:
+Bárcena.
+10. La suerte de la terminación -ene –d’oríxenes etimolóxicos diver-
+sos– ye diferente dependiendo de si la segunda vocal queda histórica-
+mente en posición final o non. Si queda en posición final, piérdese, y
+la consonante nasal mantiénse en forma de [ŋ] velar final, de manera
+idéntica a lo que pasaba colos finales en -ane. Ye’l casu qu’ilustren pala-
+bres como ten, ven, bien, tamién, sartén.
+Si la segunda e de la terminación -ene- nun queda en posición final,
+hai dos posibilidaes. Per un llau, [n] mantiense en formes verbales como
+tienes, tienen, vienes, vienen. Pero tamién se rexistra la cayida de la conso-
+~
+nante nasal y la nasalización de la vocal tónica precedente (sartees), cola
+~
+posibilidá ulterior de l’asimilación y fusión de les dos vocales [ɛe] nun
+~ ~ ~ ~ ~ ~
+únicu fono [ɛ] o [e]: sartes, sostes, almaces, tres ‘trenes’; o, alternativamen-
+te, del zarramientu y conversión en marxe silábicu del segundu elemen-
+~ ~
+to: sarteis, treis. Nesti casu tamién parez observase que la pérdiga d’ene
+intervocálica y la nasalización vocálica tán limitaes a finales nominales
+que constituyen el morfema de plural d’unidaes con singular en -én.
+11. De la terminación -¯ine nun tengo más qu’un casu constatáu (fin),
+que presenta la pérdiga de la vocal final y el mantenimientu de la con-
+sonante nasal en forma de [ŋ] velar cuando queda en posición final. El
+plural correspondiente -¯ines conserva [n] intervocálica: fines.
+12. La terminación -¯inu (y les que se creen sobre’l so modelo) ta-
+mién presenta más d’una solución. Per una parte, nuna serie de palabres
+produzse la reducción a -ín, na que la consonante nasal s’articula como
+velar [ŋ] en posición final: molín, camín, foucín, toucín ~ tucín, sobrín,
+repolvorín ‘remolín de nieve’, cortín, rin ‘ruin’, cordeirín, perrín, xatín,
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+NA FRONTERA DEL ASTURLLIONÉS Y EL GALLEGOPORTUGUÉS 227
+gatín, hermanín, caminín, pequenín, Portellín. Pero tamién se rexistra
+con dello de frecuencia’l mantenimientu de la terminación como -inu:
+vecinu, espinu, llinu, vinu, a veces mesmamente n’alternancia cola apó-
+cope: toucinu ~ tucinu, sobrinu.
+Na terminación de plural -¯inos (y asimilaes) les posibilidaes son ta-
+mién diverses. En dalgunos casos rexistro l’alternancia de dos resultaos:
+per una parte, la cayida de la consonante nasal y la nasalización de la
+~
+vocal tónica precedente; y per otra, el mantenimientu de [n]: sobr os ~
+~ ~ ~ ~
+sobrinos, cam os ~ caminos, mol os ~ molinos, touc os ~ toucinos, esp os ~
+espinos. N’otros, la terminación -¯inos solamente ofrez la posibilidá del
+mantenimientu de [n]: vecinos, Llagarinos. Y por fin, n’otros casos la
+~ ~ ~
+solución ye - os, con cayida de -n- y nasalización vocálica: cort os, r os
+~ ~ ~ ~ ~ ~
+‘ruinos’, cordeir os, perr os, xat os, campan os, herman os, camin os, peque-
+~
+n os (Figura 6).
+El patrón que parez emerxer d’esti caos aparente de soluciones ye
+que la pérdiga de -n- y la nasalización vocálica se producen nes formes
+flexives que constituyen el morfema de plural de nomes con singular
+~ ~ ~ ~
+en -ín (asina mol os, cam os, r os y el sufixo diminutivu plural - os), con
+dalguna extensión a los plurales de singulares en -inu, que pluralizaríen
+~
+regularmente en -inos (esp os ~ espinos, pero namás vecinos). Otros doble-
+~ ~
+tes (sobr os ~ sobrinos, touc os ~ toucinos) podríen ser les pluralizaciones
+regulares de los respectivos singulares con forma doble (sobrín ~ sobrinu,
+toucín ~ toucinu). Queden por fin dalgunos casos de -inos (caminos ~
+~ ~
+cam os, molinos ~ mol os, plurales alternantes de camín y molín) nos
+qu’habría que suponer una extensión de la solución -inos acullá del so
+contexto inicial.
+13. Nos finales en -¯ina (y nes formes que se construyen sobre’l so
+modelo) rexístrase una solución doble. En dellos casos mantiénse la
+[n] intervocálica: vecina, espina, cecina, cortina ‘iría, cortinal’, farina; y
+n’otros produzse la pérdiga de la consonante nasal y la nasalización de la
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+228 FERNANDO ÁLVAREZ-BALBUENA GARCÍA
+~
+vocal tónica precedente, como en r a ‘ruina’ y nel mui frecuente sufixo
+~ ~ ~ ~ ~ ~ ~ ~
+diminutivu - a: cas a, gat a, potr a, regueir a, ventan a, man a, vecin a,
+~
+pequen a (cola excepción, sí qu’así, del topónimu Portellina, qu’enque
+presenta sufixo diminutivu, mantién [n] intervocálica).
+Na terminación de plural -¯inas (y formes asimilaes) los resultaos son
+idénticos: conservación de [n] en dalgunos casos (vecinas, espinas, cecinas,
+cortinas); y cayida de -n- y nasalización de la vocal precedente n’otros,
+~ ~ ~
+ente los que tán l’adxectivo r as ‘ruinas’ y el sufixo diminutivu - as (cas as,
+~ ~
+gat as, regueir as), tamién con dalgún casu toponímicu que se comporta
+en sentíu contrariu (Vallinas).
+La doble solución parez relacionase de nuevo cola flexividá morfoló-
+xica de les unidaes afectaes: cuando los derivaos de -¯ina(s) constituyen
+el morfema de feminino correspondiente a formes masculines en -ín, el
+~
+resultao ye la cayida de -n- y la nasalización vocálica (rin → r a, sufixo
+~
+-ín → - a). Pero cuando les unidaes nun presenten flexión de xénero (ce-
+cina, cortina15, farina), la [n] mantiénse. Y tamién se mantién si, teniendo
+flexión de xénero, correspuenden a formes masculines en -inu (vecinu
+→ vecina, espinu → espina).
+Polo que se refier a les excepciones toponímiques de Portellina y Va-
+llinas –a les qu’habría qu’añidir Llagarinos del puntu anterior–, hai que
+tener en cuenta que, con too y con ser formes derivaes por sufixación,
+toes trés tienen en común ser topónimos sin artículo inmobilizaos mor-
+folóxicamente, lo que les diferencia del resto de casos de los sos grupos,
+nos que les terminaciones que presenten cayida de -n- y nasalidá vocálica
+son formes flexives que constituyen el morfema de feminino (o de plu-
+ral) de los masculinos (o singulares) correspondientes. Asina entós, estes
+15 Enque cortina y cortín compartan raíz etimolóxica y proceso de formación derivativa,
+sincrónicamente son dos palabres independientes que nun s’alcuentren en relación de flexión de
+xénero y que presenten significaos bien diversables: mentres que cortina designa un conxunto de
+tierres que se llabren, cortín ye una cerca de piedra pa defender los truébanos.
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+NA FRONTERA DEL ASTURLLIONÉS Y EL GALLEGOPORTUGUÉS 229
+excepciones podríen ser el resultao de la mesma condición morfolóxica
+–la non flexividá– que xustifica otros casos de mantenimientu de -n-.
+14. Nes terminaciones -o˘nu, -o˘nos, -o˘na -o˘nas rexístrase’l mante-
+nimientu de [n]: buönu, buönos, buöna, buönas.
+15. Nos finales en -o¯na rexístrense dos soluciones diferentes. Per una
+parte, hai mantenimientu de [n] en casos como corona, persona, ladro-
+na, patrona; y n’otru grupu de palabres produzse la cayida de -n- y la
+nasalización de la vocal qu’antecede, como en casõa, mullerõa, culobrõa,
+zampõa, comilõa, A Casõa, A Regueirõa, A Pena Picõa. Na terminación
+de plural correspondiente, -o¯nas, los resultaos son idénticos: ladronas,
+personas frente a casõas, mullerõas, zampõas, comilõas.
+Nesta terminación obsérvase tamién qu’hai condiciones morfoló-
+xiques que propicien la pérdiga de -n- y la nasalización vocálica. Sí
+qu’así, nesti casu parez que nun se trata de la flexividá de xénero: ente
+les palabres que conserven la [n] intervocálica tán formes con flexión
+xenérica como ladrona o patrona. Nos finales en -o¯na(s) parez que lo
+relevante ye distinguir ente cuando la terminación tien carácter sufixal
+y cuando nun lu tien: si la terminación ye sufixo, piérdese -n- y la vocal
+precedente nasaliza; cuando nun ye sufixo, tolos exemplos rexistraos
+presenten conservación de [n]16.
+16 Apesar de la claridá de les evidencies atropaes, nun quiero dexar de notar qu’estes palabres
+que mantienen [n] podríen ser toes d’incorporación seronda a la fala de Fernidiellu: persona
+y patrona son voces cultes; ladrona (y ladrón) ye un castellanismo frecuente n’asturllionés oc-
+cidental; y corona puede ser tamién un términu (re)importáu porque, fuera de la toponimia,
+ye una palabra que mantién [n] en munches fales gallegoportugueses cercanes (Santamarina,
+2003; datos propios). Si s’acepta’l carácter advenedizu d’estes palabres, la restricción sufixal de la
+cayida de -n- na terminación -o¯na(s) probablemente sería tamién una limitación relativamente
+nueva, reformulada dende una situación anterior –presumiblemente asemeyada a la de les otres
+terminaciones– pola mor de la incorporación d’unidaes nueves que nun s’acomoden a los con-
+dicionamientos existentes primero.
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+230 FERNANDO ÁLVAREZ-BALBUENA GARCÍA
+16. Na terminación -o¯ne cae la vocal final y la consonante nasal con-
+sérvase en forma de [ŋ] velar en posición final: timón, montón, rapazón,
+paredón, penón, cantón ‘piedra grande’, pradón, homecón ‘homón’, El
+Corralón.
+Pela so parte, la terminación plural -o¯nes (y les asimilaes a ella) pre-
+senta sistemáticamente la desaparición de -n- y la nasalización de la vocal
+tónica precedente, lo que nesti casu produz un diftongo decreciente nel
+que la nasalidá puede limitase a la vocal tónica o estendese al elemento
+~ ~ ~
+semivocálicu: [ɔj] ~ [ɔ ]: riñõis, timõis, razõis, pantalõis, camiõis, mon-
+tõis, ratõis, pontõis, rapazõis, paredõis, penõis, pradõis, homecõis, tragõis,
+zampõis.
+De mano, podría parecer asimilable a esta terminación el casu de
+pones < po¯nis, pero ello ye qu’esta forma verbal mantién la [n] inter-
+vocálica.
+Nos exemplos expuestos vese que la cayida de -n- y la nasalización
+consiguiente afecta tanto finales sufixales como non sufixales. Otramien-
+te, los casos axuntaos son toos de morfema de plural nominal correspon-
+diente a singulares en -ón.
+17. La terminación -u¯nu puede reducise a -ún, y la consonante nasal
+conservase en forma de [ŋ] velar en posición final: ún, dalgún ~ algún,
+abrún. Pero en dalgún casu tamién puede conservase como [n] si hai
+mantenimientu de la vocal final: abrunu.
+El plural correspondiente -u¯nos presenta pérdiga de -n- y nasali-
+zación vocálica cuando correspuende al singular reducíu -ún, enque la
+solución nun ye la etimolóxicamente esperable de la cayida de -n- en
+~ ~ ~~ ~ ~~
+-u¯nos, sinón una forma -uis [ˈu.is̺] ~ [ˈu. s̺] ~ [ujs̺] ~ [u s̺], producida
+~
+por cruciamientu o analoxía cola terminación -õis derivada de -o¯nes: uis,
+~ ~ ~
+dalguis ~ alguis, abruis (Figures 4 y 5). Sí qu’así, cuando correspuende a
+un singular en -unu, mantiénse’l derivao etimolóxicu de -u¯nos con [n]
+conservada: abrunos.
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+NA FRONTERA DEL ASTURLLIONÉS Y EL GALLEGOPORTUGUÉS 231
+18. En cuanto a la terminación -u¯na, produzse la cayida de -n- y la
+nasalización de la vocal tónica precedente nos cuantificadores indefiníos
+~ ~ ~
+ua17 y dalgua ~ algua, pero non n’otres como cagalluna ‘cagayón d’una
+caballería’. Otres palabres que conserven -n-, como tribuna, fortuna y
+luna, parecen ser d’incorporación más tardiega a la fala de Fernidiellu: les
+dos primeres son voces doctes y luna parez ser una forma castellanizante,
+como yá s’apuntó en § 13.
+Na terminación plural -u¯nas nun s’aprecien diferencies de compor-
+~ ~ ~
+tamientu en relación al singular: uas, dalguas ~ alguas frente a cagallunas.
+De los pocos exemplos reuníos, parez deducise que la pérdiga con
+nasalización vocálica ta limitada a les terminaciones flexives que cons-
+tituyen el morfema de feminino correspondiente a masculinos acabaos
+en -ún.
+19. Na terminación -u¯ne, mui poco frecuente, cae la vocal final y
+la consonante nasal mantiénse en forma de [ŋ] velar en posición final:
+común.
+La terminación -u¯nes tamién ye mui poco frecuente y ofrez el resul-
+tao de [n] mantenida: comunes. Esa mesma solución ye la que presenta
+la voz de final asimilable llunes < (dies) lu¯nis.
+Amás de les procedencies vistes, na fala de Fernidiellu les vocales
+nasales pueden tener otru orixe: na combinación de vocal más [ŋ] final
+de palabra –de cualquier procedencia– puede producise la nasalización
+de la vocal y la pérdiga de la consonante final:
+~
+V[ŋ]# > V#
+17 Constaté la forma u ~ a munchísimes veces, y tengo la seguranza de qu’esa ye la forma normal
+del basilecto de los mios informadores. Con too, mui esporádicamente rexistré con claridá una
+variante [ˈu~ ŋɐ], qu’acasu pudiera ser importada d’otros llugares de Forniella y usase como forma
+mesolectal.
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+232 FERNANDO ÁLVAREZ-BALBUENA GARCÍA
+Esti proceso nun parez sistemáticu, de manera que la nasalización
+vocálica con pérdiga de la consonante nasal final alterna cola conserva-
+ción de -[ŋ] y el mantenimientu de la vocal oral (enque trabada por [ŋ]
+~
+la vocal tamién puede nasalizase dacuando): alg[ˈuŋ] ~ alg[ˈu], traig[ɑŋ]
+~ ~ ~
+~ traig[ɑ], com[eŋ] ~ com[e].
+A la vista de la situación descrita hasta qui, quedaría por determinar
+si les vocales nasales tienen entidá fonemática o non na fala de Fernidie-
+llu. Esti problema tendrá que ser tratáu más a fondo nuna investigación
+de carís específicamente fonolóxicu, pero puedo adelantrar que se rexis-
+tren pares opositivos mínimos qu’indiquen qu’hai oposición fonemática
+basada na presencia o ausencia del trazu de nasalidá vocálica (Figura 6):
+r ~ os ‘ruinos’ / ríos
+tre ~ s ‘trenes’ / trés
+sõis ‘sones’ / sois
+traigã ‘traigan’/ traiga
+Por fin, hai qu’aseñalar que’l mantenimientu de les vocales nasales
+ye variable ente los subxectos entrevistaos: mentres qu’en dalgún de los
+informadores yera regular o prácticamente regular, otros alternaben les
+vocales nasales coles correspondientes orales y, finalmente, l’informador
+de menos edá ofreció mui pocos resultaos nasalizaos.
+L’análisis anterior dexa ver una situación mixta y de non fácil siste-
+matización en cuanto a los resultaos de -n- intervocálica. Vese de mano
+que la pérdiga de -n- y la nasalización vocálica consiguiente penetren
+de manera limitada na fala de Fernidiellu, que convién recordar que ye
+una población vecina d’otres trés –Lumeiras, Vilassomil y Espinheireda,
+n’Ancares– nes que’l fenómeno ye casimente regular (Alonso & García
+Yebra, 1959; Fernández González, 1978, 1981; datos propios). La cayida
+de -n- y la nasalización vocálica tán presentes en Fernidiellu de manera
+defectiva, limitaes a ciertes terminaciones tóniques nes que’l proceso
+fonéticu nun opera de manera sistemática porque ta sometíu a restric-
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+NA FRONTERA DEL ASTURLLIONÉS Y EL GALLEGOPORTUGUÉS 233
+ciones diverses de tipo morfolóxicu, dependiendo de si la terminación
+ye nominal o non, flexiva o non, sufixal o non. Les terminaciones afec-
+taes son -anes, -enes, -o¯nes, -¯inos, -u¯nos, -¯ina(s), -o¯na(s) y -u¯na(s), y
+los condicionamientos que restrinxen la cayida de -n- y la nasalización
+vocálica resúmense na tabla 1:
+-anes > -enes > -o¯nes > -¯inos > -u¯nos > -¯ina(s) >-o¯na(s) >-u¯na(s) >
+-ãis -~es, -~eis -õis -~ os -u~is -~ a(s) -õa(s) -u~a(s)
+Restricción
+categorial + + + + + + + +
+[+ nominal]
+Restricción
+morfemática + + + + + + – +
+[+ flexivo]
+Restricción
+morfemática – – – – – – + –
+[+ sufixal]
+Tabla 1: Restricciones morfolóxiques que condicionen la desaparición de -n-
+y la nasalización vocálica en caúna de les terminaciones nes qu’opera’l proceso
+na fala de Fernidiellu (Forniella).
+La limitación de l’acción d’esti fenómeno a unes cuantes terminacio-
+nes recuerda muncho lo qu’ocurre na fala cercana de Conqueiros –nos
+conceyos asturianos de Degaña y Íbias–, na que, con too, la cayida de
+-n- nun ta sometida a restricciones morfolóxiques nes terminaciones
+afectaes (Menéndez García, 1950: 365-366; 1951: 285-286; Rodríguez-
+Castellano, 1951: 106-107; Catalán, 1956: 87; Krüger, 1957: 19-21; Fer-
+nández, 1960: 36; Menéndez García, 1963: 118-119; Catalán, 1974: 320;
+Babarro González, 1994: 94-96; 2003: 94-97; datos propios). Amás, eses
+terminaciones son cuasi coincidentes en Fernidiellu y en Conqueiros,
+enque nun dexa d’haber dalguna diferencia. Sí qu’así, en contraste colo
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+234 FERNANDO ÁLVAREZ-BALBUENA GARCÍA
+que pasa en Fernidiellu, en Conqueiros nun queda resclavu ningún de
+l’antigua nasalización vocálica que tuvo que se producir al empar de la
+pérdiga de -n- intervocálica, pero que se sumió más tarde.
+La -n- intervocálica presenta una triple solución nos cuatro lluga-
+res que componen la Forniella estricta (Guímara, Chan, Trescastru y
+Pranzáis) y que tán situaos precisamente ente Fernidiellu y Conqueiros.
+En casu forniellu eses soluciones son la consonante nasal velar [ŋ], el
+mantenimientu de [n] y la pérdiga de -n- sin nasalización vocálica
+(Alonso & García Yebra, 1959: 312; García Gil, 2002: 34-37; Álvarez
+López, 2005: 63; datos propios). Dexando pa otra ocasión l’exame de
+los dos primeros resultaos, la coincidencia cola situación de Fernidie-
+llu vien dada pol facto de que nestos cuatro llugares de Forniella la
+pérdiga de -n- tamién se produz en dalgunes terminaciones, por más
+qu’aquí la cayida o la conservación de la consonante ta condicionada
+pola contorna fónica (Alonso & García Yebra, 1959: 312; García Gil,
+2002: 36-37) y que les terminaciones afectaes pola pérdiga nun son les
+mesmes que les de Fernidiellu.
+Otramiente, la coexistencia de les dos soluciones vistes en Ferni-
+diellu (mantenimientu de -n- y pérdiga con nasalización vocálica) nun
+ye inusitada en panorama de les fales limítrofes ente l’asturllionés y el
+gallegoportugués. De facto, vuelve alcontrase más al sur, en pueblu de
+Ruidenore –situáu a los dos llaos de la frontera política hispanoportu-
+guesa, ente la provincia de Zamora y el districtu de Bergancia–, enque
+aquí son cinco les soluciones de -n- intervocálica: [n] conservada, [ɲ],
+[ŋ], pérdiga con nasalización vocálica y pérdiga con desnasalización
+vocálica (Krüger, 1925: 139-141; Vasconcellos, 1929: 748-749; Dias &
+Carvalho, 1955: 18-21; Santos, 1967: 213-216; Cruz, Saramago & Vitori-
+no, 1994: 285). Aparentemente, la particularidá qu’impón la situación
+d’una fala xusto en mesmu frente de contacto de dos xeótipos lingüís-
+ticos (o más específicamente pa esti casu, la particularidá qu’impón la
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+NA FRONTERA DEL ASTURLLIONÉS Y EL GALLEGOPORTUGUÉS 235
+contigüidá a la isoglosa de la conservación o la pérdiga de -n-) propicia
+l’aparición de soluciones mixtes que parecen responder a condicionan-
+tes relativamente asemeyaos, por más que –como acontez en casu de
+Fernidiellu y Ruidenore– esos resultaos se produzan a cien quilómetros
+de distancia en lliña recta y ensin qu’heba contacto ningún ente una
+comunidá humana y la otra.
+Atribución xeotipolóxica: la pérdiga de -n- (cola nasalización vocálica
+consiguiente mantenida o non) ye occidental, y el mantenimientu ye
+oriental.
+Cuantificación horiométrica:
++ occidental – oriental 50
+– occidental + oriental 50
+– occidental – oriental 0
++ occidental + oriental 0
+§ 21. Formación del grupu romance -m’n- (> -m-), frente a la non
+formación d’esi grupu por cayida previa de la -n- intervocálica
+En Fernidiellu rexístrase siempre un resultao -m- procedente del
+grupu -m’n-: semar, allumar, cocu allumador ‘cocu de lluz, insecto de la
+familiaLampyridae’, Llumeras.
+Atribución xeotipolóxica: la non formación de grupu consonánticu
+pola cayida previa de -n- (tipo semear) ye occidental; y la formación
+del grupu consonánticu -m’n- –coles sos evoluciones ulteriores– (tipo
+semar) ye oriental.
+Cuantificación horiométrica:
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+236 FERNANDO ÁLVAREZ-BALBUENA GARCÍA
++ occidental – oriental 0
+– occidental + oriental 100
+– occidental – oriental 0
++ occidental + oriental 0
+§ 22. Conservación o palatalización de la consonante dental
+nos grupos consonánticos -ct-, u˘-lt-
+Los exemplos atropaos amuestren que la solución mayoritaria de
+Fernidiellu ye la conservación de la consonante dental: feitu, lleite, nuöi-
+te, anuöite, trueita ~ truöita, troiteiru, streitu, dereitu, teitar, teitadores,
+foleitos; muöitu ~ mueitu, escueitar ~ scueitar. Con too, rexistro tamién
+un casu de palatalización: cuchiellu.
+Atribución xeotipolóxica: el mantenimientu de la consonante dental
+ye occidental y les soluciones palatalizaes son orientales.
+Cuantificación horiométrica:
++ occidental – oriental 75
+– occidental + oriental 25
+– occidental – oriental 0
++ occidental + oriental 0
+§ 23. Palatalización o non palatalización de la consonante sibilante
+en grupu consonánticu -sj-
+La fala de Fernidiellu presenta como solución regular una consonante
+fricativa apicoalveolar sorda: queisu, beisu, cereisa, carqueisa ‘Pterospartum
+tridentatum’.
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+NA FRONTERA DEL ASTURLLIONÉS Y EL GALLEGOPORTUGUÉS 237
+Atribución xeotipolóxica: les formes con resultaos prepalatales [ʒ, ʃ]
+son occidentales; les formes que presenten soluciones non palatales (al-
+veolares o dentales) son orientales.
+Cuantificación horiométrica:
++ occidental – oriental 0
+– occidental + oriental 100
+– occidental – oriental 0
++ occidental + oriental 0
+§ 24. Lambdacismo (y posibles resultaos ulteriores) de -p-, -b-, -t-,
+-d-, -f-, -w- na xuntura con otra consonante, xeneralmente por causa
+d’una síncopa vocálica; o falta de lambdacismo (y xeneralmente de
+síncopa vocálica)
+Apesar de qu’esti lambdacismo nun ta totalmente ausente del ga-
+llegoportugués (Williams, 1994: 118; Ferreiro, 1996: 166), lo cierto que
+nun númbero curiosu de casos los resultaos d’estos grupos amuestren
+configuraciones xeocontrastives que oponen un área occidental a otra
+oriental. Los exemplos d’esti tipo que rexistro en Fernidiellu son lleldar,
+coldu y nalga.
+Atribución xeotipolóxica: l’ausencia de lambdacismo (y la falta de
+síncopa vocálica) ye occidental; y la creación d’una secuencia de lateral
+implosiva más consonante (cola posible vocalización o rotización ulterior
+de la lateral) ye oriental.
+Cuantificación horiométrica:
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+238 FERNANDO ÁLVAREZ-BALBUENA GARCÍA
++ occidental – oriental 0
+– occidental + oriental 100
+– occidental – oriental 0
++ occidental + oriental 0
+Síntesis y valoración de la cuantificación horiométrica
+Finalmente, sumando’l total de los cómputos horiométricos co-
+rrespondientes a los fenómenos lingüísticos xeocontrastivos acabantes
+d’examinar, podemos establecer una primera cuantificación horiométrica
+sintética de la fala de Fernidiellu, que será necesariamente parcial y pro-
+visoria, al tar limitada a una selección de solamente ventitrés fenómenos
+fónicos.
+De los cálculos fechos resulta una proporción xeotipolóxica ma-
+yoritaria de tipo oriental (58 %), siguida d’una proporción occidental
+del 29 % y d’una proporción común del 13 %18 (Tabla 2). Los fenó-
+menos seleccionaos nesta primer parte nun dienon pie a l’aparición
+d’atribuciones axiales.
+Si se considera lícito extrapolar la cuantificación obtenida con estos
+pocos fenómenos, podría dicise que la fala de Fernidiellu presenta en
+plano fonético-fonolóxicu una mayoría de componente xeotipolóxicu
+oriental que, al empar, coexiste con una proporción bien significativa de
+componente occidental. Esa mayor proporción oriental (58 %) supera
+con llargura la metá del total y dobla la cifra del componente occidental
+18 Téngase presente qu’esta «proporción común» nun se refier a la base lingüística compartida
+polos xeótipos occidental y oriental, que ye mui superior. Refierse solamente a la proporción de
+trazos comunes a entrambos xeótipos naquellos fenómenos xeocontrastivos que presenten al
+empar manifestaciones diferenciales y non diferenciales (o comunes).
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+NA FRONTERA DEL ASTURLLIONÉS Y EL GALLEGOPORTUGUÉS 239
+(29 %), que, otramiente, sobrepasa abondo la cuarta parte del total. La
+suma de les propociones xeotipolóxiques oriental y común alcanzaría’l
+71 %, y la de les proporciones occidental y común llegaría al 42 %.
+Tabla 2: Cuantificación horiométrica parcial de la fala de Fernidiellu sobre la base de 23
+fenómenos xeocontrastivos de tipo fónicu. Na tabla amuéstrense les proporciones xeotipo-
+lóxiques «occidental» (= + occidental, – oriental), «oriental» (= – occidental, + oriental),
+«axial» (= – occidental, – oriental) y «común» (= + occidental, + oriental) que resulten
+de la suma de los cómputos horiométricos de cada fenómeno.
+REFERENCIES BIBLIOGRÁFIQUES
+Alonso & García Yebra (1959) = Dámaso Alonso & Valentín García Yebra,
+«El gallego-leonés de Ancares y su interés para la dialectología portuguesa», en III Co-
+lóquio Internacional de Estudos Luso-Brasileiros. Lisboa – 1957. Actas, Lisboa, vol. I, 1959,
+páxs. 309-339.
+Alvar (1999) = Manuel Alvar, Atlas lingüístico de Castilla y León, [Valladolid]
+(Junta de Castilla y León – Consejería de Educación y Cultura), 1999.
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+240 FERNANDO ÁLVAREZ-BALBUENA GARCÍA
+Álvarez «Caruso» & Rodríguez Díaz (2012) = José Álvarez «Caruso» & Jesús
+Rodríguez Díez, El Anhueite de Chan, 2012.
+Álvarez López (2005) = Alejandro Álvarez López, El Burón. La jerga de los ven-
+dedores y albarderos ambulantes de Forniella. Ponferrada & Uviéu (Instituto de Estudios
+Bercianos & Academia de la Llingua Asturiana), 2005.
+Álvarez-Balbuena (1999) = Fernando Álvarez-Balbuena García, Dereto, es-
+treto, foleto: un proceso de reducción del ditongo ei en galego-asturiano, n’Actas das
+Primeiras Sesióis d’Estudio del Occidente (Castripol, 8 d’agosto de 1998), Uviéu (Academia
+de la Llingua Asturiana – Secretaría Llingüística del Navia-Eo), 1999, páxs. 87-91.
+Álvarez-Balbuena, Andrés, Suárez & Cueto (2011) = Fernando Álvarez-
+Balbuena García, Ramón de Andrés Díaz, Xosé Miguel Suárez Fernández &
+María Cueto Fernandez, «La “horiometría” o dialectometría de frontera», en IX
+Congreso Internacional de Lingüística General. 21-23 de junio de 2010. Universidad de
+Valladolid. Actas del congreso, [Valladolid & Burgos] (Universidad de Valladolid, Junta
+de Castilla y León, Instituto Castellano y Leonés de la Lengua, Ayuntamiento de Va-
+lladolid & Diputación de Valladolid), 2011, páxs. 107-134.
+Andrés, Tolosa, Mozún & Sánchez Regueira (1957) = M. S. Andrés Caste-
+llanos, P. Tolosa, M. Mozún & I. Sánchez Regueira, «Límites de palatales en el
+Alto León», en Álvaro Galmés de Fuentes & Diego Catalán M[enénde]z Pidal (dirs.),
+Trabajos sobre el dominio románico leonés, Madrid (Editorial Gredos), vol. i, 1957, páxs.
+23-39.
+Andrés, Álvarez-Balbuena, Cueto & Suárez (2012) = Ramón de Andrés
+Díaz, Fernando Álvarez-Balbuena García, María Cueto Fernández & Xosé
+Miguel Suárez Fernández, «Frontières linguistiques et horiométrie. La transition
+linguistique de l’interfluve Eo-Navia (Asturies) et le projet ETLEN», en Xosé Afonso
+Álvarez Pérez, Ernestina Carrilho & Catarina Magro (eds.), Proceedings of the Inter-
+national Symposium on Limits and Areas in Dialectology (LimiAr). Lisbon, 2011, Lisboa
+(Centro de Linguística da Universidade de Lisboa), 2012, páxs. 1-21.
+Andrés, Álvarez-Balbuena, Cueto & Suárez (2013) = Ramón de Andrés Díaz,
+Fernando Álvarez-Balbuena García, María Cueto Fernández & Xosé Miguel
+Suárez Fernández, «About the Concept of “Geodifferential Feature” between Lin-
+guistic Varieties in Contact», n’Ernestina Carrilho, Catarina Magro & Xosé Álvarez
+(eds.), Current Approaches to Limits and Areas in Dialectology, Newcastle upon Tyne
+(Cambridge Scholars Publishing), 2013, páxs. 85-122.
+Asociación Cultural Faceira (2012) = Asociación Cultural Faceira, Xurdir.
+Guía gramatical de leonés, Llión (Asociación Cultural Faceira), 2012.
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+NA FRONTERA DEL ASTURLLIONÉS Y EL GALLEGOPORTUGUÉS 241
+Babarro González (1994) = Xoán Babarro González, «A fronteira lingüística
+do galego co asturiano. Delimitación e caracterización das falas de transición dos con-
+cellos de Navia, Villallón, Allande e Ibias», en Francisco Fernández Rei (ed.), Lingua
+e cultura galega de Asturias. Actas das Ias Xornadas da Lingua e da Cultura Galega de As-
+turias: Na busca das raíces da Terra Navia-Eo. Homenaxe a Dámaso Alonso. Organizadas
+pola MDGA (Mesa prá Defensa del Galego de Asturias e da Cultura da Comarca). Grandas
+de Salime, 15-16 Decembro 1990, Vigo (Edicións Xerais de Galicia), 1994, páxs. 81-148.
+Babarro González (2003) = Xoán Babarro González, Galego de Asturias. De-
+limitación, caracterización e situación sociolingüística, [Corunha] (Fundación Pedro Ba-
+rrié de la Maza), vol. i, 2003.
+Cano González (1998) = Ana M[arí]a Cano González, «L’asturianu n’El Bier-
+zu. A propósitu del ALBI», Lletres Asturianes, 69 (1998), páxs. 7-25.
+Catalán (1954) = Diego Catalán, «Resultados ápico-palatales y dorso-palatales
+de -ll-, -nn- y de ll- (< l-) nn- (< n-)», Revista de Filología Española, 38 (1954), páxs.
+1-44.
+Catalán (1956) = Diego Catalán Menéndez-Pidal, «El asturiano occidental.
+Examen sincrónico y explicación diacrónica de sus fronteras fonológicas (i)», Romance
+Philology, 10 (1956), páxs. 71-92.
+Catalán (1957) = Diego Catalán Menéndez-Pidal, «El Asturiano Occidental.
+Examen sincrónico y explicación diacrónica de sus fronteras fonológicas», Romance
+Philology, 11 (1957), páxs. 120-158.
+Catalán (1974) = Diego Catalán, Lingüística íbero-románica. Crítica retrospecti-
+va, Madrid (Editorial Gredos), 1974.
+Catalán & Galmés (1954) = Diego Catalán & Álvaro Galmés, «La diptonga-
+ción en leonés», Archivum, 4 (1954), páxs. 87-147.
+Comisión de Estadística General del Reino (1858) = Comisión de Estadísti-
+ca General del Reino, Nomenclátor de los pueblos de España, formado por la Comisión
+de Estadística General del Reino, Madrid (Imprenta Nacional), 1858.
+Crespo Álvarez & Andina Yanes (2008) = María Trinidad Crespo Álvarez
+& Jovino Andina Yanes (dirs.), Aportación al Vocabulario Popular de la Comarca Ber-
+ciana –Homenaje al Magisterio–, Ponferrada (Instituto de Estudios Bercianos), 2008.
+Cruz, Saramago & Vitorino (1994) = Luísa Segura da Cruz, João Saramago
+& Gabriela Vitorino, «Os dialectos leoneses em território português: coesão e di-
+versidade», en Variação linguística no espaço, no tempo e na sociedade. Actas do encontro
+regional da Associação Portuguesa de Linguística. Miranda do Douro. Setembro de 1993,
+Lisboa (Associação Portuguesa de Linguística & Edições Colibri), 1994, páxs. 281-293.
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+242 FERNANDO ÁLVAREZ-BALBUENA GARCÍA
+Dias & Carvalho (1955) = Jorge Dias & J[osé Gonçalo Chorão] Herculano
+de Carvalho, O falar de Rio de Onor, Coimbra ([Universidade de Coimbra] – Facul-
+dade de Letras), 1955.
+Dirección General del Instituto Geográfico, Catastral y de Estadística
+(1933) = Dirección General del Instituto Geográfico, Catastral y de Estadís-
+tica, Nomenclátor de las ciudades, villas, lugares, aldeas y demás entidades de población
+de España formado por la Dirección General del Instituto Geográfico, Catastral y de Esta-
+dística con referencia al 31 de diciembre de 1930. Provincia de León, Madrid (Hijos de M.
+G. Hernández), 1933.
+Dirección General del Instituto Geográfico y Estadístico (1893) = Di-
+rección General del Instituto Geográfico y Estadístico, Nomenclátor de las
+ciudades, villas, lugares, aldeas y demas entidades de población de España en 1.º de enero
+de 1888, formado por la Dirección General del Instituto Geográfico y Estadístico. Cuaderno
+veinticinco. Provincia de León, Madrid (Imprenta de la Dirección General del Instituto
+Geográfico y Estadístico), 1893.
+Dirección General del Instituto Geográfico y Estadístico (1915) = Di-
+rección General del Instituto Geográfico y Estadístico, Nomenclátor de las
+ciudades, villas, lugares, aldeas y demás entidades de población de España formado por la
+Dirección General del Instituto Geográfico y Estadístico con referencia al 31 de diciembre de
+1910. Provincia de León, Madrid (Talleres del Instituto Geográfico y Estadístico), 1915.
+Domínguez Yáñez (2001) = José Manuel Domínguez Yáñez, Valle de Fornela,
+2001.
+Fernández (1960) = Joseph A. Fernández, El habla de Sisterna, Madrid (Conse-
+jo Superior de Investigaciones Científicas), 1960.
+Fernández (1979-1980) = Joseph A. Fernández, «Aportación al estudio del bable
+de Occidente: El habla de Villarín (Salas): i. Fonología y morfosintaxis», Revista de
+Dialectología y Tradiciones Populares, 35 (1979-1980), páxs. 33-66.
+Fernández González (1978) = J[osé] R[amón] Fernández González, Etnogra-
+fía del Valle de Ancares. Estudio lingüístico según el método «Palabras y Cosas», [Santiago
+de Compostela] (Universidad de Santiago de Compostela), 1978.
+Fernández González (1981) = José Ramón Fernández González, El habla de
+Ancares (León), Oviedo (Universidad de Oviedo), 1981.
+Ferreiro (1996) = Manuel Ferreiro, Gramática Histórica Galega (manual), San-
+tiago de Compostela (Edicións Laiovento), 1996.
+García y García (1984) = Jesús García y García, «Los límites lingüísticos en el
+Bierzo Vistos en la Toponimia», Tierras de León, 56 (1984), páxs. 77-88.
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+NA FRONTERA DEL ASTURLLIONÉS Y EL GALLEGOPORTUGUÉS 243
+García y García (1994) = Jesús García y García, Pueblos y ríos bercianos (signi-
+ficado e historia de sus nombres), 1994.
+García y García (1997) = Jesús García y García, «Los límites históricos entre
+el gallego y el asturiano-leonés en el Bierzo», Lletres Asturianes, 64 (1997), páxs. 7-20.
+García y García (2011) = Jesús García y García, Glosario temático crítico y eti-
+mológico de las hablas de El Bierzo, 2011.
+García Gil (2002) = Héctor García Gil, «Aspeutos fónicos de la fala de Fornie-
+lla. Estructura fonolóxica y caracterización», Lletres Asturianes, 79 (2002), páxs. 25-42.
+García Martínez (1992) = Javier García Martínez, El significado de los pueblos
+de León, 1992.
+González (1829) = Tomás González, Censo de poblacion de las Provincias y Parti-
+dos de la Corona de Castilla en el siglo XVI con varios apéndices para completar la del resto
+de la Península en el mismo siglo, y formar juicio comparativo con la del anterior y siguien-
+te, segun resulta de los libros y registros que se custodian en el Real Archivo de Simancas,
+Madrid (Imprenta Real), 1829.
+González Pérez (2002) = Clodio González Pérez, «Aspectos lingüísticos
+e tecnolóxicos do val de Fornela», en Xosé Manuel González Reboredo, Luis Cos-
+ta Vázquez-Mariño & Clodio González Pérez, Nos lindeiros da galeguidade. Estudio
+antropolóxico do val de Fornela (etnohistoria, etnomusicoloxía, etnografía), Santiago de
+Compostela (Consello da Cultura Galega), 2002, páxs. 435-694.
+González Reboredo (2002) = Xosé Manuel González Reboredo, «Econo-
+mía, sociedade e cultura no val de Fornela. Pasado, pasado próximo e presente», en
+Xosé Manuel González Reboredo, Luis Costa Vázquez-Mariño & Clodio González
+Pérez, Nos lindeiros da galeguidade. Estudio antropolóxico do val de Fornela (etnohistoria,
+etnomusicoloxía, etnografía), Santiago de Compostela (Consello da Cultura Galega),
+2002, páxs. 23-327.
+Gutiérrez Tuñón (1996) = Manuel Gutiérrez Tuñón (dir.), Atlas Lingüístico
+de El Bierzo (ALBI). Volumen I. Léxico (1), [Ponferrada] (Instituto de Estudios Bercia-
+nos), 1996.
+Gutiérrez Tuñón (2002) = Manuel Gutiérrez Tuñón (dir.), Atlas Lingüístico
+de El Bierzo (ALBI). Volumen I. Léxico (2), [Ponferrada] (Instituto de Estudios Bercia-
+nos), 2002.
+Instituto Nacional de Estadística (195?) = Instituto Nacional de Estadís-
+tica, Nomenclátor de las ciudades, villas, lugares, aldeas y demás entidades de población de
+España formado por el Instituto Nacional de Estadística con referencia al 31 de diciembre
+de 1950. Provincia de León, Madrid (Sucesores de Rivadeneyra), 195?
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+244 FERNANDO ÁLVAREZ-BALBUENA GARCÍA
+Instituto Nacional de Estadística (1973) = Instituto Nacional de Esta-
+dística, Censo de la población de España de 1970. Nomenclátor de las ciudades, villas,
+lugares, aldeas y demás entidades de población. Provincia de León. Tomo IV-24, Madrid
+(Imprenta Nacional del Boletín Oficial del Estado), 1973.
+Instituto Nacional de Estadística (1990) = Instituto Nacional de Estadís-
+tica, Padrón municipal de habitantes 1986. Nomenclátor de las ciudades, villas, lugares,
+aldeas y demás entidades de población con especificación de sus núcleos. León, Madrid
+(I[nstituto] N[acional de] E[stadística] Artes Gráficas), 1990.
+Instituto Nacional de Estadística (2014) = Instituto Nacional de Esta-
+dística, Nomenclátor: Población del Padrón Continuo por Unidad Poblacional, Madrid
+(Instituto Nacional de Estadística) [consulta: 20 de marzo del 2014], disponible en
+World Wide Web: <http://www.ine.es/nomen2/index.do?accion=busquedaRapida&s
+ubaccion=&numPag=0&ordenAnios=ASC&nombrePoblacion=fresnedelo&botonBu
+squedaRapida=Consultar+selecci%F3n>.
+Krüger (1925) = F[ritz] Krüger, «Mezcla de dialectos», n’Homenaje ofrecido a
+Menéndez Pidal. Miscelánea de estudios lingüísticos, literarios e históricos, Madrid (Libre-
+ría y Casa Editorial Hernando), vol. ii, 1925, páxs. 121-166.
+Krüger (1957) = F[ritz] Krüger, «Notas de dialectología asturiana comparada»,
+Boletín del Instituto de Estudios Asturianos, 30 (1957): 3-48.
+Madoz (1847) = Pascual Madoz, Diccionario geográfico-estadístico-histórico de
+España y sus posesiones de ultramar, Madrid (La Ilustración. Est. Tipográfico-Literario
+Universal), vol. viii, 1847.
+Martínez Fernández (1994) = Primitivo Martínez Fernández (ed.), Efeméri-
+des y semblanzas fariegas, León (Editorial Evergráficas), 1994.
+Menéndez García (1950) = Manuel Menéndez García, «Cruce de dialectos
+en el habla de Sisterna (Asturias)», Revista de Dialectología y Tradiciones Populares, 6:
+355-402.
+Menéndez García (1951) = Manuel Menéndez García, «Algunos límites dia-
+lectales en el occidente de Asturias», Boletín del Instituto de Estudios Asturianos, 14:
+277-299.
+Menéndez García (1963) = Manuel Menéndez García, El Cuarto de los Valles
+(Un habla del occidente asturiano), Oviedo (Instituto de Estudios Asturianos), vol. i,
+1963.
+Miñano (1826) = Sebastián de Miñano, Diccionario geográfico-estadístico de Es-
+paña y Portugal, Madrid (Imprenta de Pierart-Peralta), vol. iv, 1826.
+Ramón Gurdiel (1998) = Salomé Ramón Gurdiel, El Valle de Fornela, 1998.
+RFA 14 (2014) páx. 199-245 [ISSN: 1578-9853]
+
+NA FRONTERA DEL ASTURLLIONÉS Y EL GALLEGOPORTUGUÉS 245
+Rodríguez-Castellano (1951) = [Lorenzo Rodríguez-]C[astellano], «Notas
+bibliográficas: “Menéndez García, Manuel. Cruce de dialectos en el habla de Sisterna
+(Asturias), en Revista de Dialectología y Tradiciones Populares, t. vi. 1950, 355-401”»,
+Boletín del Instituto de Estudios Asturianos, 12 (1951), páxs. 105-107.
+Santamarina (2003) = Antón Santamarina (ed.), Diccionario de diccionarios.
+Versión 3.0 (edición dixital en cd-rom), [Corunha] (Fundación Pedro Barrié de la
+Maza), 2003.
+Santos (1967) = Maria José de Moura Santos, Os falares fronteiriços de Trás-
+os-Montes, Coimbra (Faculdade de Letras da Universidade de Coimbra – Instituto de
+Estudos Românicos), 1967.
+Seco Orosa (1998) = Ana Seco Orosa, «O trazado da fronteira do galego na
+provincia de León», Estudios Bercianos, 24 (1998), páxs. 32-47.
+Seco Orosa (2001) = Ana Seco Orosa, «Determinación da fronteira lingüística
+entre o galego e o leonés nas provincias de León e Zamora», Revista de Filología Romá-
+nica, 18 (2001), páxs. 73-102.
+Seco Orosa (2004) = Ana Seco Orosa, «O trazado da fronteira oriental do gale-
+go en León e Zamora», en Rosario Álvarez Blanco, Francisco Fernández Rei & Antón
+Santamarina (eds.), A Lingua Galega: historia e actualidade. Actas do I Congreso Inter-
+nacional, 16-20 de setembro de 1996, Santiago de Compostela, Santiago de Compostela
+(Consello da Cultura Galega & Instituto da Lingua Galega), vol. 4, 2004, páxs. 415-
+463.
+Valcarze, Vello, Perez, Noboa, Guiraldez & Alvárez (1752) = Lorenzo de
+Valcarze Mendoza, Anttonio Vello, Domingo Perez, Luis Anttonio de No-
+boa, [Agustín] Guiraldez & Fran[cis]co de Alvárez, Respuestas deel R[ea]l Interro-
+gatorio de el Lugar de Fresnedelo, 1752 [consulta: 20 de marzo del 2014], disponible en
+World Wide Web: <http://pares.mcu.es/Catastro/>.
+Vasconcellos (1929) = J[osé] Leite de Vasconcellos, «Breve estudo dos falares
+de Riodonor e Guadramil», n’Opúsculos. Volume IV. Filologia (parte II), Coimbra (Im-
+prensa da Universidade), 1929, páxs. 739-790.
+Williams (1994) = Edwin Bucher Williams, Do latim ao português. Fonologia e
+morfologia históricas da língua portuguesa, Rio de Janeiro (Edições Tempo Brasileiro),
+1994.
+
+Figura 1: Mapa de Fernidiellu y la so contorna.
+
+Figura 2: Fernidiellu (Forniella) el 13 d’abril del 2014. Atrás y arriba del too,
+L’Altu de Llamalluenga, de 1.856 metros.
+
+Figura 3: Adoración Rodríguez Ramón (Fernidiellu, 1927).
+
+ˈ ũ i s̺ ˈ p ɑ̃ j ̃ s̺
+Figura 4: Sonograma de la secuencia [ˈũis̺ ˈpɑ̃js̺̃] na voz d’Adoración Rodríguez Ramón, fechu con ayuda de l’aplicación Praat
+(versión 5.3.35), deseñada por Paul Boersma y David Weenink y disponible en World Wide Web: <http://www.fon.hum.uva.nl/
+praat/>. La trescripción fonética ye ancha y simplifica dalgunos detalles.
+
+ɑ l ˈ ɰ ũ ĩ s̺
+Figura 5: Sonograma de la secuencia [ɑlˈɰũĩs̺] na voz d’Adoración Rodríguez Ramón, fechu cola aplicación Praat
+(versión 5.3.35). La trescripción fonética ye ancha y simplifica dalgunos detalles.
+
+ˈ r ĩ u s̺
+ˈ r i u s̺
+Figura 6: Sonogramas contrastaos de les secuencies [ˈrĩus̺] y [ˈrius̺] na voz d’Adoración
+Rodríguez Ramón, fechos cola aplicación Praat (versión 5.3.35). La trescripción fonética
+ye ancha y simplifica dalgunos detalles.
+
+ˈ s̺ ɔ̃ j ̃ s̺
+ˈ s̺ o j s̺
+Figura 7: Sonogramas contrastaos de les secuencies [ˈs̺ɔ̃js̺̃] y [ˈs̺ojs̺] na voz d’Adoración
+Rodríguez Ramón, fechos cola aplicación Praat (versión 5.3.35). La trescripción fonética
+ye ancha y simplifica dalgunos detalles.
+
+Figura 8: Fernidiellu (Forniella) el 13 d’abril del 2014.
+
