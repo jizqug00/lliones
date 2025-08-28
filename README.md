@@ -24,7 +24,7 @@ El proyecto combina la **creación de datasets propios**, su limpieza y estructu
     │ └── Testing_Models.ipynb # Evaluación
     │
     ├── Resultados/ # Resultados de evaluación de los modelos
-    │ ├── Modelos Corpus/ # Resultados con Dataset Corpus
+    │ ├── Modelos corpus/ # Resultados con Dataset Corpus
     │ └── Modelos dict-tr/ # Incluye resultados de 12 modelos entrenados
     │
     └── README.md
