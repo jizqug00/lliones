@@ -2,7 +2,7 @@
 
 Este repositorio contiene el trabajo desarrollado en el marco del **Trabajo de Fin de Máster (TFM)** centrado en la recopilación, procesamiento y modelado de recursos lingüísticos en **llionés (leonés)**.  
 
-El proyecto combina la **creación de datasets propios**, su limpieza y estructuración, junto con la **entrenación y evaluación de modelos de lenguaje** usando frameworks modernos en Google Colab.  
+El proyecto combina la **creación de datasets propios**, su limpieza y estructuración, junto con el **entrenamiento y evaluación de modelos de lenguaje** usando frameworks modernos en Google Colab.  
 
 **Máster en Robótica e Inteligencia Artificial**
 
@@ -20,14 +20,14 @@ El proyecto combina la **creación de datasets propios**, su limpieza y estructu
     ├── Memoria/ # Proyecto Overleaf en LaTeX (documento principal del TFM)
     │
     ├── Notebooks/ # Google Colab notebooks
-    │ ├── Training_Models.ipynb
-    │ └── Testing_Models.ipynb
+    │ ├── Training_Models.ipynb # Entrenamiento
+    │ └── Testing_Models.ipynb # Evaluación
     │
     ├── Resultados/ # Resultados de evaluación de los modelos
-    │ ├── Modelos Corpus/
-    │ └── Modelos dict-tr/ # Incluye resultados de 9 modelos entrenados
+    │ ├── Modelos Corpus/ # Resultados con Dataset Corpus
+    │ └── Modelos dict-tr/ # Incluye resultados de 12 modelos entrenados
     │
-    └── README.md # Este archivo
+    └── README.md
 ```
 
 
@@ -38,13 +38,13 @@ El proyecto combina la **creación de datasets propios**, su limpieza y estructu
 El proyecto ha requerido la **construcción de datasets originales** a partir de múltiples fuentes.  
 
 ### 1. 📖 Corpus
-Ubicado en `Dataset/corpus/`, incluye:
+Ubicado en `Dataset/corpus/`, está el dataset [`unileon-robotics/lliones-corpus`](https://huggingface.co/datasets/unileon-robotics/lliones-corpus), el cual incluye:
 - Textos literarios, etnográficos y académicos en llionés.
 - Procesados a partir de **PDFs**, **OCR** y **web scraping**.
 - Organización en **chunks de texto plano** listos para su uso en modelado.
 
 ### 2. 🗂️ Dict-TR
-Ubicado en `Dataset/dict-tr/`, contiene el dataset [`unileon-robotics/lliones-dict-tr`](https://huggingface.co/unileon-robotics/lliones-dict-tr).  
+Ubicado en `Dataset/dict-tr/`, contiene el dataset [`unileon-robotics/lliones-dict-tr`](https://huggingface.co/datasets/unileon-robotics/lliones-dict-tr).  
 
 Este dataset recopila pares *Input-Output* con traducciones, significados y vocabulario leonés-español.  
 
@@ -75,7 +75,7 @@ El dataset **Llionés - Base de Datos Lingüística** recopila y organiza inform
 
 Los modelos se han entrenado en **Google Colab** utilizando la librería [Unsloth](https://github.com/unslothai/unsloth).  
 
-- **Dataset usado:** `dict-tr` (pares Input-Output).  
+- **Dataset usado:** `lliones-dict-tr` (pares Input-Output).  
 - **Modelos base:** Qwen2.5 en distintas configuraciones (0.5B, 1.5B, 3B).  
 - **Épocas:** 1, 3 y 5.  
 - **Técnicas:** Fine-tuning y evaluación en formato GGUF.  
@@ -83,18 +83,48 @@ Los modelos se han entrenado en **Google Colab** utilizando la librería [Unslot
 Los **notebooks principales** se encuentran en la carpeta `Notebooks/`:
 - `Training_Models.ipynb`: entrenamiento de los modelos.  
 - `Testing_Models.ipynb`: evaluación y análisis.  
+- `Server_Script.py`: entrenamiendo en Servidor de la ULE.
 
 ---
 
-## 📈 Resultados
+# 📁 Resultados y modelos
 
-Los resultados de evaluación se encuentran en la carpeta `Resultados/`.  
-
-- `Modelos dict-tr/`: incluye los experimentos con 9 modelos (Qwen2.5 en tamaños 0.5B, 1.5B y 3B; entrenados con 1, 3 y 5 épocas).  
-- Cada modelo contiene sus métricas en formato `.csv` y `.json` (`lliones_eval_summary`).  
-- Se incluyen distintas variantes de cuantización (F16 y Q5_K_M).  
+**Los resultados de evaluación se encuentran en la carpeta `Resultados/`.**
 
 ---
+
+## 🧪 Modelos `dict-tr/`
+Incluye los experimentos con **12 modelos** de **Qwen2.5**:
+
+- **9** entrenados en **Google Colab**  
+  - Tamaños: **0.5B, 1.5B, 3B**  
+  - Épocas: **1, 3, 5** (todas las combinaciones)
+- **3** entrenados en el **servidor de la universidad**  
+  - Tamaños: **0.5B, 1.5B, 3B**  
+  - Épocas: **3**
+
+### 📊 Métricas y formatos
+- Cada modelo incluye métricas en **`.csv`** y **`.json`** (`lliones_eval_summary`).
+- Se proporcionan variantes de cuantización: **F16** y **Q5_K_M**.
+
+---
+
+## 📚 Modelos `corpus/`
+Contiene un **`README.md`** explicando los resultados obtenidos y detalles del corpus.
+
+---
+
+## 🏆 Modelos con mejores resultados (publicados en Hugging Face)
+Los mejores modelos (tamaños **0.5B**, **1.5B** y **3B**) están disponibles junto con sus variantes **GGUF**:
+
+| Tamaño | Modelo | GGUF |
+|:------:|:------:|:----:|
+| 0.5B | [Trasgu-0.5B](https://huggingface.co/unileon-robotics/Trasgu-0.5B) | [Trasgu-0.5B-GGUF](https://huggingface.co/unileon-robotics/Trasgu-0.5B-GGUF) |
+| 1.5B | [Trasgu-1.5B](https://huggingface.co/unileon-robotics/Trasgu-1.5B) | [Trasgu-1.5B-GGUF](https://huggingface.co/unileon-robotics/Trasgu-1.5B-GGUF) |
+| 3B | [Trasgu-3B](https://huggingface.co/unileon-robotics/Trasgu-3B) | [Trasgu-3B-GGUF](https://huggingface.co/unileon-robotics/Trasgu-3B-GGUF) |
+
+> ℹ️ Cada repositorio incluye información, instrucciones de uso y los archivos necesarios para la inferencia en su respectivo formato.
+
 
 ## 📑 Memoria
 
