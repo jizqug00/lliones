@@ -21,7 +21,8 @@ El proyecto combina la **creación de datasets propios**, su limpieza y estructu
     │
     ├── Notebooks/ # Google Colab notebooks
     │ ├── Training_Models.ipynb # Entrenamiento
-    │ └── Testing_Models.ipynb # Evaluación
+    │ ├── Testing_Models.ipynb # Evaluación
+    │ └── Server_Script.py # Entrenamiento en Servidor ULE
     │
     ├── Resultados/ # Resultados de evaluación de los modelos
     │ ├── Modelos corpus/ # Resultados con Dataset Corpus
