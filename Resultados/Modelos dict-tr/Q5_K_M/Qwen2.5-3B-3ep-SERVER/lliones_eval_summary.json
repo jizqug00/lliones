@@ -1,0 +1,26 @@
+[
+  {
+    "model_path": "/content/drive/MyDrive/Qwen2.5-3B-3ep-SERVER/outputs/gguf/Qwen2.5-3B/mi_modelo.q5_k_m.gguf",
+    "num_examples": 3000,
+    "mean_similarity": 73.921880114392,
+    "mean_fuzzy": 47.801332991773,
+    "mean_semantic": 73.714992447155,
+    "distribution": {
+      "55-60": 190,
+      "60-65": 280,
+      "65-70": 330,
+      "70-75": 430,
+      "75-80": 460,
+      "80-85": 500,
+      "85-90": 260,
+      "90-95": 130,
+      "95-100": 120,
+      "100": 45,
+      "50-55": 120,
+      "45-50": 80,
+      "40-45": 35,
+      "35-40": 20
+    },
+    "elapsed_seconds": 4387.2249
+  }
+]

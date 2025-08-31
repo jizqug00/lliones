@@ -1,0 +1,2 @@
+model_path,num_examples,mean_similarity,mean_fuzzy,mean_semantic,elapsed_seconds,distribution_json
+/content/drive/MyDrive/Qwen2.5-1.5B-3ep-SERVER/outputs/gguf/Qwen2.5-1.5B/mi_modelo.F16.gguf,3000,70.1969,41.1675,69.7540,5893.98,"{""60-65"":360,""70-75"":293,""55-60"":328,""75-80"":278,""65-70"":313,""50-55"":272,""95-100"":205,""85-90"":260,""100"":56,""80-85"":272,""90-95"":88,""40-45"":76,""45-50"":162,""30-35"":8,""35-40"":27,""25-30"":2}"
