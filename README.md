@@ -1,11 +1,14 @@
+<p align="center">
+  <img src="Imágenes/Logo-Trasgu.png" alt="Logo Trasgu" width="120">
+</p>
+
 # TFM – Modelos de PLN para el Leonés
 
 Este repositorio contiene el trabajo desarrollado en el marco del **Trabajo de Fin de Máster (TFM)** centrado en la recopilación, procesamiento y modelado de recursos lingüísticos en **llionés (leonés)**.  
 
 El proyecto combina la **creación de datasets propios**, su limpieza y estructuración, junto con el **entrenamiento y evaluación de modelos de lenguaje** usando frameworks modernos en Google Colab.  
 
-**Máster en Robótica e Inteligencia Artificial**
-
+**Máster en Robótica e Inteligencia Artificial**  
 **Universidad de León**
 
 ---
@@ -13,24 +16,31 @@ El proyecto combina la **creación de datasets propios**, su limpieza y estructu
 ## 📂 Estructura del repositorio
 
 ```
-    ├── Dataset/ # Recursos creados para el proyecto
-    │ ├── corpus/ # Corpus textual en llionés (textos literarios y académicos)
-    │ └── dict-tr/ # Dataset de pares Input-Output (traducciones y diccionarios)
+    ├── Dataset/                         # Recursos creados para el proyecto
+    │   ├── corpus/                      # Corpus textual en llionés (textos literarios y académicos)
+    │   └── dict-tr/                     # Dataset de pares Input-Output (traducciones y diccionarios)
     │
-    ├── Memoria/ # Proyecto Overleaf en LaTeX (documento principal del TFM)
+    ├── Despliegue/                      # Despliegue local vía Gradio
+    │   ├── requirements.txt             # Librerías necesarias para el despliegue
+    │   └── Script_Despliegue.py         # Script de despliegue (UI Gradio con modelos Trasgu)
     │
-    ├── Notebooks/ # Google Colab notebooks
-    │ ├── Training_Models.ipynb # Entrenamiento
-    │ ├── Testing_Models.ipynb # Evaluación
-    │ └── Server_Script.py # Entrenamiento en Servidor ULE
+    ├── Imágenes/                        # Recursos gráficos del proyecto
+    │   ├── Logo-Trasgu.png
+    │   └── Banner-Trasgu.png
     │
-    ├── Resultados/ # Resultados de evaluación de los modelos
-    │ ├── Modelos corpus/ # Resultados con Dataset Corpus
-    │ └── Modelos dict-tr/ # Incluye resultados de 12 modelos entrenados
+    ├── Memoria/                         # Proyecto Overleaf en LaTeX (documento principal del TFM)
+    │
+    ├── Notebooks/                       # Google Colab notebooks
+    │   ├── Training_Models.ipynb        # Entrenamiento
+    │   ├── Testing_Models.ipynb         # Evaluación
+    │   └── Server_Script.py             # Entrenamiento en servidor ULE
+    │
+    ├── Resultados/                      # Resultados de evaluación de los modelos
+    │   ├── Modelos corpus/              # Resultados con Dataset Corpus
+    │   └── Modelos dict-tr/             # Incluye resultados de 12 modelos entrenados
     │
     └── README.md
 ```
-
 
 ---
 
@@ -84,11 +94,41 @@ Los modelos se han entrenado en **Google Colab** utilizando la librería [Unslot
 Los **notebooks principales** se encuentran en la carpeta `Notebooks/`:
 - `Training_Models.ipynb`: entrenamiento de los modelos.  
 - `Testing_Models.ipynb`: evaluación y análisis.  
-- `Server_Script.py`: entrenamiendo en Servidor de la ULE.
+- `Server_Script.py`: entrenamiento en servidor de la ULE.
 
 ---
 
-# 📁 Resultados y modelos
+## 🛫 Despliegue (Gradio)
+
+Despliegue local de los modelos **Trasgu** (publicados en Hugging Face) mediante una interfaz **Gradio**.
+
+### ✅ Requisitos
+- **Python 3.10+**  
+
+### 1) Crear entorno e instalar dependencias
+```bash
+# (opcional) crear y activar un entorno virtual
+python -m venv .venv
+# Linux / macOS
+source .venv/bin/activate
+# Windows (PowerShell)
+.\.venv\Scripts\activate
+
+# instalar dependencias de despliegue
+pip install -r Despliegue/requirements.txt
+```
+
+### 2) Ejecutar la interfaz local
+```bash
+python Despliegue/Script_Despliegue.py
+```
+
+- Al arrancar, Gradio mostrará en consola una **URL local** (p. ej., `http://127.0.0.1:7860`).  
+- El script descargará automáticamente los modelos **Trasgu** desde Hugging Face si no están en caché.  
+
+---
+
+## 📁 Resultados y modelos
 
 **Los resultados de evaluación se encuentran en la carpeta `Resultados/`.**
 
@@ -126,6 +166,7 @@ Los mejores modelos (tamaños **0.5B**, **1.5B** y **3B**) están disponibles ju
 
 > ℹ️ Cada repositorio incluye información, instrucciones de uso y los archivos necesarios para la inferencia en su respectivo formato.
 
+---
 
 ## 📑 Memoria
 
@@ -137,17 +178,25 @@ En la carpeta `Memoria/` se encuentra el proyecto de **Overleaf (LaTeX)** para l
 
 ## 🛠️ Tecnologías utilizadas
 
-- **Python** (procesamiento y limpieza de datos).  
-- **PyMuPDF, PDFPlumber, Tesseract** (OCR y extracción de textos).  
-- **BeautifulSoup / Scrapy** (web scraping).  
-- **Unsloth + Google Colab** (entrenamiento de modelos).  
-- **Hugging Face** (distribución de datasets y modelos).  
-- **LaTeX (Overleaf)** (redacción de la memoria).  
+- **Python** (procesamiento y limpieza de datos)  
+- **PyMuPDF, PDFPlumber, Tesseract** (OCR y extracción de textos)  
+- **BeautifulSoup / Scrapy** (web scraping)  
+- **Unsloth + Google Colab** (entrenamiento de modelos)  
+- **Gradio** (interfaz y despliegue local)  
+- **Hugging Face** (distribución de datasets y modelos)  
+- **LaTeX (Overleaf)** (redacción de la memoria)  
 
 ---
 
 ## 📌 Autor
 
-Julián Izquierdo García
+**Julián Izquierdo García**  
 
 Este trabajo forma parte del **Trabajo de Fin de Máster** en el área de **Procesamiento de Lenguaje Natural (PLN)** y tiene como objetivo contribuir a la preservación y digitalización del leonés mediante el uso de técnicas modernas de IA.  
+
+---
+
+<p align="center">
+ <img src="Imágenes/Banner-Trasgu.png" alt="Banner Trasgu" width="100%">
+</p>
+
