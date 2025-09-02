@@ -21,27 +21,27 @@ def load_model(size: str, quant: str) -> Llama:
         repo_id = MODEL_REPOS[size]
         filename = QUANTIZATION_FILES[quant]
         print(f"🔄 Cargando modelo {repo_id}/{filename} ...")
-        
+
         _loaded[key] = Llama.from_pretrained(
             repo_id=repo_id,
             filename=filename,
-            chat_format="qwen",      # handler válido en llama.cpp
-            n_ctx=8192,              # ajusta si necesitas más/menos contexto
+            chat_format="qwen",
+            n_ctx=4096,
             n_threads=os.cpu_count() or 4,
-            n_gpu_layers=0,          # CPU puro
+            n_gpu_layers=-1,
             verbose=False,
         )
-
     return _loaded[key]
 
+# ===== SIN HISTORIAL (para el modelo), PERO ACUMULANDO EN UI =====
 def generate(user_message, history, size, quant, temperature, max_new_tokens, system_prompt):
     llm = load_model(size, quant)
 
-    # Conversación estilo Qwen/ChatML
-    messages = [{"role": "system", "content": system_prompt}]
-    if history:
-        messages.extend(history)  # [{role, content}, ...]
-    messages.append({"role": "user", "content": user_message})
+    # El modelo solo ve system + user (sin historial):
+    messages = [
+        {"role": "system", "content": system_prompt},
+        {"role": "user", "content": user_message},
+    ]
 
     partial = ""
     for chunk in llm.create_chat_completion(
@@ -53,6 +53,7 @@ def generate(user_message, history, size, quant, temperature, max_new_tokens, sy
         delta = chunk["choices"][0]["delta"].get("content") or ""
         if delta:
             partial += delta
+            # En la UI, sí acumulamos las rondas previas:
             yield history + [
                 {"role": "user", "content": user_message},
                 {"role": "assistant", "content": partial},
@@ -66,17 +67,17 @@ with gr.Blocks() as demo:
     with gr.Row():
         # Columna izquierda (logo arriba, luego sidebar)
         with gr.Column(scale=1, min_width=280):
-            # Logo FUERA de la barra lateral, encima
             gr.Image("Imágenes/Logo-Trasgu.png", show_label=False)
 
             # Barra lateral con controles
             with gr.Group():
+                gr.Markdown("<h3 style='margin: .25rem 0 .5rem 45px;'>Configuración recomendada</h3>")
                 size = gr.Radio(
-                    ["0.5B", "1.5B", "3B"], value="0.5B",
+                    ["3B", "1.5B", "0.5B"], value="3B",
                     label="Tamaño del modelo"
                 )
                 quant = gr.Radio(
-                    ["F16", "Q5"], value="F16",
+                    ["F16","Q5"], value="F16",
                     label="Cuantización"
                 )
                 temperature = gr.Slider(
@@ -95,7 +96,6 @@ with gr.Blocks() as demo:
                 msg = gr.Textbox(placeholder="Escribe aquí…", scale=5, show_label=False)
                 send = gr.Button("Enviar", variant="primary", scale=1)
 
-            # System prompt plegable (cerrado por defecto)
             with gr.Accordion("System prompt", open=False):
                 system_prompt = gr.Textbox(
                     value="Eres Trasgu, un Diccionario/Traductor experto en leonés.",
@@ -103,7 +103,7 @@ with gr.Blocks() as demo:
                     show_label=False,
                 )
 
-            # Eventos (streaming + limpiar caja)
+            # Eventos: generar y limpiar caja (SIN resetear el chat)
             msg.submit(
                 generate,
                 [msg, chatbot, size, quant, temperature, max_tokens, system_prompt],
