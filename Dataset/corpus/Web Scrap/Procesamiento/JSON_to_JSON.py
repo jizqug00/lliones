@@ -8,7 +8,7 @@ from typing import List, Dict
 # ====== RUTAS (AJUSTA) ======
 BASE_JSON       = r"C:\Users\usuario\Desktop\Corpus\Documentos\corpus_asturlliones_sentences.json"  # JSON base (sentences)
 OUT_JSON        = r"C:\Users\usuario\Desktop\Corpus\Documentos\corpus_asturlliones.json"            # base + añadidos
-OUT_ADDED_JSON  = r"C:\Users\usuario\Desktop\Corpus\Documentos\nuevos_registros_fuentes.json"       # SOLO añadidos
+OUT_ADDED_JSON  = r"C:\Users\usuario\Desktop\Corpus\Documentos\WebScrap_asturlliones.json"       # SOLO añadidos
 
 ARTICULOS_GQ = r"C:\Users\usuario\Desktop\Corpus\Documentos\json\articulos_gonzalez_quevedo.json"
 LEYENDAS     = r"C:\Users\usuario\Desktop\Corpus\Documentos\json\leyendas_leonesas.json"
